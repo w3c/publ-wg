@@ -54,8 +54,8 @@
 	    	}
 	  	};
 
+		xhr.open("GET", "https://www.w3.org/blog/dpub/category/activity-news/feed/", true);
 		// xhr.open("GET", "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/dpub/category/activity-news/feed/", true);
-		xhr.open("GET", "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/dpub/category/activity-news/feed/", true);
 	  	xhr.withCredentials = false;
 	  	xhr.send(null);
 	} catch (e) {
