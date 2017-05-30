@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # WebEx information for regular calls
 
 We use MIT’s WebEx services for the calls.

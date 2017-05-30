@@ -114,6 +114,7 @@ main > * {
 
 /* --- */
 main nav {
+	font-size: 		0.9em;
 	order:			1;
 	margin-top:		1rem;
 	margin-bottom:	1rem;
@@ -133,6 +134,7 @@ main nav li {
 }
 
 aside {
+	font-size: 		0.9em;
 	margin-top:		1rem;
 	margin-bottom:	1rem;
 	border-top: 	2px solid #ddd;
@@ -161,9 +163,9 @@ figcaption {
 	hyphens: 		auto;
 }
 
-section#articles {
+/*section#articles {
 	border-top: 2px solid #ddd;
-}
+}*/
 
 article {
   margin-top: 	 0.5rem;

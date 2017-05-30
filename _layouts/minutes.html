@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>W3C Publishing Working Group</title>
+    <title>PWG Meeting {{ page.date }}</title>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="application-name" content="Publishing Working Group" />
@@ -13,22 +13,35 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <script type="text/javascript">
+        function cleanmd() {
+            var as = document.getElementsByTagName('a');
+            for (var i = 0; i < as.length; i++) {
+                var a = as[i];
+                var href = a.getAttribute("href");
+                if (href) {
+                    if (href.startsWith('id:')) {
+                        /* yes, this is an id value in the markdown sense */
+                        a.setAttribute("id",href.slice(3));
+                        a.removeAttribute("href")
+                    }
+                }
+            }
+        }
+        window.onload = cleanmd;
+    </script>
 </head>
 <body>
     {% include header.html %}
     <main>
-        {% include nav.html %}
         <section id='content'>
             <h1 style="border-bottom: 1px solid #ccc">
                 <a href="https://www.w3.org/">
                     <img src="https://www.w3.org/2017/01/publishingatw3c.png" alt="Publishing@W3C logo" height="25" />
                 </a>
-                <br/>
-                Publishing Working Group
             </h1>
             {{ content }}
         </section>
-        {% include aside.html %}
     </main>
     {% include footer.html %}
   </body>

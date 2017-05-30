@@ -1,3 +1,7 @@
+---
+layout: bare
+---
+
 ![W3C Logo](https://www.w3.org/Icons/w3c_home)
 
 # W3C Publishing Working Group
