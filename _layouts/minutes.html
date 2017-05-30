@@ -13,23 +13,14 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script type="text/javascript">
-        function cleanmd() {
-            var as = document.getElementsByTagName('a');
-            for (var i = 0; i < as.length; i++) {
-                var a = as[i];
-                var href = a.getAttribute("href");
-                if (href) {
-                    if (href.startsWith('id:')) {
-                        /* yes, this is an id value in the markdown sense */
-                        a.setAttribute("id",href.slice(3));
-                        a.removeAttribute("href")
-                    }
-                }
-            }
+    <style media="screen">
+        .resolution {
+            color: red;
         }
-        window.onload = cleanmd;
-    </script>
+        .action {
+            color: green;
+        }
+    </style>
 </head>
 <body>
     {% include header.html %}
