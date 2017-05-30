@@ -1,4 +1,8 @@
-# Publishing WG: Information on Meetings
+---
+layout: default
+---
+
+# Information on Meetings
 
 ## Teleconferences
 * The Group organizes weekly teleconferences. See the [separate page](./webex) for the technical details on connecting to the calls.

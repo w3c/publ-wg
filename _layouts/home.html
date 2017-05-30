@@ -13,6 +13,8 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <script src="https://www.w3.org/publishing/groups/publ-wg/assets/js/hyphenate.min.js"></script>
+    <script async type="text/javascript" src="https://www.w3.org/publishing/groups/publ-wg/assets/js/newsfeed.js"> </script>
 </head>
 <body>
     {% include header.html %}
@@ -26,7 +28,14 @@
                 <br/>
                 Publishing Working Group
             </h1>
-            {{ content }}
+            <p style="font-size:1.3em">WARNING: This page is still under construction; the Working Group has not been officially approved yet! Some pages on the site are placeholders, possibly belonging (logically) to other groups, etc. These will be cleaned up as soon as the group is operational.</p>
+            <section id="mission">
+                {{ content }}
+            </section>
+            <section id='articles'>
+    			<h2>Latest activity news</h2>
+                <p>(See the <a href="https://www.w3.org/blog/dpub/">activity blog</a> for all the news.)</p>
+            </section>
         </section>
         {% include aside.html %}
     </main>
