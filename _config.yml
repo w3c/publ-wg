@@ -3,7 +3,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-highlighter: rouge
+highlighter: pygments
 exclude:
   - Gemfile
   - Gemfile.lock
+permalink: /Meetings/Minutes/:year/:month/:day/:title/

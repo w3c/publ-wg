@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>W3C Publishing Working Group — Meeting minutes</title>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Publishing Working Group" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="full-screen" content="yes" />
+    <meta name="description" content="The mission of the Publishing Working Group is to enable all publications—with all their specificities and traditions—to become first-class entities on the Web." />
+    <link rel="stylesheet" href="https://www.w3.org/publishing/groups/publ-wg/assets/css/style.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    {% include header.html %}
+    <main>
+        {% include nav.html %}
+        <section id='content'>
+            <h1 style="border-bottom: 1px solid #ccc">
+                <a href="https://www.w3.org/">
+                    <img src="https://www.w3.org/2017/01/publishingatw3c.png" alt="Publishing@W3C logo" height="25" />
+                </a>
+                <br/>
+                Publishing Working Group
+            </h1>
+
+            {{ content }}
+
+            {% assign full_url = "https://www.w3.org/publishing/groups/publ-wg" %}
+
+            <h2>2020</h2>
+            <ul>
+              {% for post in site.posts %}
+                {% capture pdate %}{{ post.date | date: "%Y"}}{% endcapture %}
+                {% if pdate == "2020" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a> {{ pdate }}
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+            <h2>2019</h2>
+            <ul>
+              {% for post in site.posts %}
+                {% capture pdate %}{{ post.date | date: "%Y"}}{% endcapture %}
+                {% if pdate == "2019" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a> {{ pdate }}
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+            <h2>2018</h2>
+            <ul>
+              {% for post in site.posts %}
+                {% capture pdate %}{{ post.date | date: "%Y"}}{% endcapture %}
+                {% if pdate == "2018" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a> {{ pdate }}
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+            <h2>2017</h2>
+            <ul>
+              {% for post in site.posts %}
+                {% capture pdate %}{{ post.date | date: "%Y"}}{% endcapture %}
+                {% if pdate == "2017" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a> {{ pdate }}
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+            <h2>2016</h2>
+            <ul>
+              {% for post in site.posts %}
+                {% capture pdate %}{{ post.date | date: "%Y"}}{% endcapture %}
+                {% if pdate == "2016" %}
+                <li>
+                  <a href="{{ full_url }}{{ post.url }}">{{ post.title }}</a> {{ pdate }}
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+
+        </section>
+        {% include aside.html %}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
