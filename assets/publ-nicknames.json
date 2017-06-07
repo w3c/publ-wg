@@ -26,7 +26,7 @@
 		"github"	: "liisamk"
 	},
 	{
-		"nick"		: ["pbelfanti"],
+		"nick"		: ["pbelfanti", "paulb"],
 		"name"		: "Paul Belfanti",
 		"github"	: "pbelfanti"
 	},
@@ -136,7 +136,7 @@
 	{
 		"nick"		: ["bigbluehat"],
 		"name"		: "Benjamin Young",
-		"url"       : "http://bigbluehat.com/"
+		"github"	: "bigbluehat"
 	},
 	{
 		"nick"		: ["lmeurs", "Laurent", "laurentlemeur"],
@@ -242,6 +242,10 @@
 	{
 		"nick"		: ["leslie"],
 		"name"		: "Leslie Hulse"
+	},
+	{
+		"nick"		: ["takeshi"],
+		"name"		: "Takeshi Kanai"
 	}
 
 ]
