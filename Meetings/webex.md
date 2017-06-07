@@ -20,11 +20,13 @@ WebEx call can be joined by:
 
 * There are also dedicated WebEx apps for iOS and Android
 
-**Each participant should type `present+ <name>` in the irc channel immediately upon joining the call**
+**Each participant should type `present+ <name>` in the irc channel immediately upon joining the call.** (This will help the minute taker and improve the generated minutes.)
 
-See also [Web Ex Best Practices Wiki page](https://www.w3.org/2006/tools/wiki/WebExBestPractices)
+Meetings usually have a password. ***Never mention this password to a publicly archived mail or public IRC channel!*** (Ask instead your colleagues, the chairs or staff contact(s) of this group privately.)
 
-## Specific information sent by WebEx
+See also [WebEx Best Practices Wiki page](https://www.w3.org/2006/tools/wiki/WebExBestPractices).
+
+## Call information (as sent by WebEx)
 
 **(TO BE UPDATED TO THE FINAL INFO)**
 

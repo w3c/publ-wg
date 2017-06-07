@@ -15,8 +15,8 @@ layout: default
 ## Upcoming F2F meetings
 
 * [June 22-23, New-York, NY, USA](./F2F/2017.06.NYC)
-* [November 6-7, Burlingame, CA, US](./F2F/2017.11.BG) (Not yet confirmed)
+* [November 6-7, Burlingame, CA, US](./F2F/2017.11.Burlingame)
 
 ## Meeting Minutes
 
-Meeting minutes (both for F2F and telcos) are stored in a [separate folder](./Minutes/)
+Meeting minutes (both for F2F and telcos) are stored in a [separate folder](./Minutes/).

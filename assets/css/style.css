@@ -17,6 +17,11 @@ body {
 	font-family:	'Noto Sans', Helvetica, sans-serif;
 }
 
+code {
+	background-color: SeaShell;
+}
+
+
 h1 {
 	color: black;
 	text-align:		center;
@@ -28,6 +33,7 @@ h1 {
 h2, h3, h4, h5, h6 {
 	font-weight: 300;
 }
+
 
 h2 {
 	font-size: 1.3rem;
