@@ -49,7 +49,7 @@ By default, publication of the draft meeting minutes are considered as a call fo
 #### Face-to-face meetings
 For Face-to-face meetings, there **should** be **8 weeks** notice of the city and date/time. Exact venue information is not required so early, but it is helpful especially in large cities so people traveling can get appropriate accommodation. The chairs and staff can help organize invitations for people who need them to obtain a visa, given sufficient notice.
 
-The consortium usually has an annual "[“Technical Plenary and All Working Group”](//www.w3.org/2002/09/TPOverview.html)* face-to-face meeting week (aka *TPAC*) and this group typically has a f2f meeting during that week. The dates/locations are generally known a year or more in advance.
+The consortium usually has an annual [“Technical Plenary and All Working Group”](//www.w3.org/2002/09/TPOverview.html) face-to-face meeting week (a.k.a “TPAC”) and this group typically has a f2f meeting during that week. The dates/locations are generally known a year or more in advance.
 
 For the minutes, resolutions, and consensus achieved at the f2f meetings the same [rules](#telco) as for teleconferences apply.
 
@@ -58,7 +58,7 @@ It is possible for people who are not members of the Publishing WG to attend mee
 
 Observers may listen, and participate in general discussions during the meeting. However, they must not make technical contributions, or attempt to influence an approach to a feature that may become part of the specification being discussed.
 
-If the attendee works for a W3C member company, they are encouraged to ask their Advisory Committee (AC) representative to make them a Web Platform WG participant. Alternatively, their AC representative can make a formal [royalty-free licensing commitment](https://www.w3.org/2004/01/pp-impl/@@@@@/join). They can then fully participate in the meeting.
+If the attendee works for a W3C member company, they are encouraged to ask their Advisory Committee (AC) representative to make them a Web Platform WG participant. Alternatively, their AC representative can make a formal [royalty-free licensing commitment](https://www.w3.org/2004/01/pp-impl/100074/join). They can then fully participate in the meeting.
 
 Please note that this is to provide as much protection as possible through the W3C Patent Policy. We take the royalty-free status of W3C standards very seriously, and any attempt to work-around these basic requirements would be considered a serious breech of meeting participation.
 
@@ -108,4 +108,4 @@ The WG's Charter defines the [Patent Policy for this group](https://www.w3.org/2
 
 > This Working Group operates under the [W3C Patent Policy](//www.w3.org/Consortium/Patent-Policy-20040205/) (5 February 2004 Version). To promote the widest adoption of Web standards, W3C seeks to issue Recommendations that can be implemented, according to this policy, on a Royalty-Free basis. For more information about disclosure obligations for this group, please see the [W3C Patent Policy Implementation](//www.w3.org/2004/01/pp-impl/).
 
-A consequence of the group's Patent Policy is that, although comments from non-WG participants are welcome, in general, specific input contributions for the group's specifications from non-WG participants are not permitted. See the W3C Patent Policy FAQ titled [*How should Working Groups handle contributions from non-participants (e.g., meeting guests or on public lists)?*](//www.w3.org/2003/12/22-pp-faq.html#non-participants) for more information about contributions from non-WG participants. Non-WG participants may contribute to the group's specifications if they have agreed to the terms in [*Licensing commitments from non-W3C Members*](//www.w3.org/2004/01/pp-impl/@@@@/nmlc).
+A consequence of the group's Patent Policy is that, although comments from non-WG participants are welcome, in general, specific input contributions for the group's specifications from non-WG participants are not permitted. See the W3C Patent Policy FAQ titled [*How should Working Groups handle contributions from non-participants (e.g., meeting guests or on public lists)?*](https://www.w3.org/2003/12/22-pp-faq.html#non-participants) for more information about contributions from non-WG participants. Non-WG participants may contribute to the group's specifications if they have agreed to the terms in [*Licensing commitments from non-W3C Members*](https://www.w3.org/2004/01/pp-impl/100074/nmlc).
