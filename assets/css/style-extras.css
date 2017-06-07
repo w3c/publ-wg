@@ -1,0 +1,30 @@
+
+section#content h2:before {
+    content: counter(h2) ". ";
+    display: inline;
+
+}
+section#content h2 {
+    counter-increment: h2;
+    counter-reset: h3;
+}
+
+section#content h3:before {
+    content: counter(h2) "." counter(h3) ". ";
+    display: inline;
+}
+
+section#content h3 {
+    counter-increment: h3;
+    counter-reset: h4;
+}
+
+section#content h4:before {
+    content: counter(h2) "." counter(h3) "." counter(h4) ". ";
+    display: inline;
+}
+
+section#content h4 {
+    counter-increment: h4;
+    counter-reset: h5;
+}

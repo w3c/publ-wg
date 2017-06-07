@@ -4,7 +4,7 @@ layout: default
 
 # WebEx information for regular calls
 
-We use MIT’s WebEx services for the calls.
+The group uses MIT’s WebEx services for the calls.
 
 **Joining the call is restricted to the official members of the Publishing Working Group.** Joining the group for representatives of W3C Members can be done via the [join form](#) (this form must be filled by the AC representative of the Member organization).
 
@@ -20,15 +20,17 @@ WebEx call can be joined by:
 
 * There are also dedicated WebEx apps for iOS and Android
 
-**Each participant should type `present+ <name>` in the irc channel immediately upon joining the call.** (This will help the minute taker and improve the generated minutes.)
-
 Meetings usually have a password. ***Never mention this password to a publicly archived mail or public IRC channel!*** (Ask instead your colleagues, the chairs or staff contact(s) of this group privately.)
 
-See also [WebEx Best Practices Wiki page](https://www.w3.org/2006/tools/wiki/WebExBestPractices).
+See also:
+
+* [WebEx Best Practices Wiki page](https://www.w3.org/2006/tools/wiki/WebExBestPractices).
+* [Installing WebEx](https://www.w3.org/2006/tools/wiki/InstallingWebEx)
+* [WebEx FAQ](https://www.w3.org/2006/tools/wiki/WebExFAQ)
 
 ## Call information (as sent by WebEx)
 
-**(TO BE UPDATED TO THE FINAL INFO)**
+**(TO BE UPDATED WITH THE FINAL INFO)**
 
 <pre>
 Topic: DPUB IG Weekly

@@ -11,6 +11,9 @@ layout: default
     The group makes also use of two bots on IRC:
     * [`zakim`](https://www.w3.org/2001/12/zakim-irc-bot.html) for queue control. (See the page for further details.)
     * [`rrsagent`](https://www.w3.org/2002/03/RRSAgent) and mainly, its adjacent [scribe script](https://dev.w3.org/2002/scribe/scribedoc.htm) for scribing and minute generation. (See those pages for further details.)
+    * [`scribejs`](https://github.com/w3c/scribejs/blob/master/features.md) guidelines for scribes when using the `scribejs` minute generation tool (this is still experimental!)
+    * *Each participant should type `present+ <name>` (or simply `present+` for himself/herself) in the irc channel immediately upon joining the call.* (This will help the minute taker and improve the generated minutes.)
+
 
 ## Upcoming F2F meetings
 
@@ -19,4 +22,4 @@ layout: default
 
 ## Meeting Minutes
 
-Meeting minutes (both for F2F and telcos) are stored in a [separate folder](./Minutes/).
+Meeting minutes (both for F2F and telcos) are listed [separately](./Minutes/).
