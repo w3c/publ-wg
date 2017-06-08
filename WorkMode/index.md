@@ -3,13 +3,21 @@ layout: default
 ---
 
 # Publishing Working Group Work mode
+{: .no_toc}
 # *— DRAFT —*
+{: .no_toc}
 
 This document defines and describes the Publishing WG's *Real Work Modes* including: Participation and Communication, Meetings, Call for Consensus, Mail List usage, links to important resources, etc.
 
 Note that the [WG's Charter](https://www.w3.org/2017/04/publ-wg-charter/) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, document contains additional information about how the group *really* works and as such, this information may be particularly useful to new members of the group.
 
 This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information in this  document. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository](https://github.com/w3c/publ-wg/) or via emails sent to the group’s [`public-publ-wg@w3.org`](mailto:public-publ-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode] ...</code>.
+
+**Table of Content**
+* TOC
+{:toc}
+
+---
 
 ## Participation and Communication
 
