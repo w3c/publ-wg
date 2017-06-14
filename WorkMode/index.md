@@ -7,11 +7,11 @@ layout: default
 # *— DRAFT —*
 {: .no_toc}
 
-This document defines and describes the Publishing WG's *Real Work Modes* including: Participation and Communication, Meetings, Call for Consensus, Mail List usage, links to important resources, etc.
+This document defines and describes the Publishing WG's *Real Work Modes*, including Participation and Communication, Meetings, Calls for Consensus, Mail List usage, and links to important resources.
 
-Note that the [WG's Charter](https://www.w3.org/2017/04/publ-wg-charter/) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, document contains additional information about how the group *really* works and as such, this information may be particularly useful to new members of the group.
+Note that the [WG's Charter](https://www.w3.org/2017/04/publ-wg-charter/) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, this document contains additional information about how the group *really* works, so this information may be particularly useful to new members of the group.
 
-This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information in this  document. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository](https://github.com/w3c/publ-wg/) or via emails sent to the group’s [`public-publ-wg@w3.org`](mailto:public-publ-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode] ...</code>.
+This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository](https://github.com/w3c/publ-wg/) or via emails sent to the group’s [`public-publ-wg@w3.org`](mailto:public-publ-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode] ...</code>.
 
 **Table of Content**
 * TOC
@@ -26,12 +26,12 @@ The group's formal Participation and Communication models are documented in the 
 A WG member may participate in various ways including:
 
 * Attending any of the group‘s [weekly teleconferences of F2F meetings](https://www.w3.org/publishing/groups/publ-wg/PublStatus/Meetings)
-* Participating in discussions on the group’s primary mail lists (see below), and/or a specification’s Github repository (see the [list of all repositories](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories) of this Group)
+* Participating in discussions on the group’s primary mail lists (see below), and/or a specification’s GitHub repository (see the [list of all repositories](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories) of this Group)
 * Participating in discussions on the group’s #pwg IRC channel
 * Being an Editor of one or more of the group’s [active specifications](https://www.w3.org/publishing/groups/publ-wg/PublStatus)
 * Contributing tests for the group’s [specifications](https://www.w3.org/publishing/groups/publ-wg/PublStatus)
 
-A WG member is added to the group’s lists `public-publ-wg@w3.org` and `member-publ-wg@w3.org`; see the [separate section](#communications) for more details. Other mailing lists may be set up for, e.g., various task forces; signing up to those list must be done manually.
+A WG member is added to the group’s lists `public-publ-wg@w3.org` and `member-publ-wg@w3.org`; see the [separate section](#communications) for more details. Other mailing lists may be set up for task forces or other sub-committees; signing up to those list must be done manually.
 
 Participation from the Public (i.e. non group members), via our Public e-mail lists is also welcome, provided comments, contributions, etc. are consistent with the [W3C Patent Policy](https://www.w3.org/TR/patent-policy/).
 
@@ -46,13 +46,13 @@ Participation from the Public (i.e. non group members), via our Public e-mail li
 #### Teleconferences
 {: #telco}
 
-Teleconferences are held weekly at a time agreed upon by the group. The meeting, and its agenda, is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting that are automatically published after the meeting in a provisional format and a more readable, cleaned-up format is published within 24 hours after the meeting ends. These minutes are considered as “Drafts” until they are approved at the next teleconference when they become official.
+Teleconferences are held weekly at a time agreed upon by the group. The meeting and its agenda is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting and are automatically published after the meeting in a provisional format. A more readable, cleaned-up format is published within 24 hours after the meeting ends. These minutes are considered as “Drafts” until they are approved at the next teleconference when they become official.
 
 The charter also says that:
 
 > …any resolution (including publication decisions) taken in a face-to-face meeting or teleconference will be considered provisional. A call for consensus (CfC) will be issued for all resolutions (for example, via email and/or web-based survey), with a response period from one week to 10 working days, depending on the chair's evaluation of the group consensus on the issue. If no objections are raised on the mailing list by the end of the response period, the resolution will be considered to have obtained consensus as a resolution of the Working Group.
 
-By default, publication of the draft meeting minutes are considered as a call for consensus for any formal resolution therein. However, depending on the assessment and the importance of a specific resolution at hand, the chairs may issue an more explicit CfC by email when, for example, the issue requires more details and explanations.
+By default, publication of the draft meeting minutes are considered as a call for consensus for any formal resolution therein. However, depending on the assessment and the importance of a specific resolution at hand, the chairs may issue an more explicit CfC by email when  the issue requires more details and explanations.
 
 #### Face-to-face meetings
 For Face-to-face meetings, there **should** be **8 weeks** notice of the city and date/time. Exact venue information is not required so early, but it is helpful especially in large cities so people traveling can get appropriate accommodation. The chairs and staff can help organize invitations for people who need them to obtain a visa, given sufficient notice.
@@ -86,7 +86,7 @@ GitHub issues are also used as a records of wide reviews, of horizontal reviews,
 
 ### Mailing lists (Policy, Usage, Etiquette, etc.)
 
-Although it is expected that a large portion of the technical discussion will happen via the issues’ mechanism of GitHub, the primary mailing list is also used for overarching technical as well as business, outreach, administrative, etc, topics. We expect our mail list participants to adhere to the following email etiquette:
+Although it is expected that a large portion of the technical discussion will happen via the issues mechanism of GitHub, the primary mailing list is also used for overarching technical as well as business, outreach, administrative, etc, topics. We expect our mail list participants to adhere to the following email etiquette:
 
 * Messages should be encoded using [plain text](http://en.wikipedia.org/wiki/Plain_text). Formats using [*rich text*](https://en.wikipedia.org/wiki/Rich_Text_Format) will be lost by the list archives and appear poorly to many readers before they get that far.
 * Subjects should be prefaced with the *short name* of the spec, if applicable (for example: * [WP] Blah, Blah, Blah*)
@@ -103,7 +103,7 @@ Although it is expected that a large portion of the technical discussion will ha
 
 ### IRC
 
-The group uses the `#pwg` channel of the W3C’s IRC system (irc.w3.org; port 6667) including. Task force may set up their own, specific channels.
+The group uses the `#pwg` channel of the W3C’s IRC system (irc.w3.org; port 6667) including. Task forces may set up their own, specific channels.
 
 An [HTML interface to the W3C's IRC system](http://irc.w3.org/) is available. See [Meeting Resources](../Meetings/) for more information about the W3C’s IRC system and its usage.
 
@@ -118,4 +118,8 @@ The WG's Charter defines the [Patent Policy for this group](https://www.w3.org/2
 
 > This Working Group operates under the [W3C Patent Policy](//www.w3.org/Consortium/Patent-Policy-20040205/) (5 February 2004 Version). To promote the widest adoption of Web standards, W3C seeks to issue Recommendations that can be implemented, according to this policy, on a Royalty-Free basis. For more information about disclosure obligations for this group, please see the [W3C Patent Policy Implementation](//www.w3.org/2004/01/pp-impl/).
 
-A consequence of the group's Patent Policy is that, although comments from non-WG participants are welcome, in general, specific input contributions for the group's specifications from non-WG participants are not permitted. See the W3C Patent Policy FAQ titled [*How should Working Groups handle contributions from non-participants (e.g., meeting guests or on public lists)?*](https://www.w3.org/2003/12/22-pp-faq.html#non-participants) for more information about contributions from non-WG participants. Non-WG participants may contribute to the group's specifications if they have agreed to the terms in [*Licensing commitments from non-W3C Members*](https://www.w3.org/2004/01/pp-impl/100074/nmlc).
+A consequence of the group's Patent Policy is that, although comments from non-WG participants are welcome, in general, specific contributions for the group's specifications from non-WG participants are not permitted. See the W3C Patent Policy FAQ titled [*How should Working Groups handle contributions from non-participants (e.g., meeting guests or on public lists)?*](https://www.w3.org/2003/12/22-pp-faq.html#non-participants) for more information about contributions from non-WG participants. Non-WG participants may contribute to the group's specifications if they have agreed to the terms in [*Licensing commitments from non-W3C Members*](https://www.w3.org/2004/01/pp-impl/100074/nmlc).
+
+## Code of Conduct
+
+The WG follows the W3C [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
