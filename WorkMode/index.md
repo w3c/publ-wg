@@ -4,8 +4,6 @@ layout: default
 
 # Publishing Working Group Work mode
 {: .no_toc}
-# *— DRAFT —*
-{: .no_toc}
 
 This document defines and describes the Publishing WG's *Real Work Modes*, including Participation and Communication, Meetings, Calls for Consensus, Mail List usage, and links to important resources.
 
