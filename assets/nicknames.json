@@ -25,10 +25,18 @@
         "github": "tcole3"
     },
     {
+        "nick": [],
+        "name": "Jason Colman"
+    },
+    {
         "nick": [
             "vagner"
         ],
         "name": "Vagner Diniz"
+    },
+    {
+        "nick": [],
+        "name": "Roger Espinosa"
     },
     {
         "nick": [],
@@ -186,6 +194,10 @@
         "name": "Selma Morais"
     },
     {
+        "nick": [],
+        "name": "Chris Powell"
+    },
+    {
         "nick": [
             "rpug"
         ],
@@ -228,8 +240,16 @@
 	},
     {
         "nick": [],
+        "name": "Charles Watkinson"
+    },
+    {
+        "nick": [],
         "name": "Daniel Weck",
         "github": "danielweck"
+    },
+    {
+        "nick": [],
+        "name": "John Weise"
     },
     {
         "nick": [
