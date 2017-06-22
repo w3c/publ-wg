@@ -25,13 +25,13 @@ A WG member may participate in various ways including:
 
 * Attending any of the group‘s [weekly teleconferences of F2F meetings](https://www.w3.org/publishing/groups/publ-wg/PublStatus/Meetings)
 * Participating in discussions on the group’s primary mail lists (see below), and/or a specification’s GitHub repository (see the [list of all repositories](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories) of this Group)
-* Participating in discussions on the group’s #pwg IRC channel
+* Participating in discussions on the group’s `#pwg` IRC channel
 * Being an Editor of one or more of the group’s [active specifications](https://www.w3.org/publishing/groups/publ-wg/PublStatus)
 * Contributing tests for the group’s [specifications](https://www.w3.org/publishing/groups/publ-wg/PublStatus)
 
 A WG member is added to the group’s lists `public-publ-wg@w3.org` and `member-publ-wg@w3.org`; see the [separate section](#communications) for more details. Other mailing lists may be set up for task forces or other sub-committees; signing up to those list must be done manually.
 
-Participation from the Public (i.e. non group members), via our Public e-mail lists is also welcome, provided comments, contributions, etc. are consistent with the [W3C Patent Policy](https://www.w3.org/TR/patent-policy/).
+Participation from the Public (i.e., non group members), via our Public e-mail lists is also welcome, provided comments, contributions, etc., are consistent with the [W3C Patent Policy](https://www.w3.org/TR/patent-policy/).
 
 ### Information for “Newbies” — New Group Members
 
@@ -44,13 +44,13 @@ Participation from the Public (i.e. non group members), via our Public e-mail li
 #### Teleconferences
 {: #telco}
 
-Teleconferences are held weekly at a time agreed upon by the group. The meeting and its agenda is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting and are automatically published after the meeting in a provisional format. A more readable, cleaned-up format is published within 24 hours after the meeting ends. These minutes are considered as “Drafts” until they are approved at the next teleconference when they become official.
+Teleconferences are held weekly at a time agreed upon by the group. The meeting and its agenda is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting and are automatically published after the meeting in a provisional format. A more readable, cleaned-up format is published usually within 24 hours after the meeting ends. These minutes are considered as “Drafts” until they are approved at the next teleconference when they become official.
 
 The charter also says that:
 
 > …any resolution (including publication decisions) taken in a face-to-face meeting or teleconference will be considered provisional. A call for consensus (CfC) will be issued for all resolutions (for example, via email and/or web-based survey), with a response period from one week to 10 working days, depending on the chair's evaluation of the group consensus on the issue. If no objections are raised on the mailing list by the end of the response period, the resolution will be considered to have obtained consensus as a resolution of the Working Group.
 
-By default, publication of the draft meeting minutes are considered as a call for consensus for any formal resolution therein. However, depending on the assessment and the importance of a specific resolution at hand, the chairs may issue an more explicit CfC by email when  the issue requires more details and explanations.
+By default, publication of the draft meeting minutes is considered as a call for consensus for any formal resolution therein. However, depending on the assessment and the importance of a specific resolution at hand, the chairs may issue an more explicit CfC by email when the issue requires more details and explanations.
 
 #### Face-to-face meetings
 For Face-to-face meetings, there **should** be **8 weeks** notice of the city and date/time. Exact venue information is not required so early, but it is helpful especially in large cities so people traveling can get appropriate accommodation. The chairs and staff can help organize invitations for people who need them to obtain a visa, given sufficient notice.
@@ -84,7 +84,7 @@ GitHub issues are also used as a records of wide reviews, of horizontal reviews,
 
 ### Mailing lists (Policy, Usage, Etiquette, etc.)
 
-Although it is expected that a large portion of the technical discussion will happen via the issues mechanism of GitHub, the primary mailing list is also used for overarching technical as well as business, outreach, administrative, etc, topics. We expect our mail list participants to adhere to the following email etiquette:
+Although it is expected that a large portion of the technical discussion will happen via the issues mechanism of GitHub, the primary mailing list may also be used for overarching technical as well as business, outreach, administrative, etc, topics. We expect our mail list participants to adhere to the following email etiquette:
 
 * Messages should be encoded using [plain text](http://en.wikipedia.org/wiki/Plain_text). Formats using [*rich text*](https://en.wikipedia.org/wiki/Rich_Text_Format) will be lost by the list archives and appear poorly to many readers before they get that far.
 * Subjects should be prefaced with the *short name* of the spec, if applicable (for example: * [WP] Blah, Blah, Blah*)
@@ -92,7 +92,7 @@ Although it is expected that a large portion of the technical discussion will ha
 * Do not prefix your content with something like "[myname]". Your content will be visible to everyone because it will *not* be prefixed by the quotation character (">").
 * Do strip quoted text which is not relevant to your reply.
 * Do not write in ALL CAPS. It is considered bad form. If you need to _underscore_ something, you can do so as such, if you wanted to *strengthen* something you can similarly, and if you want to provide a certain /italic/ style, you may do that as well.
-* Your messages are archived. If you need to include links within your message, please use [n] notation inline (f.e.x [1]), and include the relevant links at the end of the message.
+* Your messages are archived. If you need to include links within your message, please use `[n]` notation inline (f.e.x [1]), and include the relevant links at the end of the message. (Just like in a scholarly paper…)
 * Attachments must follow the [W3C Guidelines for Email Attachment Formats](https://www.w3.org/2002/03/email_attachment_formats.html), in particular:
 ** Avoid unnecessary email attachments.
 ** Use an attachment only when it is likely to benefit to recipients. Otherwise, place the information (in plain text format) in the body of your message.
@@ -101,14 +101,13 @@ Although it is expected that a large portion of the technical discussion will ha
 
 ### IRC
 
-The group uses the `#pwg` channel of the W3C’s IRC system (irc.w3.org; port 6667) including. Task forces may set up their own, specific channels.
+The group uses the `#pwg` channel of the W3C’s IRC system (irc.w3.org; port 6667). Task forces may freely set up their own, specific channels.
 
 An [HTML interface to the W3C's IRC system](http://irc.w3.org/) is available. See [Meeting Resources](../Meetings/) for more information about the W3C’s IRC system and its usage.
 
 ### Wiki(s)
 
 Each repository, including the “core” WG repository, has a wiki instance. Members of the Working Groups are encouraged to use those for temporary discussions, documents, etc. Pages on the repository Wikis have no formal status.
-
 
 ## Patent Policy
 

@@ -12,6 +12,7 @@ layout: default
     * [`zakim`](https://www.w3.org/2001/12/zakim-irc-bot.html) for queue control. (See the page for further details.)
     * [`rrsagent`](https://www.w3.org/2002/03/RRSAgent) and mainly, its adjacent [scribe script](https://dev.w3.org/2002/scribe/scribedoc.htm) for scribing and minute generation. (See those pages for further details.)
     * [`scribejs`](https://github.com/w3c/scribejs/blob/master/features.md) guidelines for scribes when using the `scribejs` minute generation tool (this is still experimental!)
+        * To help the minute taking and cleaning them later, please use a consistent IRC handle; scribes should use that handle to identify the person speaking. The script cleaning up the minutes will automatically replace that handle with the person’s full name, making the minutes more readable to outsiders.
     * *Each participant should type `present+ <name>` (or simply `present+` for himself/herself) in the irc channel immediately upon joining the call.* (This will help the minute taker and improve the generated minutes.)
 
 
