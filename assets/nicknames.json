@@ -30,7 +30,8 @@
     },
     {
         "nick": [
-            "vagner"
+            "vagner",
+            "vagner_br"
         ],
         "name": "Vagner Diniz"
     },
@@ -88,7 +89,8 @@
     {
 		"nick": [
             "gamou",
-            "jun_gamou"
+            "jun_gamou",
+            "jun_gamo"
         ],
 		"name": "Jun Gamou"
 	},
@@ -149,8 +151,11 @@
         "name": "Yuri Khramov"
     },
     {
-        "nick": [],
-        "name": "Toshiaki Koike"
+        "nick": [
+            "toshiaki-koike"
+        ],
+        "name": "Toshiaki Koike",
+        "github": "toshiakikoike"
     },
     {
 		"nick": [
@@ -160,7 +165,7 @@
 		"github": "pkra"
 	},
     {
-        "nick": [],
+        "nick": ["kuznicki"],
         "name": "Matt Kuznicki"
     },
     {
@@ -191,6 +196,12 @@
         "github": "llemeurfr"
     },
     {
+		"nick": [
+            "Vlad"
+        ],
+		"name": "Vladimir Levantovsky"
+	},
+    {
         "nick": [],
         "name": "Edwina Lui"
     },
@@ -208,7 +219,7 @@
         "name": "Maureen McMahon"
     },
     {
-        "nick": [],
+        "nick": ["sel"],
         "name": "Selma Morais"
     },
     {
@@ -260,7 +271,8 @@
         "nick": [
             "Avneesh"
         ],
-        "name": "Avneesh Singh"
+        "name": "Avneesh Singh",
+        "github": "avneeshsingh"
     },
     {
         "nick": [],
@@ -273,7 +285,8 @@
             "mateus-teixeira",
             "mteixeira"
         ],
-		"name": "Mateus Teixeira"
+		"name": "Mateus Teixeira",
+        "github": "mteixeira-wwn"
 	},
     {
         "nick": [],
