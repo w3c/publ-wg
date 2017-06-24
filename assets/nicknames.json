@@ -19,6 +19,12 @@
     },
     {
         "nick": [
+            "fchasen"
+        ],
+        "name": "Fred Chasen"
+    },
+    {
+        "nick": [
             "timCole"
         ],
         "name": "Tim Cole",
@@ -176,12 +182,27 @@
         "github": "clapierre"
     },
     {
+		"nick": [
+            "murata",
+            "makoto"
+        ],
+		"name": "Murata Makoto"
+	},
+    {
         "nick": [
             "cmaden",
             "cmaden2"
         ],
         "name": "Chris Maden"
     },
+    {
+		"nick": [
+            "liisamk",
+            "liisa"
+        ],
+		"name": "Liisa McCloy-Kelley",
+		"github": "liisamk"
+	},
     {
         "nick": [],
         "name": "Jonathan McGlone"
@@ -194,6 +215,23 @@
         ],
         "name": "Laurent Le Meurs",
         "github": "llemeurfr"
+    },
+    {
+		"nick": [],
+		"name": "Shinyu Murakami"
+	},
+    {
+		"nick": [
+            "cristina",
+            "cmussi"
+        ],
+		"name": "Cristina Mussinelli"
+	},
+    {
+        "nick":[
+            "karen"
+        ],
+        "name": "Karen Myers"
     },
     {
 		"nick": [
