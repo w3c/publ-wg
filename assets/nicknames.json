@@ -119,7 +119,8 @@
     },
     {
         "nick": [
-            "ivan"
+            "ivan",
+	    "iherman"
         ],
         "name": "Ivan Herman",
         "github": "iherman"
