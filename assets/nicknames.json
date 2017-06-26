@@ -269,7 +269,7 @@
         "name": "Selma Morais"
     },
     {
-        "nick": [],
+        "nick": ["ckpowell"],
         "name": "Chris Powell"
     },
     {
@@ -337,10 +337,6 @@
 	},
     {
         "nick": [],
-        "name": "Charles Watkinson"
-    },
-    {
-        "nick": [],
         "name": "Daniel Weck",
         "github": "danielweck"
     },
@@ -355,5 +351,9 @@
         ],
         "name": "Ric Wright",
         "github": "rkwright"
+    },
+    {
+        "nick": [],
+        "name": "Maurice York"
     }
 ]
