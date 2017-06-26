@@ -52,6 +52,10 @@
         "name": "Reinaldo Ferraz"
     },
     {
+        "nick": ["Hadrien"],
+        "name": "Hadrien Gardeur"
+    },
+    {
         "nick": [
             "garth",
             "GarthConboy"
@@ -162,7 +166,8 @@
     },
     {
         "nick": [
-            "toshiaki-koike"
+            "toshiaki-koike",
+            "toshiakikoike"
         ],
         "name": "Toshiaki Koike",
         "github": "toshiakikoike"
