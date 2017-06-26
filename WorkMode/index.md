@@ -23,7 +23,7 @@ The group's formal Participation and Communication models are documented in the 
 
 A WG member may participate in various ways including:
 
-* Attending any of the group‘s [weekly teleconferences of F2F meetings](https://www.w3.org/publishing/groups/publ-wg/PublStatus/Meetings)
+* Attending any of the group‘s [weekly teleconferences or F2F meetings](https://www.w3.org/publishing/groups/publ-wg/PublStatus/Meetings)
 * Participating in discussions on the group’s primary mail lists (see below), and/or a specification’s GitHub repository (see the [list of all repositories](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories) of this Group)
 * Participating in discussions on the group’s `#pwg` IRC channel
 * Being an Editor of one or more of the group’s [active specifications](https://www.w3.org/publishing/groups/publ-wg/PublStatus)
