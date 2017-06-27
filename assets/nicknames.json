@@ -204,7 +204,8 @@
     {
         "nick": [
             "cmaden",
-            "cmaden2"
+            "cmaden2",
+            "cmaden21"
         ],
         "name": "Chris Maden"
     },
@@ -252,6 +253,10 @@
         ],
 		"name": "Vladimir Levantovsky"
 	},
+    {
+        "nick": [],
+        "name": "Mia Lipner"
+    },
     {
         "nick": ["elui"],
         "name": "Edwina Lui"
@@ -313,6 +318,10 @@
 		"name": "Wolfgang Schindler"
 	},
     {
+        "nick": [],
+        "name": "Ben Schroeter"
+    },
+    {
         "nick": [
             "tzviya"
         ],
@@ -340,6 +349,10 @@
 		"name": "Mateus Teixeira",
         "github": "mteixeira-wwn"
 	},
+    {
+        "nick": [],
+        "name": "Jonathan Thurston"
+    },
     {
         "nick": [],
         "name": "Daniel Weck",
