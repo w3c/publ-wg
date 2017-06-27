@@ -69,6 +69,7 @@ If the attendee works for a W3C member company, they are encouraged to ask their
 Please note that this is to provide as much protection as possible through the W3C Patent Policy. We take the royalty-free status of W3C standards very seriously, and any attempt to work-around these basic requirements would be considered a serious breech of meeting participation.
 
 ### GitHub
+{: #github}
 
 The group makes an extensive usage of GitHub. Each major deliverables is managed in its own, separate repository (a [complete list of repositories](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories) is available). The group intends to use the repositories’ issue management extensively to discuss technical problems and propose solutions.
 
@@ -100,6 +101,7 @@ Although it is expected that a large portion of the technical discussion will ha
 ** Follow [Web Content Accessibility Guidelines](//www.w3.org/TR/WAI-WEBCONTENT/) (WCAG)
 
 ### IRC
+{: #irc}
 
 The group uses the `#pwg` channel of the W3C’s IRC system (irc.w3.org; port 6667). Task forces may freely set up their own, specific channels.
 
