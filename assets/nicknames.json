@@ -21,7 +21,8 @@
         "nick": [
             "fchasen"
         ],
-        "name": "Fred Chasen"
+        "name": "Fred Chasen",
+        "github": "fchasen"
     },
     {
         "nick": [
@@ -34,7 +35,8 @@
         "nick": [
 	        "taftman"
 	    ],
-        "name": "Jason Colman"
+        "name": "Jason Colman",
+        "github": "taftman"
     },
     {
         "nick": [
@@ -207,7 +209,8 @@
             "cmaden2",
             "cmaden21"
         ],
-        "name": "Chris Maden"
+        "name": "Chris Maden",
+        "github": "crism"
     },
     {
 		"nick": [
@@ -259,7 +262,8 @@
     },
     {
         "nick": ["elui"],
-        "name": "Edwina Lui"
+        "name": "Edwina Lui",
+        "github": "edwinalui82"
     },
     {
         "nick": [
@@ -315,7 +319,8 @@
 	        "WolfgangSchi",
             "Schindler"
         ],
-		"name": "Wolfgang Schindler"
+		"name": "Wolfgang Schindler",
+        "github": "WSchindler"
 	},
     {
         "nick": [],
