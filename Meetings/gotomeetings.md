@@ -43,11 +43,13 @@ The group uses GoToMeeting (courtesy of [EDRLab](https://edrlab.org)) for the ca
 
 ## Practical Information
 
-* The call must be started by an organizer; this can be either one of the co-chairs, the staff contact, or Laurent Le Meurs.
+* The call must be started by an organizer; this can be either one of the co-chairs, the staff contact, Laurent Le Meurs, or Ric Wright.
 * By default, you are muted when you enter the call; you must unmute yourself explicitly.
-* Unfortunately, when starting the call from a browser, different browsers act a little bit differently. There is a [Customer Support Page on Citrix](http://support.citrixonline.com/en_US/Meeting/help_files/G2M010003?Title=System+Requirements+for+Attendees) showing the software and hardware requirements, but the information on that page does not always coincide with some of the experiences below.
+* There is a [Customer Support Page on Citrix](http://support.citrixonline.com/en_US/Meeting/help_files/G2M010003?Title=System+Requirements+for+Attendees) showing the software and hardware requirements. You can also download the “Citrix Online Launcher” application, which is worth installing.
+* Unfortunately, when starting the call from a browser, different browsers act a little bit differently. The information on that page does not always coincide with some of the experiences below.
     * **Chromium based browsers** (e.g., Chrome, Vivaldi, Brave, etc.): the full interaction works within the browser, no external application is necessary. (I.e., it is a ‘Web App’.)
     * For other browsers and external application is necessary to launch the call.
         * **Safari**: downloads the app when used for the first time, and then launches the app automatically.
-        * **Firefox**: Unfortunately, at this moment (2017-07), the download has to happen every time the call is accessed, and the application must be started explicitly; Firefox does not seem to recognize an already installed launcher.
+        * **Firefox**: Unfortunately, at this moment (2017-07), the download has to happen every time the call is accessed, and the application must be started explicitly; Firefox does not seem to recognize an already installed launcher. When using Firefox as your main browser it may be a better idea to launch the downloaded application.
         * **Edge**: (to be completed…)
+* There are also IOS and Android applications (see again the [Customer Support Page on Citrix](http://support.citrixonline.com/en_US/Meeting/help_files/G2M010003?Title=System+Requirements+for+Attendees)), if you prefer to run from a mobile.
