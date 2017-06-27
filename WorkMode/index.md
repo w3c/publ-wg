@@ -9,7 +9,7 @@ This document defines and describes the Publishing WG's *Real Work Modes*, inclu
 
 Note that the [WG's Charter](https://www.w3.org/2017/04/publ-wg-charter/) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, this document contains additional information about how the group *really* works, so this information may be particularly useful to new members of the group.
 
-This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository](https://github.com/w3c/publ-wg/) or via emails sent to the group’s [`public-publ-wg@w3.org`](mailto:public-publ-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode] ...</code>.
+This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository](https://github.com/w3c/publ-wg/) or via emails sent to the group’s [`public-publ-wg@w3.org`](mailto:public-publ-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode]…</code>.
 
 **Table of Content**
 * TOC
@@ -23,7 +23,7 @@ The group's formal Participation and Communication models are documented in the 
 
 A WG member may participate in various ways including:
 
-* Attending any of the group‘s [weekly teleconferences or F2F meetings](https://www.w3.org/publishing/groups/publ-wg/PublStatus/Meetings)
+* Attending any of the group‘s [weekly teleconferences or F2F meetings](../Meetings/)
 * Participating in discussions on the group’s primary mail lists (see below), and/or a specification’s GitHub repository (see the [list of all repositories](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories) of this Group)
 * Participating in discussions on the group’s `#pwg` IRC channel
 * Being an Editor of one or more of the group’s [active specifications](https://www.w3.org/publishing/groups/publ-wg/PublStatus)
@@ -69,10 +69,11 @@ If the attendee works for a W3C member company, they are encouraged to ask their
 Please note that this is to provide as much protection as possible through the W3C Patent Policy. We take the royalty-free status of W3C standards very seriously, and any attempt to work-around these basic requirements would be considered a serious breech of meeting participation.
 
 ### GitHub
+{: #github}
 
 The group makes an extensive usage of GitHub. Each major deliverables is managed in its own, separate repository (a [complete list of repositories](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories) is available). The group intends to use the repositories’ issue management extensively to discuss technical problems and propose solutions.
 
-Editors of the documents (as well as the chairs and the W3C staff) have the necessary access right to make editorial changes on the specifications directly using the standard Git(Hub) commits and merging pull requests. Other members of the group are encouraged to use the [“fork and pull model”](https://help.github.com/articles/about-collaborative-development-models/) when directly contributing to the text: work on a forked repository and issue a pull request on the main repository for that specification when the contribution is ready. Editors should use the pull request mechanism (except for obvious, grammatical or stylistic changes), albeit they can choose to do that directly on the core repository.
+Editors of the documents (as well as the chairs and the W3C staff) have the necessary access right to make editorial changes on the specifications directly using the standard Git(Hub) commits and merging pull requests. Other members of the group are encouraged to use the [“fork and pull model”](https://help.github.com/articles/about-collaborative-development-models/) when contributing to the text: work on a forked repository and issue a pull request on the main repository for that document when the contribution is ready. Editors should use the pull request mechanism (except for obvious, grammatical or stylistic changes), albeit they can choose to do that directly on the core repository.
 
 (If you are new to Github, the [*“Introduction to Basic GitHub Contribution”*](https://iherman.github.io/misc-notes/docs/BasicGitHubContributionIntro) may be of help.)
 
@@ -88,8 +89,8 @@ Although it is expected that a large portion of the technical discussion will ha
 
 * Messages should be encoded using [plain text](http://en.wikipedia.org/wiki/Plain_text). Formats using [*rich text*](https://en.wikipedia.org/wiki/Rich_Text_Format) will be lost by the list archives and appear poorly to many readers before they get that far.
 * Subjects should be prefaced with the *short name* of the spec, if applicable (for example: * [WP] Blah, Blah, Blah*)
-* When you reply to a message, please use ">" as your quotation character.
-* Do not prefix your content with something like "[myname]". Your content will be visible to everyone because it will *not* be prefixed by the quotation character (">").
+* When you reply to a message, please use “> ” as your quotation character.
+* Do not prefix your content with something like “[myname]”. Your content will be visible to everyone because it will *not* be prefixed by the quotation character (“> ”).
 * Do strip quoted text which is not relevant to your reply.
 * Do not write in ALL CAPS. It is considered bad form. If you need to _underscore_ something, you can do so as such, if you wanted to *strengthen* something you can similarly, and if you want to provide a certain /italic/ style, you may do that as well.
 * Your messages are archived. If you need to include links within your message, please use `[n]` notation inline (f.e.x [1]), and include the relevant links at the end of the message. (Just like in a scholarly paper…)
@@ -100,6 +101,7 @@ Although it is expected that a large portion of the technical discussion will ha
 ** Follow [Web Content Accessibility Guidelines](//www.w3.org/TR/WAI-WEBCONTENT/) (WCAG)
 
 ### IRC
+{: #irc}
 
 The group uses the `#pwg` channel of the W3C’s IRC system (irc.w3.org; port 6667). Task forces may freely set up their own, specific channels.
 
