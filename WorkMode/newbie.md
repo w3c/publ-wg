@@ -1,30 +1,44 @@
 ---
 layout: default
 ---
+# Welcome to the Publishing Working Group
+{: .no_toc}
 
-
-This document includes some information for new members ("*Newbies*") of the Web Platform Working Group (WPWG).
+This document includes some information for new members ("*Newbies*") of the Publication Working Group (PWG).
 
 Members of the WG, **especially new members** are encouraged to help maintain this document.
 
-## Welcome to the Publishing Working Group
+* TOC
+{:toc}
 
-The Working Group's home page is: [https://www.w3.org/publishing/groups/publ-wg/](https://www.w3.org/publishing/groups/publ-wg/).
+The Working Group’s home page is: [https://www.w3.org/publishing/groups/publ-wg/](https://www.w3.org/publishing/groups/publ-wg/). Looking at the left and right column of the page gives you lots of further information. Especially, the group's *Work Mode* is described in the [*WorkMode*](index) document and it includes information about how the WG operates, including links to the WG's various resources.
 
-The group's *Work Mode* is described in the [*WorkMode*](index) document and it includes information about how the WG operates, including links to the WG's various resources.
+## Meetings
 
-### Specifications in Progress
+The group holds a weekly teleconference; see [the separate page](../Meetings/) for the timing and the dial-in details.
+
+## Github
+
+The group operates mostly on [GitHub](index#github): that is where the specifications are developed, where issues are discussed. Even these pages are in a GitHub repository (look at the bottom for the reference). It is therefore important to familiarize yourself, at least at a basic level, with this tool. (If you are new to Github, the [*“Introduction to Basic GitHub Contribution”*](https://iherman.github.io/misc-notes/docs/BasicGitHubContributionIntro) may be of help.)
+
+Once you have your GitHub account name, **send this name to ivan@w3.org, or to one of the chairs**, who will add you to the Working Group’s GitHub team” (in Github‘s jargon). That would give you the possibility of being asked personally to review or being assigned to issues, or editing the wiki pages.
+
+## IRC
+
+Meetings usually use [IRC](index#irc) as a tool for queue control and minute taking (and general chit-chat). You should also send to ivan@w3.org your preferred IRC nickname (or nicknames, if you use several of those). The goal is to improve the readability of the meeting minutes, so that third parties could also understand whose comments and remarks are in the minutes. Actually, in case you are already a seasoned Github user: the nicknames are stored (of course:-) in [file on GitHub](https://github.com/w3c/publ-wg/blob/master/assets/nicknames.json), meaning that you can simply make a pull request providing with with your nickname(s) instead of a mail.
+
+## Specifications in Progress
 
 A list of the group's specifications, including the publication status of each spec, can be found in the group's *PubStatus* document: [`https://www.w3.org/publishing/groups/publ-wg/PublStatus`](https://www.w3.org/publishing/groups/publ-wg/PublStatus).
 
-### New WG Member Introductions
+## New WG Member Introductions
 
-Although it isn't required, **new WG members are encouraged to send a short introductory e-mail to the WG's Public mail list** ([public-publ-wg@w3.org](https://lists.w3.org/Archives/Public/public-publ-wg/)) or the group's Member-only list ([member-publ-wg@w3.org](https://lists.w3.org/Archives/Member/member-publ-wg/)). The introduction should include your area(s) of interest.
+Although it isn’t required, **new WG members are encouraged to send a short introductory e-mail to the WG's Public mail list** ([public-publ-wg@w3.org](https://lists.w3.org/Archives/Public/public-publ-wg/)) or the group’s Member-only list ([member-publ-wg@w3.org](https://lists.w3.org/Archives/Member/member-publ-wg/)). The introduction should include your area(s) of interest.
 
-### Questions, Comments, Issues, etc.?
+## Questions, Comments, Issues, etc.?
 
-Please contact the group's Chairs and staff contacts (using the group-publ-wg-chairs@w3.org list) — *at any time* — if you have any questions, issues, concerns, etc. about WebApps.
+Please contact the group's Chairs and staff contacts (using the [group-publ-wg-chairs@w3.org](mailto:group-publ-wg-chairs@w3.org) list) — *at any time* — if you have any questions, issues, concerns, etc. about the Working Group.
 
-### Resources
+## Resources
 
 If you are unfamiliar with processes and roles within the Consortium; there is an [introduction course](http://lists.w3.org/Archives/Public/www-archive/2014Apr/0026.html) available which takes little over an hour and a half to complete.
