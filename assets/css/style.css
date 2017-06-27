@@ -147,6 +147,10 @@ main nav li {
 	border-bottom:	1px solid #ccc;
 }
 
+main #content li {
+	margin-top: 0.3em;
+}
+
 aside {
 	font-size: 		0.9em;
 	margin-top:		1rem;
