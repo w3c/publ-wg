@@ -309,9 +309,11 @@
     },
     {
         "nick": [
-            "jodi"
+            "jodi",
+	    "JodiS"
         ],
-        "name": "Jodi Schneider"
+        "name": "Jodi Schneider",
+	"github": "jodischneider"
     },
     {
 		"nick": [
