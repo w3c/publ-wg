@@ -258,10 +258,6 @@
         "name": "Karen Myers"
     },
     {
-        "nick": [],
-        "name": "Najmeh Mousavi Nejad"
-    },
-    {
 		"nick": [
             "Vlad"
         ],
@@ -387,6 +383,10 @@
         ],
         "name": "Ric Wright",
         "github": "rkwright"
+    },
+    {
+        "nick": [],
+        "name": "Evan Yamanishi"
     },
     {
         "nick": [],
