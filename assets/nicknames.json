@@ -189,8 +189,12 @@
 		"github": "pkra"
 	},
     {
-        "nick": ["kuznicki"],
-        "name": "Matt Kuznicki"
+        "nick": [
+            "kuznicki",
+            "mattk"
+        ],
+        "name": "Matt Kuznicki",
+        "github": "datalogics-mattk"
     },
     {
         "nick": [
