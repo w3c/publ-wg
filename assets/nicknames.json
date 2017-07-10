@@ -125,9 +125,10 @@
     },
     {
         "nick": [
-            "harriett"
+            "harriett", "hagreen"
         ],
-        "name": "Harriett Green"
+        "name": "Harriett Green",
+	    "github": "greenharr"
     },
     {
         "nick": [],
