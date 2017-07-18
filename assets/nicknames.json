@@ -8,8 +8,22 @@
         "github": "laudrain"
     },
     {
+        "nick": [
+            "BorisAnthony"
+        ],
+        "name": "Boris Anthony",
+        "github": "BorisAnthony"
+    },
+    {
         "nick": [],
         "name": "Chrstofer Auclair"
+    },
+    {
+        "nick": [
+            "baldurbjarnason"
+        ],
+        "name": "Baldur Bjarnason",
+        "github": "baldurbjarnason"
     },
     {
         "nick": [
@@ -157,6 +171,14 @@
         "github": "rickj"
     },
     {
+		"nick"		: [
+            "Deborah_Kaplan",
+            "dkaplan3"
+        ],
+		"name"		: "Deborah Kaplan",
+		"github"	: "deborahgu"
+	},
+    {
         "nick": [
             "Bill_Kasdorf"
         ],
@@ -203,6 +225,10 @@
         ],
         "name": "Charles LaPierre",
         "github": "clapierre"
+    },
+    {
+        "nick" : [],
+        "name" : "Jia Ma"
     },
     {
         "nick": [],
@@ -277,6 +303,13 @@
         "nick": ["elui"],
         "name": "Edwina Lui",
         "github": "edwinalui82"
+    },
+    {
+        "nick": [
+            "hughmcguire"
+        ],
+        "name": "Hugh McGuire",
+        "github": ""
     },
     {
         "nick": [
