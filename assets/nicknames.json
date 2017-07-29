@@ -105,7 +105,9 @@
         "github": "rdeltour"
     },
     {
-        "nick": [],
+        "nick": [
+            "marisa_demeglio"
+        ],
         "name": "Marisa DeMeglio",
         "github": "marisademeglio"
     },
@@ -229,7 +231,8 @@
     },
     {
         "nick": [
-            "clapierre"
+            "clapierre",
+            "clapierre1"
         ],
         "name": "Charles LaPierre",
         "github": "clapierre"
@@ -308,7 +311,9 @@
         "name": "Mia Lipner"
     },
     {
-        "nick": ["elui"],
+        "nick": [
+            "elui"
+        ],
         "name": "Edwina Lui",
         "github": "edwinalui82"
     },
@@ -386,7 +391,9 @@
         "github": "WSchindler"
 	},
     {
-        "nick": [],
+        "nick": [
+            "BenSchroeter"
+        ],
         "name": "Ben Schroeter"
     },
     {
