@@ -463,5 +463,12 @@
         ],
         "name": "Benjamin Young",
         "github": "bigbluehat"
-    }
+    },
+    {
+        "nick": {
+            "MURATA"
+	},
+	"name": "MURATA Makoto",
+	"github": "murata0204"
+    }	
 ]
