@@ -1,5 +1,9 @@
 [
     {
+        "nick": [],
+        "name": "Greg Albers"
+    },
+    {
         "nick": [
             "laudrain",
             "Luc"
@@ -143,6 +147,10 @@
         ],
         "name": "Harriett Green",
 	    "github": "greenharr"
+    },
+    {
+        "nick": [],
+        "name": "Katie Haritos-Shea"
     },
     {
         "nick": [],
@@ -352,6 +360,13 @@
             "nick1"
         ],
         "name": "Nick Ruffilo"
+    },
+    {
+        "nick": [
+            "azaroth"
+        ],
+        "name": "Rob Sanderson",
+        "github": "azaroth42"
     },
     {
         "nick": [
