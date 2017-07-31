@@ -1,7 +1,10 @@
 [
     {
-        "nick": [],
-        "name": "Greg Albers"
+        "nick": [
+          "geealbers"
+        ],
+        "name": "Greg Albers",
+        "github": "geealbers"
     },
     {
         "nick": [
