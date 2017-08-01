@@ -5,6 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2017
+* 07-31: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Jul/0232.html), [Minutes](2017/2017-07-31-minutes), [Meeting Summary]()
 * 07-24: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Jul/0036.html), [Minutes](2017/2017-07-24-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/07/25/publishing-wg-telco-2017-07-24-code-of-conduct-definition-of-web-publication/)
 * 07-17: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Jul/0022.html), [Minutes](2017/2017-07-17-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/07/18/2017-07-17-telco-draft-and-tf-update-issue-triage/)
 * 07-10: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Jul/0004.html), [Minutes](2017/2017-07-10-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/07/10/2017-07-10-telco-testing-web-packaging-manifest-a11y-tf/)
