@@ -9,6 +9,8 @@
 	src:  local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
 }
 
+
+
 body {
 	margin:			0;
 	padding: 		0;
@@ -19,6 +21,10 @@ body {
 
 code {
 	background-color: SeaShell;
+}
+
+strong {
+	font-weight: bold;
 }
 
 
