@@ -85,7 +85,8 @@
     },
     {
         "nick": ["Hadrien"],
-        "name": "Hadrien Gardeur"
+        "name": "Hadrien Gardeur",
+        "github": "HadrienGardeur"
     },
     {
         "nick": [
@@ -188,7 +189,8 @@
     {
 		"nick"		: [
             "Deborah_Kaplan",
-            "dkaplan3"
+            "dkaplan3",
+            "dkaplan"
         ],
 		"name"		: "Deborah Kaplan",
 		"github"	: "deborahgu"
