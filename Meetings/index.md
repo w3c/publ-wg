@@ -9,13 +9,14 @@ layout: default
 {:toc}
 
 ## Teleconferences
-* The Group organizes weekly teleconferences. See the [separate page](./gotomeetings) for the technical details on connecting to the calls.
-* The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#pwg` channel, and makes use of two bots on IRC:
 
-    * `zakim` for queue control (see the separate [manual pages](https://www.w3.org/2001/12/zakim-irc-bot.html) for  further details.)
-    * `rrsagent` for scribing and minute generation (see the separate [manual pages](https://www.w3.org/2002/03/RRSAgent) on how to control the access rights and storage of the IRC logs, and the separate [`scribejs` features](https://github.com/w3c/scribejs/blob/master/features.md) for the scribe instructions).
+The weekly teleconferences are held _every week on Mondays_, at *noon US Eastern time* (which corresponds, in the summer period of the Northern Hemisphere, to 9am for San Diego, 1pm for São Paulo, 5pm for London, 6pm for Paris, 9:30pm for New Delhi, and 1am for Tokyo, see also the [time zone calculator](http://bit.ly/2rXCoPx)). See the [separate page](./gotomeetings) for the dial-in information.
 
-The weekly teleconferences are held at *noon US Eastern time* (which corresponds, in the summer period of the Northern Hemisphere, to 9am for San Diego, 1pm for São Paulo, 5pm for London, 6pm for Paris, 9:30pm for New Delhi, and 1am for Tokyo, see also the [time zone calculator](http://bit.ly/2rXCoPx)). See the [separate page](./gotomeetings) for the dial-in information.
+The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#pwg` channel, and makes use of two bots on IRC:
+
+* `zakim` for queue control (see the separate [manual pages](https://www.w3.org/2001/12/zakim-irc-bot.html) for  further details.)
+* `rrsagent` for scribing and minute generation (see the separate [manual pages](https://www.w3.org/2002/03/RRSAgent) on how to control the access rights and storage of the IRC logs, and the separate [`scribejs` features](https://github.com/w3c/scribejs/blob/master/features.md) for the scribe instructions).
+
 
 ## F2F meetings
 
