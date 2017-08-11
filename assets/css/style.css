@@ -70,6 +70,9 @@ strong {
 	font-weight: bold;
 }
 
+.smaller {
+	font-size: smaller
+}
 
 h1 {
 	color: black;
