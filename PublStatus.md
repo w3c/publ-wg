@@ -10,12 +10,15 @@ layout: default
 | Document | Latest official release | Editors’ Draft | Repository |
 |----------|:-----------------------:|:--------------:|:----------:|
 | Web Publications          | (none yet) | [ed](https://w3c.github.io/wpub/)          | [wpub](https://github.com/w3c/wpub/)                  |
-| Packaged Web Publications | (none yet) | [ed](https://w3c.github.io/pwpub/)         | [pwpub](https://github.com/w3c/pwpub/)                |
-| DPUB ARIA 2.0             | (none yet) | [ed](https://w3c.github.io/dpub-aria-2.0/) | [dpub-aria-2.0](https://github.com/w3c/dpub-aria-2.0) |
-| EPUB4                     | (none yet) | [ed](https://w3c.github.io/epub4/)         | [epub4](https://github.com/w3c/epub4/)                |
+| Packaged Web Publications | (none yet) | ([ed](https://w3c.github.io/pwpub/))†         | [pwpub](https://github.com/w3c/pwpub/)                |
+| DPUB ARIA 2.0             | (none yet) | ([ed](https://w3c.github.io/dpub-aria-2.0/))† | [dpub-aria-2.0](https://github.com/w3c/dpub-aria-2.0) |
+| EPUB4                     | (none yet) | ([ed](https://w3c.github.io/epub4/))†         | [epub4](https://github.com/w3c/epub4/)                |
 {: .zebra}
 
-The Editors’ drafts are managed via the respective GitHub repositories; the list of those repositories is available on the relevant [GitHub index page](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories).
+†Only skeleton for now.
+{: .smaller}
+
+The Editors’ drafts are managed in GitHub repositories; the list of those repositories is available on the [GitHub index page](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories).
 
 ## Major planned milestones (from the charter)
 
