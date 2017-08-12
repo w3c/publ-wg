@@ -74,8 +74,11 @@
         "name": "Vagner Diniz"
     },
     {
-        "nick": [],
-        "name": "Ben Dugas"
+        "nick": [
+            "bdugas"
+        ],
+        "name": "Ben Dugas",
+        "github": "bdugas"
     },
     {
         "nick": [],
