@@ -444,6 +444,13 @@
         "name": "Susanna Skinner"
     },
     {
+    "nick"		: [
+        "david_stroup"
+    ],
+    "name"		: "David Stroup"
+    },
+
+    {
 		"nick": [
             "mteixeira-wwn",
             "mateus",
