@@ -203,8 +203,8 @@
             "dkaplan3",
             "dkaplan"
         ],
-		"name"		: "Deborah Kaplan",
-		"github"	: "deborahgu"
+		"name": "Deborah Kaplan",
+		"github": "deborahgu"
 	},
     {
         "nick": [
@@ -344,7 +344,7 @@
             "hughmcguire"
         ],
         "name": "Hugh McGuire",
-        "github": ""
+        "github": "hughmcguire"
     },
     {
         "nick": [
@@ -362,6 +362,10 @@
     {
         "nick": ["sel"],
         "name": "Selma Morais"
+    },
+    {
+        "nick": [],
+        "name": "Fernando Pinto da Silva"
     },
     {
         "nick": ["ckpowell"],
@@ -404,10 +408,10 @@
     {
         "nick": [
             "jodi",
-	    "JodiS"
+	        "JodiS"
         ],
         "name": "Jodi Schneider",
-	"github": "jodischneider"
+	    "github": "jodischneider"
     },
     {
 		"nick": [
@@ -444,12 +448,11 @@
         "name": "Susanna Skinner"
     },
     {
-    "nick"		: [
-        "david_stroup"
-    ],
-    "name"		: "David Stroup"
+        "nick": [
+            "david_stroup"
+        ],
+        "name": "David Stroup"
     },
-
     {
 		"nick": [
             "mteixeira-wwn",
