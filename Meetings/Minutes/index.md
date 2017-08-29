@@ -5,6 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2017
+* 08-28: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Aug/0181.html), [Minutes](2017/2017-08-28-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/08/29/publishing-wg-telco-2017-08-28-issue-cleanup-manifest-serialization-wam-metadata/)
 * 08-21: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Aug/0097.html), [Minutes](2017/2017-08-21-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/08/22/publishing-wg-telco-2017-08-21-html-toc-proposal-milestones/)
 * 08-14: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Aug/0097.html), [Minutes](2017/2017-08-14-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/08/15/publishing-wg-telco-2017-08-14-manifest-in-editors-draft-usage-of-url/)
 * 08-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Aug/0044.html), [Minutes](2017/2017-08-07-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/08/08/publishing-wg-telco-2017-08-07-publ-changes-terms-identifiers-minimum-manifest/)
