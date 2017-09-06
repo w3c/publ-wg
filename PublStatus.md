@@ -18,6 +18,8 @@ layout: default
 †Only skeleton for now.
 {: .smaller}
 
+<!-- <div data-apiary="specifications"></div> -->
+
 The Editors’ drafts are managed in GitHub repositories; the list of those repositories is available on the [GitHub index page](https://github.com/search?q=topic%3Apubl-wg+org%3Aw3c&type=Repositories).
 
 ## Major planned milestones (from the charter)
