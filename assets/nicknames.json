@@ -461,7 +461,14 @@
         ],
 		"name": "Mateus Teixeira",
         "github": "mteixeira-wwn"
-	},
+    },
+    {
+        "nick": [
+            "wendyreid"
+        ],
+        "name": "Wendy Reid",
+        "github":"wreid"
+    },
     {
         "nick": [],
         "name": "Jonathan Thurston"
@@ -490,6 +497,10 @@
         ],
         "name": "Ric Wright",
         "github": "rkwright"
+    },
+    {
+        "nick": [],
+        "name": "Jeff Xu"
     },
     {
         "nick": [
