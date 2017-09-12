@@ -387,7 +387,8 @@
     {
         "nick": [
             "NickRuffilo",
-            "nick1"
+            "nick1",
+            "nick"
         ],
         "name": "Nick Ruffilo"
     },
@@ -518,5 +519,18 @@
         ],
         "name": "Benjamin Young",
         "github": "bigbluehat"
+    },
+
+    {
+        "nick": [
+            "jyasskin"
+        ],
+        "name": "Jeffrey Yasskin"
+    },
+    {
+        "nick": [
+            "ralph"
+        ],
+        "name": "Ralph Swick"
     }
 ]
