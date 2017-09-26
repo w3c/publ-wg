@@ -5,6 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2017
+* 09-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Sep/0048.html), [Minutes](2017/2017-09-25-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/09/26/publishing-wg-telco-2017-09-25-metadata-packaging/)
 * 09-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Sep/0032.html), [Minutes](2017/2017-09-18-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/09/19/publishing-wg-telco-2017-09-18-smil-lite-metadata-fragment-locators/)
 * 09-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Sep/0017.html), [Minutes](2017/2017-09-11-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/09/12/publishing-wg-telco-2017-09-01-web-packaging/)
 * 08-28: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Aug/0181.html), [Minutes](2017/2017-08-28-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/08/29/publishing-wg-telco-2017-08-28-issue-cleanup-manifest-serialization-wam-metadata/)
