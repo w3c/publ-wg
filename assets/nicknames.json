@@ -145,6 +145,7 @@
     {
         "nick": [
             "mattg",
+            "mattgarrish",
             "mgarrish"
         ],
         "name": "Matt Garrish",
@@ -386,6 +387,7 @@
     },
     {
         "nick": [
+            "josh",
             "jpyle"
         ],
         "name": "Joshua Pyle"
@@ -446,6 +448,7 @@
     },
     {
         "nick": [
+            "LillianSullam",
             "lsullam"
         ],
         "name": "Lillian Sullam"
@@ -521,8 +524,10 @@
         "github": "rkwright"
     },
     {
-        "nick": [],
-        "name": "Jeff Xu"
+        "nick": [
+            "jeff_xu"
+        ],
+        "name": "Zheng Xu"
     },
     {
         "nick": [
