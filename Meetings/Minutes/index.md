@@ -5,6 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2017
+* 10-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Oct/0037.html), [Minutes](2017/2017-10-23-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/10/24/publishing-wg-telco-2017-10-23-packaging-archiving-f2f/)
 * 10-16: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Oct/0016.html), [Minutes](2017/2017-10-16-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/10/17/publishing-wg-telco-2017-10-16-lifecycle-locators/)
 * 10-02: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Sep/0077.html), [Minutes](2017/2017-10-02-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/10/03/publishing-wg-telco-2017-10-02-lifecycle-pagination-security/)
 * 09-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Sep/0048.html), [Minutes](2017/2017-09-25-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/09/26/publishing-wg-telco-2017-09-25-metadata-packaging/)

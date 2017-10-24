@@ -354,12 +354,24 @@
         "name": "Maureen McMahon"
     },
     {
-        "nick": ["sel"],
+        "nick": [
+            "Michael"
+        ],
+        "name": "Michael Miller"
+    },
+    {
+        "nick": [
+            "sel"
+        ],
         "name": "Selma Morais"
     },
     {
         "nick": [],
         "name": "Evan Owens"
+    },
+    {
+        "nick": [],
+        "name": "Brian Pech"
     },
     {
         "nick": [],
@@ -408,6 +420,13 @@
         ],
         "name": "Florian Rivoal",
         "github": " frivoal"
+    },
+    {
+        "nick": [
+            "takeshi"
+        ],
+        "name": "Takeshi Kanai",
+        "github": "tkanai"
     },
     {
 		"nick": [
