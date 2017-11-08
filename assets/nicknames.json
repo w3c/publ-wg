@@ -47,7 +47,8 @@
     },
     {
         "nick": [
-            "timCole"
+            "timCole",
+            "tcole"
         ],
         "name": "Tim Cole",
         "github": "tcole3"
@@ -528,7 +529,9 @@
         "name": "Jonathan Thurston"
     },
     {
-        "nick": [],
+        "nick": [
+            "Daniel_Weck"
+        ],
         "name": "Daniel Weck",
         "github": "danielweck"
     },
