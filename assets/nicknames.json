@@ -25,6 +25,14 @@
         "nick": [],
         "name": "Chrstofer Auclair"
     },
+	{
+		"nick"		: [
+            "michaelbaker",
+            "mikebaker"
+        ],
+		"name"		: "Michael Baker",
+		"github"	: "mikebbaker"
+	},
     {
         "nick": [
             "baldurbjarnason"
@@ -354,6 +362,11 @@
     {
         "nick": [],
         "name": "Maureen McMahon"
+    },
+    {
+        "nick": [],
+        "name": "Nellie McKesson",
+        "github": ""
     },
     {
         "nick": [
