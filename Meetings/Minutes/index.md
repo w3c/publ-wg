@@ -5,7 +5,8 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2017
-* 11-13: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Nov/0009.html), [Minutes](2017/2017-11-13-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/?p=718&preview=true)
+* 11-13: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Nov/0018.html), [Minutes](2017/2017-11-20-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/11/21/publishing-wg-telco-2017-11-20-entry-page-fpwd/)
+* 11-13: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Nov/0009.html), [Minutes](2017/2017-11-13-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/11/14/publishing-wg-telco-2017-11-13-tpacpwa-landing-page/)
 * 11-07: [Agenda](https://goo.gl/tjSdk4), [Minutes](2017/2017-11-07-minutes.html) (Second day of the [F2F meeting at TPAC in Burlingame](../F2F/2017.11.Burlingame)), [Meeting Summary](https://www.w3.org/blog/2017/11/publishing-working-group-tpac-2017-summary/)
 * 11-06: [Agenda](https://goo.gl/tjSdk4), [Minutes](2017/2017-11-06-minutes.html) (First day of the [F2F meeting at TPAC in Burlingame](../F2F/2017.11.Burlingame)), [Meeting Summary](https://www.w3.org/blog/2017/11/publishing-working-group-tpac-2017-summary/)
 * 10-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Oct/0037.html), [Minutes](2017/2017-10-23-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/10/24/publishing-wg-telco-2017-10-23-packaging-archiving-f2f/)
