@@ -24,8 +24,7 @@ The details of the process are below.
 The `respecConfig` content must be adapted. Most of these are to be set only once.
 
 1. The data of each editor _must_ include the `w3cid` field, identifying the person in the W3C database. This number appears on the page of the person’s profile page at W3C; alternatively, the staff contact can find it.
-2. Do not add a `publishDate` field in `respecConfig`; this means that the day of the publication will be  automatically used.
-3. Update the value of [`previousPublishDate`](https://github.com/w3c/respec/wiki/previousPublishDate) in `respecConfig` every time a publication happens. the value of `previousMaturity` should be kept on `WD`.
+2. Update the value of [`previousPublishDate`](https://github.com/w3c/respec/wiki/previousPublishDate) in `respecConfig` every time a publication happens. the value of `previousMaturity` should be kept on `WD`.
 
 ## Generate the final version of the document
 
