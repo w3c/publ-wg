@@ -47,6 +47,11 @@
         "name": "Nick Brown"
     },
     {
+        "nick": [],
+        "name": "Jeff Buehler",
+        "github": "buehlerart"
+    },
+    {
         "nick": [
             "fchasen"
         ],
@@ -67,6 +72,10 @@
         ],
         "name": "Rachel Comerford",
         "github": "RachelComerford"
+    },
+    {
+        "nick": [],
+        "name": "Christopher Cosner"
     },
     {
         "nick": [
@@ -383,6 +392,10 @@
     },
     {
         "nick": [],
+        "name": "Jasmine Mulliken"
+    },
+    {
+        "nick": [],
         "name": "Evan Owens"
     },
     {
@@ -517,6 +530,10 @@
     {
         "nick": [],
         "name": "Susanna Skinner"
+    },
+    {
+        "nick": [],
+        "name": "Kathryn Stewart"
     },
     {
         "nick": [
