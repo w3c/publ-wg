@@ -47,7 +47,9 @@
         "name": "Nick Brown"
     },
     {
-        "nick": [],
+        "nick": [
+            " jbuehler"
+        ],
         "name": "Jeff Buehler",
         "github": "buehlerart"
     },
