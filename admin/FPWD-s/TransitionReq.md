@@ -13,10 +13,11 @@ The Web Publication Working Group has resolved [1-3] to request publication of a
     - Locators for Web Publications
         - https://w3c.github.io/publ-loc/?specStatus=FPWD
     
-
 Since this is the first publication of this document, please approve the shortnames: wpub, pwpub, and publ-loc, respectively.
 
-The estimated publication date is 4 January 2018 (confirmed with the Webmaster). The documents will be generated with the proper date and publication status accordingly
+The estimated publication date is 4 January 2018 (confirmed with the Webmaster). The documents will be generated with the proper date and publication status accordingly.
+
+Note that the third document (Locators) is not explicitly listed in the WG's charter[4]. However, that document is a 'spin-off' from the first document (Web Publication); the group judged that keeping it in the original document could, editorially, create an imbalance for that specification. (The charter[4] allows for such splits.)
 
 There were no Formal Objections to publishing these FPWDs.
 
@@ -29,7 +30,8 @@ Ian Jacobs
 [1] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-04-minutes.html#resolution2
 [2] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-11-minutes.html#resolution2
 [3] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-04-minutes.html#resolution3
-[4] https://www.w3.org/Guide/transitions?profile=FPWD
+[4] https://www.w3.org/2017/04/publ-wg-charter/#deliverables
+[5] https://www.w3.org/Guide/transitions?profile=FPWD
 
 
 
