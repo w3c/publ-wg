@@ -1,4 +1,4 @@
-To be sent to the webmaster, comm team, coralie, xueyuan, WG chairs the DD is available.
+To be sent to the webmaster, comm team, coralie, xueyuan, WG chairs when the DD is available.
 
 ----
 
@@ -7,11 +7,11 @@ To be sent to the webmaster, comm team, coralie, xueyuan, WG chairs the DD is av
 
 Denis,
 
-This is an official publication request for the publication of two ODRL Documents as Candidate Recommendations. The publication date is the 04 of January, 2018. The transition request for FPWD has been issued in:
-- https://lists.w3.org/Archives/Member/chairs/@@@@
+This is an official publication request for the publication of three Publishing on the Web Documents as First Public Working Drafts. The publication date is the 04 of January, 2018. The transition request for FPWD has been issued in:
+	- https://lists.w3.org/Archives/Member/chairs/@@@@
 
 the Director's approval is in:
-- @@@@
+	- @@@@
 
 
 The documents are as follows
@@ -21,8 +21,8 @@ The documents are as follows
     - https://www.w3.org/TR/2018/WD-wpub-20180104
 - Packaged Web Publications:
     - https://www.w3.org/TR/2018/WD-pwpub-20180104
-- Locators for Web Publications
-    - https://www.w3.org/TR/2018/WD-publ-loc-20180104
+- Web Annotation Extensions for Web Publications
+    - https://www.w3.org/TR/2018/WD-wpub-ann-20180104
 
 
 Abstract and Status Sections
@@ -33,14 +33,14 @@ See the previous URL-s
 There are already snapshots on github:
 
 - Web Publications:
-    - https://w3c.github.io/wpub/?specStatus=FPWD
+    - https://w3c.github.io/wpub/snapshot
 - Packaged Web Publications:
-    - https://w3c.github.io/pwpub/?specStatus=FPWD
+    - https://w3c.github.io/pwpub/snapshot
 - Locators for Web Publications
-    - https://w3c.github.io/publ-loc/?specStatus=FPWD
+    - https://w3c.github.io/wpub-ann/snapshot
     
 
-I plan to install those document in the course of @@@. 
+I plan to install those document as soon as I get the green light for the publications. 
 
 Thanks!
 

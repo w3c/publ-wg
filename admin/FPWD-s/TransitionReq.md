@@ -10,21 +10,21 @@ The Web Publication Working Group has resolved [1-3] to request publication of a
         - https://w3c.github.io/wpub/?specStatus=FPWD
     - Packaged Web Publications:
         - https://w3c.github.io/pwpub/?specStatus=FPWD
-    - Locators for Web Publications
-        - https://w3c.github.io/publ-loc/?specStatus=FPWD
+    - Web Annotation Extensions for Web Publications
+        - https://w3c.github.io/wpub-ann/?specStatus=FPWD
     
-Since this is the first publication of this document, please approve the shortnames: wpub, pwpub, and publ-loc, respectively.
+Since this is the first publication of these documents, please also approve the shortnames: wpub, pwpub, and wpub-ann, respectively.
 
-The estimated publication date is 4 January 2018 (confirmed with the Webmaster). The documents will be generated with the proper date and publication status accordingly.
+The estimated publication date is 4 January 2018 (to be confirmed with the Webmaster). The documents will be generated with the proper date and publication status accordingly.
 
-Note that the third document (Locators) is not explicitly listed in the WG's charter[4]. However, that document is a 'spin-off' from the first document (Web Publication); the group judged that keeping it in the original document could, editorially, create an imbalance for that specification. (The charter[4] allows for such splits.)
+Note that the third document (Annotation Extensions) is not explicitly listed in the WG's charter[4]. However, that document is a 'spin-off' from the first document (Web Publication); the group judged that keeping it in the original document could, editorially, create an imbalance for that specification. (The charter[4] allows for such splits.)
 
 There were no Formal Objections to publishing these FPWDs.
 
 This request is sent per "How to Organize a Technical Report Transition" [4].
 
 For the co-Chairs of the Web Publications Working Group,
-Ian Jacobs
+Ivan Herman
 
 
 [1] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-04-minutes.html#resolution2

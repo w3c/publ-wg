@@ -8,13 +8,13 @@ this is just a preliminary publication request. The Publishing Working Group has
 
 - Web Publications:
 - Packaged Web Publications:
-- Locators for Web Publications
+- Web Annotation Extensions for Web Publications
 
 The two document snapshots are already available
 
-- https://w3c.github.io/wpub/?specStatus=FPWD
-- https://w3c.github.io/pwpub/?specStatus=FPWD
-- https://w3c.github.io/publ-loc/?specStatus=FPWD
+- https://w3c.github.io/wpub/snapshot/
+- https://w3c.github.io/pwpub/snapshot/
+- https://w3c.github.io/wpub-ann/snapshot/
 
 And I will put them on the /TR/2018/ as soon as we have the Director's decision.
 
