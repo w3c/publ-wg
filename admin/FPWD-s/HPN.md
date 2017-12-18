@@ -2,7 +2,7 @@
 
 The [W3C Publishing Working Group](https://www.w3.org/publishing/groups/publ-wg/) has published three First Public Working Drafts today.
 
-* The [Web Publication](https://www.w3.org/TR/2018/WD-wpub-20180104) defines a collection of information that describes the structure of Web Publications so that user agents can provide user experiences well-suited to reading publications, such as sequential navigation and offline reading. This information includes the default reading order, a list of resources, and publication-wide metadata.
+* The [Web Publication](https://www.w3.org/TR/2018/WD-wpub-20180104) defines a collection of information that describes the structure of Web Publications such that user agents can provide user experiences well-suited to reading publications, such as sequential navigation and offline reading. This information set includes the default reading order, a list of resources, and publication-wide metadata.
 
 * The [Packaged Web Publication](https://www.w3.org/TR/2018/WD-pwpub-20180104) defines a packaging format for combining the resources of a Web Publication [wpub] into a single portable file.
 

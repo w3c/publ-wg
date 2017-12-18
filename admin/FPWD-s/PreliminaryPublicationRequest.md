@@ -4,19 +4,19 @@ To be sent as soon as the documents pass pubrules
 
 Denis,
 
-this is just a preliminary publication request. The Publishing Working Group has requested a FPWD transition for three documents[1], to be published on the Thursday, 4 of January. The two documents are:
+This is just a preliminary publication request. The Publishing Working Group has requested a FPWD transition for three documents[1], to be published on the Thursday, 4 of January. The three documents are:
 
 - Web Publications:
 - Packaged Web Publications:
 - Web Annotation Extensions for Web Publications
 
-The two document snapshots are already available
+The three documents snapshots are already available
 
 - https://w3c.github.io/wpub/snapshot/
 - https://w3c.github.io/pwpub/snapshot/
 - https://w3c.github.io/wpub-ann/snapshot/
 
-And I will put them on the /TR/2018/ as soon as we have the Director's decision.
+I will put them on the /TR/2018/ as soon as we have the Director's decision.
 
 All three documents go through pubrule's checker. 
 

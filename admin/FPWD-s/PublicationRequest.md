@@ -40,7 +40,7 @@ There are already snapshots on github:
     - https://w3c.github.io/wpub-ann/snapshot
     
 
-I plan to install those document as soon as I get the green light for the publications. 
+The documents are already ready to go on my machine, I plan to install those documents as soon as you approve this. 
 
 Thanks!
 

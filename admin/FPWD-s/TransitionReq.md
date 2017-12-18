@@ -27,11 +27,11 @@ For the co-Chairs of the Web Publications Working Group,
 Ivan Herman
 
 
-[1] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-04-minutes.html#resolution2
-[2] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-11-minutes.html#resolution2
-[3] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-04-minutes.html#resolution3
-[4] https://www.w3.org/2017/04/publ-wg-charter/#deliverables
-[5] https://www.w3.org/Guide/transitions?profile=FPWD
+- [1] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-04-minutes.html#resolution2
+- [2] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-11-minutes.html#resolution2
+- [3] https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2017/2017-12-04-minutes.html#resolution3
+- [4] https://www.w3.org/2017/04/publ-wg-charter/#deliverables
+- [5] https://www.w3.org/Guide/transitions?profile=FPWD
 
 
 
