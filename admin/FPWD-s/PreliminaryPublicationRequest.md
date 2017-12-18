@@ -23,4 +23,4 @@ Thank you!
 
 Ivan
 
-[1] https://lists.w3.org/Archives/Member/chairs/2017@@@@@@@
+[1] https://lists.w3.org/Archives/Member/chairs/2017OctDec/0203.html

@@ -8,7 +8,7 @@ To be sent to the webmaster, comm team, coralie, xueyuan, & WG chairs when the D
 Denis,
 
 This is an official publication request for the publication of three Publishing on the Web Documents as First Public Working Drafts. The publication date is the 04 of January, 2018. The transition request for FPWD has been issued in:
-	- https://lists.w3.org/Archives/Member/chairs/@@@@
+	- https://lists.w3.org/Archives/Member/chairs/2017OctDec/0203.html
 
 the Director's approval is in:
 	- @@@@
