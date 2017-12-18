@@ -17,8 +17,6 @@ The three documents snapshots are already available
 
 All three documents go through pubrule's checker as well as the link checker.
 
-The right 'bucket' for the documents is "Digital Publishing". 
-
 I will put them on the /TR/2018/ as soon as we have the Director's decision alongside the official publication request.
 
 Thank you!
