@@ -7,17 +7,17 @@ Philippe and Ralph,
 The Web Publication Working Group has resolved [1-3] to request publication of a FPWD of:
 
     - Web Publications:
-        - https://w3c.github.io/wpub/?specStatus=FPWD
+        - https://w3c.github.io/wpub/snapshot/
     - Packaged Web Publications:
-        - https://w3c.github.io/pwpub/?specStatus=FPWD
+        - https://w3c.github.io/pwpub/snapshot/
     - Web Annotation Extensions for Web Publications
-        - https://w3c.github.io/wpub-ann/?specStatus=FPWD
+        - https://w3c.github.io/wpub-ann/snapshot/
     
 Since this is the first publication of these documents, please also approve the shortnames: wpub, pwpub, and wpub-ann, respectively.
 
-The estimated publication date is 4 January 2018 (to be confirmed with the Webmaster). The documents will be generated with the proper date and publication status accordingly.
+The estimated publication date is 4 January 2018. 
 
-Note that the third document (Annotation Extensions) is not explicitly listed in the WG's charter[4]. However, that document is a 'spin-off' from the first document (Web Publication); the group judged that keeping it in the original document could, editorially, create an imbalance for that specification. (The charter[4] allows for such splits.)
+Note that the third document (Annotation Extensions) is not explicitly listed in the WG's charter[4]. That document is a 'spin-off' from the first document (Web Publication); the group judged that keeping it in the original document could, editorially, create an imbalance for that specification. (The charter[4] allows for such splits.)
 
 There were no Formal Objections to publishing these FPWDs.
 

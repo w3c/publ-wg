@@ -1,5 +1,4 @@
 To be sent as soon as the documents pass pubrules
-
 ----
 
 Denis,
@@ -16,9 +15,11 @@ The three documents snapshots are already available
 - https://w3c.github.io/pwpub/snapshot/
 - https://w3c.github.io/wpub-ann/snapshot/
 
-I will put them on the /TR/2018/ as soon as we have the Director's decision.
+All three documents go through pubrule's checker as well as the link checker.
 
-All three documents go through pubrule's checker. 
+The right 'bucket' for the documents is "Digital Publishing". 
+
+I will put them on the /TR/2018/ as soon as we have the Director's decision alongside the official publication request.
 
 Thank you!
 

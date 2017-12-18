@@ -1,4 +1,4 @@
-To be sent to the webmaster, comm team, coralie, xueyuan, WG chairs when the DD is available.
+To be sent to the webmaster, comm team, coralie, xueyuan, & WG chairs when the DD is available.
 
 ----
 
@@ -30,17 +30,9 @@ Abstract and Status Sections
 
 See the previous URL-s
 
-There are already snapshots on github:
+The document have already been installed; they all pass pubrules and the link checker.
 
-- Web Publications:
-    - https://w3c.github.io/wpub/snapshot
-- Packaged Web Publications:
-    - https://w3c.github.io/pwpub/snapshot
-- Locators for Web Publications
-    - https://w3c.github.io/wpub-ann/snapshot
-    
-
-The documents are already ready to go on my machine, I plan to install those documents as soon as you approve this. 
+The right 'bucket' on our TR page for the documents is "Digital Publishing". 
 
 Thanks!
 
