@@ -5,7 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2017
-* 12-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0064.html), [Minutes](2017/2017-12-18-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/19/publishing-wg-telco-2017-12-18-minor-change-on-locator-doc-aria-end-of-year-reflections/)
+* 12-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0064.html), [Minutes](2017/2017-12-18-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/19/publishing-wg-telco-2017-12-18-minor-change-on-locator-doc-aria-end-of-year-reflections/)
 * 12-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0008.html), [Minutes](2017/2017-12-11-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/12/publishing-wg-telco-2017-12-11-pwp-fpwd-transitions-locators-revisited/)
 * 12-04: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0000.html), [Minutes](2017/2017-12-04-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/05/publishing-wg-telco-2017-12-04-votes-on-fpwd-transitions-pwp-issues/)
 * 11-27: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Nov/0034.html), [Minutes](2017/2017-11-27-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/11/28/publishing-wg-telco-2017-11-27-pwp-locators/)
