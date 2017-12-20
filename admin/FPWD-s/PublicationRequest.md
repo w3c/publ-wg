@@ -3,7 +3,7 @@ To be sent to the webmaster, comm team, coralie, xueyuan, & WG chairs when the D
 ----
 
 
-(Coralie, Xueyuan, this is for information only; I will send you the HPN and AC mail drafts at the time of the publication)
+(Coralie, Xueyuan, this is for information only; I will send you the HPN news draft separately)
 
 Denis,
 
@@ -11,7 +11,7 @@ This is an official publication request for the publication of three Publishing 
 	- https://lists.w3.org/Archives/Member/chairs/2017OctDec/0203.html
 
 the Director's approval is in:
-	- @@@@
+	- https://lists.w3.org/Archives/Member/chairs/2017OctDec/0206.html
 
 
 The documents are as follows
