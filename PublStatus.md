@@ -9,9 +9,9 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository |
 |----------|:-----------------------:|:--------------:|:----------:|
-| Web Publications                             | (none yet) | [ed](https://w3c.github.io/wpub/)              | [wpub](https://github.com/w3c/wpub/)                  |
-| Web Annotation Extensions for Web Publications  | (none yet) | [ed](https://w3c.github.io/wpub-ann/)          | [publ-loc](https://github.com/w3c/wpub-ann/)          |
-| Packaged Web Publications                    | (none yet) | ([ed](https://w3c.github.io/pwpub/))†          | [pwpub](https://github.com/w3c/pwpub/)                |
+| Web Publications                             | [wd](https://www.w3.org/TR/wpub/) | [ed](https://w3c.github.io/wpub/)              | [wpub](https://github.com/w3c/wpub/)                  |
+| Web Annotation Extensions for Web Publications  | [wd](https://www.w3.org/TR/wpub-ann/) | [ed](https://w3c.github.io/wpub-ann/)          | [publ-loc](https://github.com/w3c/wpub-ann/)          |
+| Packaged Web Publications                    | [wd](https://www.w3.org/TR/pwpub/) | ([ed](https://w3c.github.io/pwpub/))          | [pwpub](https://github.com/w3c/pwpub/)                |
 | DPUB ARIA 2.0                                | (none yet) | ([ed](https://w3c.github.io/dpub-aria-2.0/))†  | [dpub-aria-2.0](https://github.com/w3c/dpub-aria-2.0) |
 | EPUB4                                        | (none yet) | ([ed](https://w3c.github.io/epub4/))†          | [epub4](https://github.com/w3c/epub4/)                |
 | Web Publications Use Cases and Requirements‡ | [note](https://www.w3.org/TR/pwp-ucr/) | ([ed](https://w3c.github.io/dpub-pwp-ucr/))| [dpub-pwp-ucr/](https://github.com/w3c/dpub-pwp-ucr//)                |
