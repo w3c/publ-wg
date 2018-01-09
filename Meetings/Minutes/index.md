@@ -4,6 +4,10 @@ layout: default
 
 # Meeting Minutes
 
+## Meetings in 2018
+* 01-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
+
+
 ## Meetings in 2017
 * 12-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0064.html), [Minutes](2017/2017-12-18-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/19/publishing-wg-telco-2017-12-18-minor-change-on-locator-doc-aria-end-of-year-reflections/)
 * 12-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0008.html), [Minutes](2017/2017-12-11-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/12/publishing-wg-telco-2017-12-11-pwp-fpwd-transitions-locators-revisited/)
