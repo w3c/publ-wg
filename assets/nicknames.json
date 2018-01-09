@@ -15,15 +15,15 @@
         "github": "laudrain"
     },
     {
+        "nick": [],
+        "name": "Christofer Auclair"
+    },
+    {
         "nick": [
             "BorisAnthony"
         ],
         "name": "Boris Anthony",
         "github": "BorisAnthony"
-    },
-    {
-        "nick": [],
-        "name": "Chrstofer Auclair"
     },
     {
         "nick": [
@@ -39,6 +39,12 @@
         ],
         "name": "Baldur Bjarnason",
         "github": "baldurbjarnason"
+    },
+    {
+        "nick" : [
+            "laurab"
+        ],
+        "name": "Laura Brady"
     },
     {
         "nick": [
