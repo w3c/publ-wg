@@ -97,7 +97,8 @@
     },
     {
         "nick": [
-            "bdugas"
+            "bdugas",
+            "bendugas"
         ],
         "name": "Ben Dugas",
         "github": "bdugas"
@@ -165,7 +166,9 @@
         "github": "hlflanagan"
     },
     {
-        "nick": [],
+        "nick": [
+            "teenya"
+        ],
         "name": "Teenya Franklin"
     },
     {
@@ -285,6 +288,10 @@
         ],
         "name": "Charles LaPierre",
         "github": "clapierre"
+    },
+    {
+        "nick": [],
+        "name": "Mustapha Lazrek"
     },
     {
         "nick": [],
@@ -569,6 +576,10 @@
         "github": "mteixeira-wwn"
     },
     {
+        "nick": [],
+        "name": "Ben Walters"
+    },
+    {
         "nick": [
             "wendyreid"
         ],
@@ -637,6 +648,10 @@
             "jyasskin"
         ],
         "name": "Jeffrey Yasskin"
+    },
+    {
+        "nick": [],
+        "name": "Jiannan Zheng"
     },
     {
         "nick": [

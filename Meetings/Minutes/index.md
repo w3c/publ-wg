@@ -5,7 +5,8 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2018
-* 01-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
+* 01-22: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0069.html), [Minutes](2018/2018-01-22-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/23/publishing-wg-telco-2018-01-22-dpub-aria-implementations-manifest-lifecycle/)
+* 01-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
 
 
 ## Meetings in 2017
