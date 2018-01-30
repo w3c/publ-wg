@@ -90,6 +90,13 @@
     },
     {
         "nick": [
+            "gregdavis"
+        ],
+        "name": "Greg Davis",
+        "github" : "antelopeb"
+    },
+    {
+        "nick": [
             "vagner",
             "vagner_br"
         ],
@@ -290,8 +297,11 @@
         "github": "clapierre"
     },
     {
-        "nick": [],
-        "name": "Mustapha Lazrek"
+        "nick": [
+            "MustLazMS"
+        ],
+        "name": "Mustapha Lazrek",
+        "github": "Mustlaz"
     },
     {
         "nick": [],
@@ -576,8 +586,11 @@
         "github": "mteixeira-wwn"
     },
     {
-        "nick": [],
-        "name": "Ben Walters"
+        "nick": [
+            "BenWaltersMS"
+        ],
+        "name": "Ben Walters",
+        "github": "BCWalters"
     },
     {
         "nick": [
@@ -648,10 +661,6 @@
             "jyasskin"
         ],
         "name": "Jeffrey Yasskin"
-    },
-    {
-        "nick": [],
-        "name": "Jiannan Zheng"
     },
     {
         "nick": [
