@@ -426,7 +426,8 @@
         "nick": [
             "jasminemulliken"
         ],
-        "name": "Jasmine Mulliken"
+        "name": "Jasmine Mulliken",
+        "github": "jmulliken"
     },
     {
         "nick": [],
@@ -448,7 +449,8 @@
     },
     {
         "nick": [
-            "gpellegrino"
+            "gpellegrino",
+            "g_pellegrino"
         ],
         "name": "Gregorio Pellegrino",
         "github": "gregoriopellegrino"
