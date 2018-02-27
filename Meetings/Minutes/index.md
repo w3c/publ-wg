@@ -5,10 +5,13 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2018
+* 02-26: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Feb/0166.html), [Minutes](2018/2018-02-26-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/02/27/publishing-wg-telco-2018-02-26-wam-and-affordances-task-forces/)
+* 02-19: (No meeting, US Presidents' day.)
 * 02-12: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Feb/0094.html), [Minutes](2018/2018-02-12-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/02/13/publishing-wg-telco-2018-02-12-wam-overview-lifecycles-affordances/)
 * 02-05: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Feb/0006.html), [Minutes](2018/2018-02-05-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/02/06/publishing-wg-telco-2018-02-05-core-issues-raised-by-the-tag/)
 * 01-29: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0077.html), [Minutes](2018/2018-01-29-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/30/publishing-wg-telco-2018-01-29-packaging/)
 * 01-22: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0069.html), [Minutes](2018/2018-01-22-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/23/publishing-wg-telco-2018-01-22-dpub-aria-implementations-manifest-lifecycle/)
+* 01-15: (No meeting, US Martin Luther King day.)
 * 01-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
 
 

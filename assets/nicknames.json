@@ -204,7 +204,9 @@
         "github": "greenharr"
     },
     {
-        "nick"  : [],
+        "nick"  : [
+            "Michael_Goodman"
+        ],
         "name": "Michael Goodman"
     },
     {
@@ -434,7 +436,9 @@
         "github": "jmulliken"
     },
     {
-        "nick": [],
+        "nick": [
+            "evan"
+        ],
         "name": "Evan Owens"
     },
     {
@@ -577,7 +581,8 @@
     },
     {
         "nick": [
-            "david_stroup"
+            "david_stroup",
+            "dave_stroup"
         ],
         "name": "David Stroup"
     },
