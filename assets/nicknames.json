@@ -176,7 +176,8 @@
         "nick": [
             "teenya"
         ],
-        "name": "Teenya Franklin"
+        "name": "Teenya Franklin",
+        "github": "Teenya"
     },
     {
         "nick": [
@@ -678,5 +679,11 @@
             "ralph"
         ],
         "name": "Ralph Swick"
+    },
+    {
+        "nick": [
+            "Franco"
+        ],
+        "name": "Franco Alvarado"
     }
 ]
