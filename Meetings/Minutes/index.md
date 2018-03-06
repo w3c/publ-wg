@@ -5,7 +5,7 @@ layout: default
 # Meeting Minutes
 
 ## Meetings in 2018
-* 03-05: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Mar/0001.html), [Minutes](2018/2018-03-05-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/03/06/publishing-wg-telco-2018-03-05-dpub-aria-extensions-epub-3-2/)
+* 03-05: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Mar/0001.html), [Minutes](2018/2018-03-05-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/03/06/publishing-wg-telco-2018-03-05-dpub-aria-extensions-epub-3-2/)
 * 02-26: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Feb/0166.html), [Minutes](2018/2018-02-26-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/02/27/publishing-wg-telco-2018-02-26-wam-and-affordances-task-forces/)
 * 02-19: (No meeting, US Presidents' day.)
 * 02-12: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Feb/0094.html), [Minutes](2018/2018-02-12-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/02/13/publishing-wg-telco-2018-02-12-wam-overview-lifecycles-affordances/)
