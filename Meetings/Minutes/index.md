@@ -3,8 +3,14 @@ layout: default
 ---
 
 # Meeting Minutes
+{: .no_toc}
 
-## Meetings in 2018
+* TOC
+{:toc}
+
+## 2018
+
+### Working Group Meetings
 * 03-12: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Mar/0026.html), [Minutes](2018/2018-03-12-minutes.html), [Meeting Summary](https://www.w3.org/blog/2018/03/publishing-wg-telco-2018-03-12-f2f-planning-issue-tracking/)
 * 03-05: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Mar/0001.html), [Minutes](2018/2018-03-05-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/03/06/publishing-wg-telco-2018-03-05-dpub-aria-extensions-epub-3-2/)
 * 02-26: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Feb/0166.html), [Minutes](2018/2018-02-26-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/02/27/publishing-wg-telco-2018-02-26-wam-and-affordances-task-forces/)
@@ -16,8 +22,12 @@ layout: default
 * 01-15: (No meeting, US Martin Luther King day.)
 * 01-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
 
+### Affordances’ Task forces
+* [16 March](2018/2018-03-16-atf-minutes)
 
-## Meetings in 2017
+## 2017
+
+### Working Group Meetings
 * 12-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0064.html), [Minutes](2017/2017-12-18-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/19/publishing-wg-telco-2017-12-18-minor-change-on-locator-doc-aria-end-of-year-reflections/)
 * 12-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0008.html), [Minutes](2017/2017-12-11-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/12/publishing-wg-telco-2017-12-11-pwp-fpwd-transitions-locators-revisited/)
 * 12-04: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0000.html), [Minutes](2017/2017-12-04-minutes.html), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/05/publishing-wg-telco-2017-12-04-votes-on-fpwd-transitions-pwp-issues/)
