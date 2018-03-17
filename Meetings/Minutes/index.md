@@ -26,6 +26,7 @@ layout: default
 * [16 March](2018/2018-03-16-atf-minutes)
 
 ## 2017
+* [16 March](2018/2018-03-16-pwg-manifest)
 
 ### Working Group Meetings
 * 12-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2017Dec/0064.html), [Minutes](2017/2017-12-18-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2017/12/19/publishing-wg-telco-2017-12-18-minor-change-on-locator-doc-aria-end-of-year-reflections/)
