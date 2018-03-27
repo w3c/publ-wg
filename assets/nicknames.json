@@ -247,14 +247,16 @@
         "nick": [
             "Deborah_Kaplan",
             "dkaplan3",
-            "dkaplan"
+            "dkaplan",
+            "deborah"
         ],
         "name": "Deborah Kaplan",
         "github": "deborahgu"
     },
     {
         "nick": [
-            "Bill_Kasdorf"
+            "Bill_Kasdorf",
+            "BillK"
         ],
         "name": "Bill Kasdorf",
         "github": "BillKasdorf"
@@ -431,7 +433,8 @@
     },
     {
         "nick": [
-            "jasminemulliken"
+            "jasminemulliken",
+            "jmulliken"
         ],
         "name": "Jasmine Mulliken",
         "github": "jmulliken"
@@ -663,7 +666,8 @@
     },
     {
         "nick": [
-            "bigbluehat"
+            "bigbluehat",
+            "benjamin"
         ],
         "name": "Benjamin Young",
         "github": "bigbluehat"
@@ -685,5 +689,13 @@
             "Franco"
         ],
         "name": "Franco Alvarado"
+    },
+    {
+        "name": "Adam Sisco",
+        "github":"awsisco",
+        "nick": [
+            "awsisco",
+            "adamsisco"
+        ]
     }
 ]
