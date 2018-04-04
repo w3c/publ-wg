@@ -686,9 +686,11 @@
     },
     {
         "nick": [
-            "Franco"
+            "Franco",
+            "francoalvarado"
         ],
-        "name": "Franco Alvarado"
+        "name": "Franco Alvarado",
+        "github": "francofaa"
     },
     {
         "name": "Adam Sisco",
