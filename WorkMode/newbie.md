@@ -31,7 +31,7 @@ Meetings usually use [IRC](index#irc) as a tool for queue control and minute tak
 
 ## Specifications in Progress
 
-A list of the group's specifications, including the publication status of each spec, can be found in the group's *PubStatus* document: [`https://www.w3.org/publishing/groups/publ-wg/PublStatus`](https://www.w3.org/publishing/groups/publ-wg/PublStatus).
+A list of the group’s specifications, including the publication status of each spec, can be found in the group’s [*PubStatus* document](https://www.w3.org/publishing/groups/publ-wg/PublStatus).
 
 ## New WG Member Introductions
 

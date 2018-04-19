@@ -15,7 +15,7 @@ Publishing the group’s Working Drafts is done via a combination of GitHub and 
 
 What this means in practice is that the group can publish a Working Draft as often as its desires without any human intervention from the W3C staff.
 
-The details of the process are below. 
+The details of the process are below.
 
 * TOC
 {:toc}
@@ -26,7 +26,7 @@ The details of the process are below.
 The `respecConfig` content must be adapted. Most of these are to be set only once.
 
 1. The data of each editor _must_ include the `w3cid` field, identifying the person in the W3C database. This number appears on the page of the person’s profile page at W3C; alternatively, the staff contact can find it.
-2. Update the value of [`previousPublishDate`](https://github.com/w3c/respec/wiki/previousPublishDate) in `respecConfig` every time a publication happens. the value of `previousMaturity` should be kept on `WD`.
+2. Update the value of [`previousPublishDate`](https://github.com/w3c/respec/wiki/previousPublishDate) in `respecConfig` every time a publication happens. The value of `previousMaturity` should be kept on `WD`.
 
 ## Generate the final version of the document
 
@@ -46,7 +46,6 @@ Note that, if the ECHIDNA file is incomplete (i.e., some resources are _not_ lis
 
 ## Merge the `master` branch into the `publish_wd` branch
 
-You should probably do this on your local machine, using your preferred GitHub interface. Commit the changes onto Github. 
+You should probably do this on your local machine, using your preferred GitHub interface. Commit the changes onto Github.
 
 You are done; the new version should appear as [https://www.w3.org/TR/wpub/](https://www.w3.org/TR/wpub/). It is worth checking the [`public-tr-notifications`](https://lists.w3.org/Archives/Public/public-tr-notifications/) mailing list archive to see if everything is o.k.; successful publications or errors are sent to that list.
-

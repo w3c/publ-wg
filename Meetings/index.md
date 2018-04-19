@@ -35,7 +35,6 @@ Minutes are taken using IRC, and is based by a collective effort: one of the par
 Minute taking and cleanup is greatly helped by:
 
 * the scribe should used a number conventions, documented [`scribejs` features](https://github.com/w3c/scribejs/blob/master/features.md) separately.
-* extra features to connect the meeting with our github repositories are provided by the [‘github bot’](https://github.com/dbaron/wgmeeting-github-ircbot/blob/master/README.md)
 * to help minute taking and cleaning them later, please use a consistent IRC handle; scribes should use that handle to identify the person speaking. `scribejs` automatically replaces the handle with the person’s full name, making the minutes more readable to outsiders.
     * note that in most IRC clients the `TAB` key can be used to expand to an existing irc handle
 
@@ -45,4 +44,4 @@ Minute taking and cleanup is greatly helped by:
 
 The minutes themselves are stored, in Markdown (more exactly in “Kremdown”) on the WG’s core [github repository](https://github.com/w3c/publ-wg) in the `Meetings/Minutes/2017`, `Meetings/Minutes/2018`, etc., folders.
 
-As described in the [separate page on our working mode](../WorkMode/index#telco), meeting minutes are considered as “Draft” until officially approved after five business days, usually at the subsequent meeting. During that period,, if a participant requests a change in the minutes, he/she can issue, for example, a Pull Request with the proposed changes.
+As described in the [separate page on our working mode](../WorkMode/index#telco), meeting minutes are considered as “Draft” until officially approved after five business days, usually at the subsequent meeting. During that period, if a participant requests a change in the minutes, he/she can issue, for example, a Pull Request with the proposed changes.
