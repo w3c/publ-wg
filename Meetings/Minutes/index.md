@@ -27,6 +27,7 @@ layout: default
 * 01-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
 
 ### Affordances’ Task Force Meetings
+* [26 April](https://www.w3.org/2018/04/26-pwgatf-minutes.html)
 * [16 March](2018/2018-03-16-atf-minutes)
 
 ### WAM Task Force Meetings
