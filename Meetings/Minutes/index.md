@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 04-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Apr/0035.html), [Minutes](2018/2018-04-30-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/05/01/publishing-wg-telco-2018-04-30-affordances-task-force-gaps-from-classic-epub)
 * 04-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Apr/0023.html), [Minutes](2018/2018-04-23-pwg.html), [Meeting Summary](https://www.w3.org/blog/2018/04/publishing-wg-telco-2018-04-23-offlining-infoset/)
 * 04-16: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Apr/0013.html), [Minutes](2018/2018-04-16-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/04/17/publishing-wg-telco-2018-04-16-review-of-wgs-goals/)
 * 04-09: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Apr/0001.html), [Minutes](2018/2018-04-09-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/04/09/publishing-wg-telco-2018-04-09-f2f-meeting-planning/)
