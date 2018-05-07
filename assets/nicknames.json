@@ -237,8 +237,11 @@
         "name": "Leslie Hulse"
     },
     {
-        "nick": ["derekJackson"],
-        "name": "Derek Jackson"
+        "nick": [
+            "derekJackson"
+        ],
+        "name": "Derek Jackson",
+        "github" : "derekjackson-hbp"
     },
     {
         "nick": [
