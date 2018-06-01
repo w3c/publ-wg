@@ -645,7 +645,8 @@
     {
         "nick": [
             "prototypo",
-            "dwood"
+            "dwood",
+            "DavidWood"
         ],
         "name": "David Wood",
         "github": "prototypo"
@@ -710,6 +711,13 @@
         "nick": [
             "awsisco",
             "adamsisco"
+        ]
+    },
+    {
+        "name": "Jean Kaplansky",
+        "nick" : [
+            "Jean_kaplansky",
+            "JeanK"
         ]
     }
 ]
