@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 06-04: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0000.html), [Minutes](2018/2018-06-04-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/05/publishing-wg-telco-2018-06-04-f2f-meeting-review/)
 * 05-31: [Agenda](https://tinyurl.com/y9g4fgat), [Minutes](2018/2018-05-31-pwg.html) (Second day of the [F2F meeting in Toronto](../F2F/2018.05.Toronto)), [Meeting Summary]()
 * 05-30: [Agenda](https://tinyurl.com/y9g4fgat), [Minutes](2018/2018-05-30-pwg.html) (First day of the [F2F meeting in Toronto](../F2F/2018.05.Toronto)), [Meeting Summary]()
 * 05-21: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018May/0038.html), [Minutes](2018/2018-05-21-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/05/22/publishing-wg-telco-2018-05-21-closing-issues-wam-json-usage-context-list-of-resources/)
