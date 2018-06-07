@@ -719,5 +719,12 @@
             "Jean_kaplansky",
             "JeanK"
         ]
+    },
+    {
+        "name": "Marcelo da Silva Zanon",
+        "nick": [
+            "marcelo"
+        ],
+        "github" : "marcelozanon"
     }
 ]
