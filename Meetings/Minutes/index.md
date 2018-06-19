@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 06-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0062.html), [Minutes](2018/2018-06-18-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/19/publishing-wg-telco-2018-06-18-epubtype-affordances-toc-in-manifest/)
 * 06-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0029.html), [Minutes](2018/2018-06-11-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/12/publishing-wg-telco-2018-06-11-cover-in-the-infoset-json-terms-for-reading-order-and-resources/)
 * 06-04: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0000.html), [Minutes](2018/2018-06-04-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/05/publishing-wg-telco-2018-06-04-f2f-meeting-review/)
 * 05-31: [Agenda](https://tinyurl.com/y9g4fgat), [Minutes](2018/2018-05-31-pwg.html) (Second day of the [F2F meeting in Toronto](../F2F/2018.05.Toronto)), [Meeting Summary]()
