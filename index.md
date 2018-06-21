@@ -1,5 +1,36 @@
 ---
 layout: home
+json-ld: |
+  {
+      "@context": "http://schema.org/",
+      "@type": "Organization",
+      "name": "Publishing Working Group",
+      "url": "https://www.w3.org/publishing/groups/publ-wg/",
+      "parentOrganization": {
+          "@type": "Organization",
+          "name": "World Wide Web Consortium",
+          "url": "https://www.w3.org"
+      },
+      "member": {
+          "@type": "OrganizationRole",
+          "roleName": "Co-Chair",
+          "member": [{
+              "@type": "Person",
+              "name": "Tzviya Siegman",
+              "email": "tsiegman@wiley.com"
+          },{
+              "@type": "Person",
+              "name": "Garth Conboy",
+              "email": "garth@google.com"
+          }]
+      },
+      "contactPoint": {
+          "@type": "ContactPoint",
+          "name": "Ivan Herman",
+          "email": "ivan@w3.org",
+          "contactType": "W3C Staff Contact"
+      }
+  }
 ---
 > [Loading…]
 {: data-apiary="description"}

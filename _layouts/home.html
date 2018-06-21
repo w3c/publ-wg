@@ -9,6 +9,9 @@
     <meta name="screen-orientation" content="portrait" />
     <meta name="full-screen" content="yes" />
     <meta name="description" content="The mission of the Publishing Working Group is to enable all publications—with all their specificities and traditions—to become first-class entities on the Web." />
+    {% if page.json-ld %}
+    <script type="application/ld+json">{{ page.json-ld }}</script>
+    {% endif %}
     <link rel="stylesheet" href="https://www.w3.org/publishing/groups/publ-wg/assets/css/style.css">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
