@@ -43,4 +43,4 @@ The milestones [have been updated](https://lists.w3.org/Archives/Public/public-p
 * DPUB-ARIA 2.0:
     * On hold pending the timeline of the [ARIA 1.2](https://w3c.github.io/aria/) work
 
-![Milestones shown on a horizontal timeline](./assets/images/timeline.svg)
+![Milestones shown on a horizontal timeline](https://www.w3.org/publishing/groups/publ-wg/assets/images/timeline.svg)
