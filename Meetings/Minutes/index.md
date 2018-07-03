@@ -11,7 +11,8 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
-* 06-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0132.html), [Minutes](2018/2018-06-25-pwg.html), [Meeting Summary]()
+* 07-02: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0142.html), [Minutes](2018/2018-07-02-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/07/03/publishing-wg-telco-2018-07-02-hints-to-resources-navigation-beyond-toc-publication-bounds/)
+* 06-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0132.html), [Minutes](2018/2018-06-25-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/26/publishing-wg-telco-2018-06-25-closing-some-pr-s-schema-org-issues/)
 * 06-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0062.html), [Minutes](2018/2018-06-18-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/19/publishing-wg-telco-2018-06-18-epubtype-affordances-toc-in-manifest/)
 * 06-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0029.html), [Minutes](2018/2018-06-11-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/12/publishing-wg-telco-2018-06-11-cover-in-the-infoset-json-terms-for-reading-order-and-resources/)
 * 06-04: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0000.html), [Minutes](2018/2018-06-04-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/05/publishing-wg-telco-2018-06-04-f2f-meeting-review/)
