@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "publ-wg",
+  "version": "0.1.0",
+  "description": "Node tooling for the Publishing Working Group site",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scribejs": "scribejs -c .scribejs.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3c/publ-wg.git"
+  },
+  "keywords": [
+    "W3C",
+    "publishing"
+  ],
+  "author": "W3C Members",
+  "license": "W3C-20150513",
+  "bugs": {
+    "url": "https://github.com/w3c/publ-wg/issues"
+  },
+  "homepage": "https://github.com/w3c/publ-wg#readme",
+  "devDependencies": {
+    "scribejs": "git+https://github.com/w3c/scribejs.git"
+  }
+}
