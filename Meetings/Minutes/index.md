@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 07-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jul/0035.html), [Minutes](2018/2018-07-23-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/07/24/publishing-wg-telco-2018-07-23-issues-on-cover-and-language-implementations-ucr/)
 * 07-09: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0142.html), [Minutes](2018/2018-07-09-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/07/15/publishing-wg-telco-2018-07-09-consensus-on-some-technical-directions-scrolling-and-pagination/)
 * 07-02: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0142.html), [Minutes](2018/2018-07-02-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/07/03/publishing-wg-telco-2018-07-02-hints-to-resources-navigation-beyond-toc-publication-bounds/)
 * 06-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0132.html), [Minutes](2018/2018-06-25-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/26/publishing-wg-telco-2018-06-25-closing-some-pr-s-schema-org-issues/)
