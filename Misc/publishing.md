@@ -30,7 +30,7 @@ The `respecConfig` content must be adapted. Most of these are to be set only onc
 
 ## Generate the final version of the document
 
-The value of [`specStatus`](https://github.com/w3c/respec/wiki/specStatus) should _not_ be changed in the source; it should remain `ED`. Instead, when viewing the editor’s draft, use the following URL (or its local equivalent if you use a local server): [https://w3c.github.io/wpub/?specStatus=WD&publishDate=2017-12-05](https://w3c.github.io/wpub/?specStatus=FPWD&publishDate=2017-12-05) (setting the publication date as appropriate). Using this URL overwrites the values defined in `respecConfig` and the result is the right Working Draft format. Use then the standard `respec` mechanism to generate the final HTML to be put into `snapshot` folder.
+The value of [`specStatus`](https://github.com/w3c/respec/wiki/specStatus) should _not_ be changed in the source; it should remain `ED`. Instead, when viewing the editor’s draft, use the following URL (or its local equivalent if you use a local server): [https://w3c.github.io/wpub/?specStatus=WD&publishDate=2017-12-05](https://w3c.github.io/wpub/?specStatus=WD&publishDate=2017-12-05) (setting the publication date as appropriate). Using this URL overwrites the values defined in `respecConfig` and the result is the right Working Draft format. Use then the standard `respec` mechanism to generate the final HTML to be put into `snapshot` folder.
 
 ## Modify (if necessary) the Echidna manifest
 
