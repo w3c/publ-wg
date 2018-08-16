@@ -23,6 +23,7 @@ The Group also uses IRC for during the calls for minute taking, queue control, a
 * [June 22-23, New-York, NY, USA](./F2F/2017.06.NYC)
 * [November 6-7, Burlingame, CA, US](./F2F/2017.11.Burlingame)
 * [May 30-31, Toronto, Ontario, Canada](./F2F/2018.05.Toronto)
+* [October 22-23, Lyon, France](./F2F/2018.10.Lyon)
 
 ## Meeting Minutes
 
