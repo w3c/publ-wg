@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 08-27: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Aug/0018.html), [Minutes](2018/2018-08-27-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/08/28/publishing-wg-telco-2018-08-27-table-of-content-structures/)
 * 08-20: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Aug/0010.html), [Minutes](2018/2018-08-20-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/08/21/publishing-wg-telco-2018-08-20-implementations-access-mode-sufficient-canonical-manifest-toc/)
 * 07-30: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jul/0055.html), [Minutes](2018/2018-07-30-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/07/31/publishing-wg-telco-2018-07-30-publishing-status-implementations-start-thinking-epub4/)
 * 07-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jul/0035.html), [Minutes](2018/2018-07-23-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/07/24/publishing-wg-telco-2018-07-23-issues-on-cover-and-language-implementations-ucr/)
