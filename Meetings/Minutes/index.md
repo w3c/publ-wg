@@ -41,6 +41,10 @@ layout: default
 * 01-15: (No meeting, US Martin Luther King day.)
 * 01-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
 
+### Audio Task Force Meetings:
+* [29 August](https://www.w3.org/2018/08/28-pwg-audio-minutes.html)
+* [21 June](https://www.w3.org/2018/06/21-pwg-audio-minutes.html)
+
 ### Affordances’ Task Force Meetings
 * [26 April](https://www.w3.org/2018/04/26-pwgatf-minutes.html)
 * [16 March](2018/2018-03-16-atf-minutes)
