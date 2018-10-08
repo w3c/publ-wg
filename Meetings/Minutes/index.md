@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 10-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Oct/0008.html), [Minutes](2018/2018-10-08-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/10/08/publishing-wg-telco-2018-10-08-pagelist-incubation/)
 * 10-01: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Sep/0030.html), [Minutes](2018/2018-10-01-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/10/02/publishing-wg-telco-2018-10-01-audiobooks/)
 * 09-17: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Sep/0012.html), [Minutes](2018/2018-09-17-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/09/17/publishing-wg-telco-2018-09-17-issue-review-uas-that-are-not-wp-aware/)
 * 09-10: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Sep/0000.html), [Minutes](2018/2018-09-10-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/09/11/publishing-wg-telco-2018-09-10-toc-structures-toc-pointing-out-of-bounds-term-renaming/)
