@@ -602,6 +602,12 @@
         "github": "mteixeira-wwn"
     },
     {
+        "nick" : [
+            "bobbytung"
+        ],
+        "name" : "Bobby Tung"
+    },
+    {
         "nick": [
             "BenWaltersMS"
         ],
@@ -610,6 +616,7 @@
     },
     {
         "nick": [
+            "wendy",
             "wendyreid"
         ],
         "name": "Wendy Reid",
