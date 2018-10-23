@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 10-23: [Agenda](https://docs.google.com/document/d/1Mt9PTcOdmrCwIsgfxbGMGjwHlUsySU01I0D4oBkSbcA/edit), [Minutes](2018/2018-10-23-pwg.html) (F2F meeting in Lyon, second day)
 * 10-22: [Agenda](https://docs.google.com/document/d/1Mt9PTcOdmrCwIsgfxbGMGjwHlUsySU01I0D4oBkSbcA/edit), [Minutes](2018/2018-10-22-pwg.html) (F2F meeting in Lyon, first day)
 * 10-15: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Oct/0029.html), [Minutes](2018/2018-10-15-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/10/16/publishing-wg-telco-2018-10-15-use-case-document-wp-s-in-non-wp-aware-browsers/)
 * 10-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Oct/0008.html), [Minutes](2018/2018-10-08-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/10/08/publishing-wg-telco-2018-10-08-pagelist-incubation/)
