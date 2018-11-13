@@ -666,7 +666,7 @@
             "zheng_xu",
             "zheng"
         ],
-        "name": "Zheng Xu",
+        "name": "Zheng Xu (Jeff)",
         "github": "rakutenjeff"
     },
     {
@@ -733,5 +733,9 @@
     {
         "name": "Juan Corona",
         "nick": ["JuanCorona"]
+    },
+    {
+        "name" : "Yu-Wei Chang (Yanni)",
+        "nick" : ["yanni"]
     }
 ]

@@ -11,7 +11,8 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
-* 11-05: [Agenda](https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2018/2018-10-15-pwg.html), [Minutes](2018/2018-11-05-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/11/06/publishing-wg-telco-2018-11-05-tpac-memories-possible-rechartering-use-cases/)
+* 11-12: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0013.html), [Minutes](2018/2018-11-12-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/11/13/publishing-wg-telco-2018-11-12-origin-toc/)
+* 11-05: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0000.html), [Minutes](2018/2018-11-05-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/11/06/publishing-wg-telco-2018-11-05-tpac-memories-possible-rechartering-use-cases/)
 * 10-23: [Agenda](https://docs.google.com/document/d/1Mt9PTcOdmrCwIsgfxbGMGjwHlUsySU01I0D4oBkSbcA/edit), [Minutes](2018/2018-10-23-pwg.html) (F2F meeting in Lyon, second day)
 * 10-22: [Agenda](https://docs.google.com/document/d/1Mt9PTcOdmrCwIsgfxbGMGjwHlUsySU01I0D4oBkSbcA/edit), [Minutes](2018/2018-10-22-pwg.html) (F2F meeting in Lyon, first day)
 * 10-15: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Oct/0029.html), [Minutes](2018/2018-10-15-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/10/16/publishing-wg-telco-2018-10-15-use-case-document-wp-s-in-non-wp-aware-browsers/)
