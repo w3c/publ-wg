@@ -195,7 +195,8 @@
         "nick": [
             "mattg",
             "mattgarrish",
-            "mgarrish"
+            "mgarrish",
+            "matt"
         ],
         "name": "Matt Garrish",
         "github": "mattgarrish"
@@ -738,5 +739,12 @@
     {
         "name" : "Yu-Wei Chang (Yanni)",
         "nick" : ["yanni"]
+    },
+    {
+        "name" : "Simon Collinson",
+        "nick" : [
+            "simon_collinson",
+            "Simon"
+        ]
     }
 ]

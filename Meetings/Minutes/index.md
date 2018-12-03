@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 12-03: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0042.html), [Minutes](2018/2018-12-03-pwg.html)
 * 11-26: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0039.html), [Minutes](2018/2018-11-26-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/11/27/publishing-wg-telco-2018-11-26-toc/)
 * 11-19: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0026.html), [Minutes](2018/2018-11-19-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/11/20/publishing-wg-telco-2018-11-19-use-cases-minimal-viable-product/)
 * 11-12: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0013.html), [Minutes](2018/2018-11-12-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/11/13/publishing-wg-telco-2018-11-12-origin-toc/)
