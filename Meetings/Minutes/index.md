@@ -11,6 +11,7 @@ layout: default
 ## 2018
 
 ### Working Group Meetings
+* 12-10: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Dec/0082.html), [Minutes](2018/2018-12-17-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/12/18/publishing-wg-telco-2018-12-17-vanilla-browser-explainer/)
 * 12-10: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Dec/0011.html), [Minutes](2018/2018-12-10-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/12/11/publishing-wg-telco-2018-12-10-audiobook-issues/)
 * 12-03: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0042.html), [Minutes](2018/2018-12-03-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/12/03/publishing-wg-telco-2018-12-03-mvp/)
 * 11-26: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Nov/0039.html), [Minutes](2018/2018-11-26-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/11/27/publishing-wg-telco-2018-11-26-toc/)
