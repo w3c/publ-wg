@@ -316,7 +316,8 @@
         "nick": [
             "clapierre",
             "clapierre1",
-            "CharlesL"
+            "CharlesL",
+            "CharlesL1"
         ],
         "name": "Charles LaPierre",
         "github": "clapierre"
@@ -749,5 +750,12 @@
             "Simon",
             "simoncollinson"
         ]
+    },
+    {
+        "name" : "Geoff Jukes",
+        "nick" : [
+            "geoff_jukes"
+        ],
+        "github" : "geoffjukes"
     }
 ]

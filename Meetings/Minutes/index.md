@@ -8,6 +8,13 @@ layout: default
 * TOC
 {:toc}
 
+## 2019
+
+### Working Group Meetings
+* 01-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jan/0001.html), [Minutes](2019/2019-01-07-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2019/01/08/publishing-wg-telco-2019-01-07-packaging-for-audio/)
+
+### Audio Task Force Meetings
+
 ## 2018
 
 ### Working Group Meetings
@@ -55,8 +62,8 @@ layout: default
 * 01-15: (No meeting, US Martin Luther King day.)
 * 01-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jan/0000.html), [Minutes](2018/2018-01-08-minutes), [Meeting Summary](https://www.w3.org/blog/dpub/2018/01/09/publishing-wg-telco-2018-01-08-manifest-encoding-prototypes-sync-media/)
 
-### Audio Task Force Meetings:
-* [14 December](2018/2018-02-14-pwg-audio.html)
+### Audio Task Force Meetings
+* [14 December](2018/2018-12-14-pwg-audio.html)
 * [16 November](https://www.w3.org/2018/11/16-pwg-audio-minutes.html)
 * [12 October](https://www.w3.org/2018/10/12-pwg-audio-minutes.html)
 * [29 August](https://www.w3.org/2018/08/28-pwg-audio-minutes.html)
