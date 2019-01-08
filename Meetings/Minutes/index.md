@@ -11,7 +11,7 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
-* 01-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jan/0001.html), [Minutes](2019/2019-01-07-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2019/01/08/publishing-wg-telco-2019-01-07-packaging-for-audio/)
+* 01-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jan/0001.html), [Minutes](2019/2019-01-07-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/01/08/publishing-wg-telco-2019-01-07-packaging-for-audio/)
 
 ### Audio Task Force Meetings
 
