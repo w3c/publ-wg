@@ -45,15 +45,15 @@ The milestones [have been updated](https://lists.w3.org/Archives/Public/public-p
 * Web Publications—Manifest and Structure:
     * First Public Working Draft (FPWD): Q4 2017
     * Candidate Recommendation (CR): Q3 2019.
-    * Candidate Recommendation (CR): Q3 2019
+    * Recommendation (CR): Q3 2020
 * Light-weight Packaging of Web Publications (LPWP):
     * First Public Working Draft (FPWD): Q1 2019
     * Candidate Recommendation (CR): Q3 2019 (if decided to publish this as a Recommendation)
-    * Recommendation (CR): Q3 2019 (if decided to publish this as a Recommendation)
+    * Recommendation (CR): Q3 2020 (if decided to publish this as a Recommendation)
 * AudioBooks “Profile” of Web Publications:
     * First Public Working Draft (FPWD): Q1 2019
     * Candidate Recommendation (CR): Q3 2019 (if decided to publish this as a Recommendation)
-    * Recommendation (CR): Q3 2019 (if decided to publish this as a Recommendation)
+    * Recommendation (CR): Q3 2020 (if decided to publish this as a Recommendation)
 * DPUB-ARIA 2.0:
     * On hold pending the timeline of the [ARIA 1.2](https://w3c.github.io/aria/) work
 
