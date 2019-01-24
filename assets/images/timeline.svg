@@ -101,24 +101,24 @@
     <g>
         <desc>Placement of milestones on top of the timeline, with the name of the document(s) at those milestones</desc>
         <g>
-            <desc>Milestones for WP, PWP, and EPUB 4</desc>
+            <desc>Milestones for WP, LPWP, and AB</desc>
             <g transform="translate(95,117)">
                 <use xlink:href="#milestone_line" />
 				<text font-family="Noto Sans" font-size="8" transform="translate(0,-3.5)">
-					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: WP, PWP</textPath>
+					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: WP</textPath>
 				</text>
             </g>
-            <g transform="translate(250,117)">
+            <g transform="translate(290,117)">
                 <use xlink:href="#milestone_line" />
 				<text font-family="Noto Sans" font-size="8" transform="translate(0,-3.5)">
-					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: EPUB 4</textPath>
+					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: LPWP, AB</textPath>
 				</text>
             </g>
 
-            <g transform="translate(325,117)">
+            <g transform="translate(360,117)">
                 <use xlink:href="#milestone_line" />
 				<text font-family="Noto Sans" font-size="8" transform="translate(0,-3.5)">
-					<textPath xlink:href="#milestone_line" startOffset="31%">CR: WP, EPUB4</textPath>
+					<textPath xlink:href="#milestone_line" startOffset="31%">CR: WP, LPWP, AB</textPath>
 				</text>
             </g>
 
