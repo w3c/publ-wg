@@ -759,5 +759,17 @@
             "geoffjukes"
         ],
         "github" : "geoffjukes"
+    },
+    {
+        "nick": ["jyoshii", "yoshii"],
+        "name": "Jun-ichi Yoshii"
+    },
+    {
+        "nick": [],
+        "name": "Yukio Tomikura"
+    },
+    {
+        "nick": [],
+        "name": "Yuya Kato"
     }
 ]
