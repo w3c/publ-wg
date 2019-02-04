@@ -54,13 +54,6 @@
     },
     {
         "nick": [
-            "jbuehler"
-        ],
-        "name": "Jeff Buehler",
-        "github": "buehlerart"
-    },
-    {
-        "nick": [
             "fchasen"
         ],
         "name": "Fred Chasen",
@@ -202,20 +195,6 @@
         "github": "mattgarrish"
     },
     {
-        "nick": [
-            "caitlin_gebhard",
-            "caitlingebhard"
-        ],
-        "name": "Caitlin Gebhard"
-    },
-    {
-        "nick": [
-            "harriett", "hagreen"
-        ],
-        "name": "Harriett Green",
-        "github": "greenharr"
-    },
-    {
         "nick"  : [
             "Michael_Goodman"
         ],
@@ -243,20 +222,6 @@
         ],
         "name": "Ivan Herman",
         "github": "iherman"
-    },
-    {
-        "nick": [
-            "leslie",
-            "lhulse"
-        ],
-        "name": "Leslie Hulse"
-    },
-    {
-        "nick": [
-            "derekJackson"
-        ],
-        "name": "Derek Jackson",
-        "github" : "derekjackson-hbp"
     },
     {
         "nick": [
@@ -307,14 +272,6 @@
     },
     {
         "nick": [
-            "kuznicki",
-            "mattk"
-        ],
-        "name": "Matt Kuznicki",
-        "github": "datalogics-mattk"
-    },
-    {
-        "nick": [
             "clapierre",
             "clapierre1",
             "CharlesL",
@@ -354,14 +311,6 @@
         ],
         "name": "Chris Maden",
         "github": "crism"
-    },
-    {
-        "nick": [
-            "liisamk",
-            "liisa"
-        ],
-        "name": "Liisa McCloy-Kelley",
-        "github": "liisamk"
     },
     {
         "nick": [],
@@ -408,13 +357,6 @@
     },
     {
         "nick": [
-            "elui"
-        ],
-        "name": "Edwina Lui",
-        "github": "edwinalui82"
-    },
-    {
-        "nick": [
             "hughmcguire"
         ],
         "name": "Hugh McGuire",
@@ -448,13 +390,6 @@
         ],
         "name": "Jasmine Mulliken",
         "github": "jmulliken"
-    },
-    {
-        "nick": [
-            "evan",
-            "EvanOwens"
-        ],
-        "name": "Evan Owens"
     },
     {
         "nick": [],
@@ -548,15 +483,6 @@
         ],
         "name": "Jodi Schneider",
         "github": "jodischneider"
-    },
-    {
-        "nick": [
-            "wolfgang",
-            "WolfgangSchi",
-            "Schindler"
-        ],
-        "name": "Wolfgang Schindler",
-        "github": "WSchindler"
     },
     {
         "nick": [
