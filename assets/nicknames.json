@@ -688,6 +688,12 @@
         "github" : "geoffjukes"
     },
     {
+        "name" : "Junko Kamata",
+        "nick" : [
+            "jkamata"
+        ]
+    },
+    {
         "nick": ["jyoshii", "yoshii"],
         "name": "Jun-ichi Yoshii"
     },
@@ -698,5 +704,12 @@
     {
         "nick": [],
         "name": "Yuya Kato"
+    },
+    {
+        "name" : "Daihei Shiohama",
+        "nick" :[
+            "Daihei",
+            "Daihei_Shiohamna"
+        ]
     }
 ]
