@@ -11,8 +11,8 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
+* 03-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Mar/0015.html), [Minutes](2019/2019-03-18-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/03/18/publishing-wg-telco-2019-03-18-issue-management/)
 * 03-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Feb/0019.html), [Minutes](2019/2019-03-11-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/03/11/publishing-wg-telco-2019-03-11-lightweight-packaging-format/)
-
 * 03-04: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Feb/0019.html), [Minutes](2019/2019-03-04-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/03/08/publishing-wg-telco-2019-03-04-audio-issues-implementation-discussion/)
 * 02-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Feb/0013.html), [Minutes](2019/2019-02-25-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/02/26/publishing-wg-telco-2019-02-25-toc-format-in-json-auxiliary-media-in-audiobooks/)
 * 02-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Feb/0003.html), [Minutes](2019/2019-02-11-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/02/12/publishing-wg-telco-2019-02-11-primary-entry-page-or-not-in-a-package-part-2-toc-format/)
