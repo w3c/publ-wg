@@ -11,6 +11,7 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
+* 04-01: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Mar/0034.html), [Minutes](2019/2019-04-01-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/02/publishing-wg-telco-2019-03-01-new-wpub-document-structure-audiobook-profile-draft/)
 * 03-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Mar/0027.html), [Minutes](2019/2019-03-25-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/03/25/publishing-wg-telco-2019-03-25-some-use-cases/)
 * 03-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Mar/0015.html), [Minutes](2019/2019-03-18-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/03/18/publishing-wg-telco-2019-03-18-issue-management/)
 * 03-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Feb/0019.html), [Minutes](2019/2019-03-11-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/03/11/publishing-wg-telco-2019-03-11-lightweight-packaging-format/)
