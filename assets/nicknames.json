@@ -93,7 +93,8 @@
             "vagner",
             "vagner_br"
         ],
-        "name": "Vagner Diniz"
+        "name": "Vagner Diniz",
+        "github": "vagnerdiniz"
     },
     {
         "nick": [
@@ -213,7 +214,8 @@
     },
     {
         "nick": ["CHayes"],
-        "name": "Caroline Hayes"
+        "name": "Caroline Hayes",
+        "github": "CHayesNorton"
     },
     {
         "nick": [
@@ -418,13 +420,15 @@
         "nick": [
             "ckpowell"
         ],
-        "name": "Chris Powell"
+        "name": "Chris Powell",
+        "github": "cmkpowell"
     },
     {
         "nick": [
             "jeffp"
         ],
-        "name": "Jeff Printy"
+        "name": "Jeff Printy",
+        "github": "jeffprinty"
     },
     {
         "nick": [
@@ -437,7 +441,8 @@
             "josh",
             "jpyle"
         ],
-        "name": "Joshua Pyle"
+        "name": "Joshua Pyle",
+        "github": "atyposh"
     },
     {
         "nick": [
@@ -710,6 +715,7 @@
         "nick" :[
             "Daihei",
             "Daihei_Shiohamna"
-        ]
+        ],
+        "github": "dshiohama"
     }
 ]
