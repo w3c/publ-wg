@@ -1,0 +1,9 @@
+{
+	"ghrepo"       : "w3c/publ-wg",
+	"ghpath"       : "Meeting/Minutes",
+	"ghbranch"     : "master",
+	"group"        : "pwg",
+    "nicknames"    : "https://www.w3.org/publishing/groups/publ-wg/assets/nicknames.json",
+    "acrepo"       : "w3c/publ-wg",
+    "acurlpattern" : "https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/%YEAR%/%DATE%-pwg"
+}
