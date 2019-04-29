@@ -1,0 +1,9 @@
+{
+    "documents" : {
+        "wpub" : {
+            "id": "100074",
+            "explicit_list": "https://raw.githubusercontent.com/w3c/wpub/master/common/html/ack-script/separate_acks.json",
+            "html_pattern": "https://raw.githubusercontent.com/w3c/wpub/master/common/html/ack-script/ack_pattern.html"
+        }
+    }
+}
