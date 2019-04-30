@@ -11,7 +11,8 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
-* 04-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0017.html), [Minutes](2019/2019-04-15-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/16/publishing-wg-telco-2019-04-15-duration-integrity-hash/)
+* 04-29: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0026.html), [Minutes](2019/2019-04-29-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/30/publishing-wg-telco-2019-04-29-lightweight-packaging-issues/)
+* 04-15: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0017.html), [Minutes](2019/2019-04-15-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/16/publishing-wg-telco-2019-04-15-duration-integrity-hash/)
 * 04-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0002.html), [Minutes](2019/2019-04-08-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/09/publishing-wg-telco-2019-04-08-supplemental-materials-in-audiobooks-usage-of-duration/)
 * 04-01: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Mar/0034.html), [Minutes](2019/2019-04-01-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/02/publishing-wg-telco-2019-03-01-new-wpub-document-structure-audiobook-profile-draft/)
 * 03-25: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Mar/0027.html), [Minutes](2019/2019-03-25-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/03/25/publishing-wg-telco-2019-03-25-some-use-cases/)
