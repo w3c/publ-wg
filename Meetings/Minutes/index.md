@@ -11,6 +11,8 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
+* 05-07: [Agenda](https://docs.google.com/document/d/1-TB-_KCg97smmjcsbIVpi728qduOwESr3Og91-2Gtd4/edit?usp=sharing), [Minutes](2019/2019-05-07-pwg.html) (Second day of the [F2F meeting in Cambridge](../F2F/2019.05.Cambridge))
+* 05-06: [Agenda](https://docs.google.com/document/d/1-TB-_KCg97smmjcsbIVpi728qduOwESr3Og91-2Gtd4/edit?usp=sharing), [Minutes](2019/2019-05-06-pwg.html) (First day of the [F2F meeting in Cambridge](../F2F/2019.05.Cambridge))
 * 04-29: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0026.html), [Minutes](2019/2019-04-29-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/30/publishing-wg-telco-2019-04-29-lightweight-packaging-issues/)
 * 04-15: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0017.html), [Minutes](2019/2019-04-15-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/16/publishing-wg-telco-2019-04-15-duration-integrity-hash/)
 * 04-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0002.html), [Minutes](2019/2019-04-08-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/09/publishing-wg-telco-2019-04-08-supplemental-materials-in-audiobooks-usage-of-duration/)
@@ -56,8 +58,8 @@ layout: default
 * 06-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0062.html), [Minutes](2018/2018-06-18-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/19/publishing-wg-telco-2018-06-18-epubtype-affordances-toc-in-manifest/)
 * 06-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0029.html), [Minutes](2018/2018-06-11-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/12/publishing-wg-telco-2018-06-11-cover-in-the-infoset-json-terms-for-reading-order-and-resources/)
 * 06-04: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Jun/0000.html), [Minutes](2018/2018-06-04-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/06/05/publishing-wg-telco-2018-06-04-f2f-meeting-review/)
-* 05-31: [Agenda](https://tinyurl.com/y9g4fgat), [Minutes](2018/2018-05-31-pwg.html) (Second day of the [F2F meeting in Toronto](../F2F/2018.05.Toronto)), [Meeting Summary]()
-* 05-30: [Agenda](https://tinyurl.com/y9g4fgat), [Minutes](2018/2018-05-30-pwg.html) (First day of the [F2F meeting in Toronto](../F2F/2018.05.Toronto)), [Meeting Summary]()
+* 05-31: [Agenda](https://tinyurl.com/y9g4fgat), [Minutes](2018/2018-05-31-pwg.html) (Second day of the [F2F meeting in Toronto](../F2F/2018.05.Toronto))
+* 05-30: [Agenda](https://tinyurl.com/y9g4fgat), [Minutes](2018/2018-05-30-pwg.html) (First day of the [F2F meeting in Toronto](../F2F/2018.05.Toronto))
 * 05-21: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018May/0038.html), [Minutes](2018/2018-05-21-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/05/22/publishing-wg-telco-2018-05-21-closing-issues-wam-json-usage-context-list-of-resources/)
 * 05-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018May/0009.html), [Minutes](2018/2018-05-07-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/05/08/publishing-wg-telco-2018-05-07-scholarly-publishing-uc-browsing-context/)
 * 04-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2018Apr/0035.html), [Minutes](2018/2018-04-30-pwg.html), [Meeting Summary](https://www.w3.org/blog/dpub/2018/05/01/publishing-wg-telco-2018-04-30-affordances-task-force-gaps-from-classic-epub)
