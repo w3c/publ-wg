@@ -62,7 +62,8 @@
     {
         "nick": [
             "timCole",
-            "tcole"
+            "tcole",
+            "t-cole3"
         ],
         "name": "Tim Cole",
         "github": "tcole3"
@@ -634,7 +635,8 @@
         "nick": [
             "ralph"
         ],
-        "name": "Ralph Swick"
+        "name": "Ralph Swick",
+        "github": "swickr"
     },
     {
         "nick": [
@@ -717,5 +719,16 @@
             "Daihei_Shiohamna"
         ],
         "github": "dshiohama"
+    },
+    {
+        "name" : "Nellie McKesson",
+        "nick" : [
+            "nellie",
+            "neelie"
+        ]
+    },
+    {
+        "name" : "Jeff Jaffee",
+        "nick" : [ "jeff"]
     }
 ]
