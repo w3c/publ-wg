@@ -11,6 +11,7 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
+* 05-20: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019May/0008.html), [Minutes](2019/2019-05-20-pwg)
 * 05-07: [Agenda](https://docs.google.com/document/d/1-TB-_KCg97smmjcsbIVpi728qduOwESr3Og91-2Gtd4/edit?usp=sharing), [Minutes](2019/2019-05-07-pwg.html) (Second day of the [F2F meeting in Cambridge](../F2F/2019.05.Cambridge))
 * 05-06: [Agenda](https://docs.google.com/document/d/1-TB-_KCg97smmjcsbIVpi728qduOwESr3Og91-2Gtd4/edit?usp=sharing), [Minutes](2019/2019-05-06-pwg.html) (First day of the [F2F meeting in Cambridge](../F2F/2019.05.Cambridge))
 * 04-29: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Apr/0026.html), [Minutes](2019/2019-04-29-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/04/30/publishing-wg-telco-2019-04-29-lightweight-packaging-issues/)
