@@ -730,5 +730,12 @@
     {
         "name" : "Jeff Jaffee",
         "nick" : [ "jeff"]
+    },
+    {
+        "name" : "Masakazu Kitahara",
+        "nick" : [
+            "Masakazu_Kitahara",
+            "MasakazuKitahara"
+        ]
     }
 ]
