@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/w3c/publ-wg/issues"
   },
-  "homepage": "https://github.com/w3c/publ-wg#readme",
-  "devDependencies": {
-    "scribejs": "git+https://github.com/w3c/scribejs.git"
-  }
+  "homepage": "https://github.com/w3c/publ-wg#README"
 }
