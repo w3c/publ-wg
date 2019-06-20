@@ -12,8 +12,8 @@ layout: default
 | Document | Latest official release | Editors’ Draft | Repository |
 |----------|:-----------------------:|:--------------:|:----------:|
 | Web Publications—Manifest and Structure       | [wd](https://www.w3.org/TR/wpub/) | [ed](https://w3c.github.io/wpub/)              | [wpub](https://github.com/w3c/wpub/) |
-| Lightweight Packaging of Web Publications† | (none yet) | (none yet)         | [pwpub](https://github.com/w3c/pwpub/)                |
-| AudioBooks WP Profile | (none yet) | (none yet)         | [audiobooks](https://github.com/w3c/audiobooks/)                |
+| Lightweight Packaging of Web Publications† | (none yet) | ([ed](https://w3c.github.io/pwpub/spec/ocf-lite.html))         | [pwpub](https://github.com/w3c/pwpub/)                |
+| AudioBooks WP Profile | [wd](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                |
 | Web Publications Use Cases and Requirements‡ | [note](https://www.w3.org/TR/pwp-ucr/) | [ed](https://w3c.github.io/dpub-pwp-ucr/)| [dpub-pwp-ucr/](https://github.com/w3c/dpub-pwp-ucr//)                |
 {: .zebra}
 
