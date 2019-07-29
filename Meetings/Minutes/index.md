@@ -11,8 +11,9 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
-* 07-01: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jun/0037.html), [Minutes](2019/2019-07-01-pwg). [Meeting_Summary](https://www.w3.org/blog/dpub/2019/07/02/publishing-wg-telco-2019-07-01-future-of-wpub-shape-of-audiobooks/)
-* 06-24: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jun/0024.html), [Minutes](2019/2019-06-24-pwg). [Meeting_Summary](https://www.w3.org/blog/dpub/2019/06/24/publishing-wg-telco-24-06-2019-finalizing-the-ucr/)
+* 07-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jul/0005.html), [Minutes](2019/2019-07-08-pwg)
+* 07-01: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jun/0037.html), [Minutes](2019/2019-07-01-pwg), [Meeting_Summary](https://www.w3.org/blog/dpub/2019/07/02/publishing-wg-telco-2019-07-01-future-of-wpub-shape-of-audiobooks/)
+* 06-24: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jun/0024.html), [Minutes](2019/2019-06-24-pwg), [Meeting_Summary](https://www.w3.org/blog/dpub/2019/06/24/publishing-wg-telco-24-06-2019-finalizing-the-ucr/)
 * 06-17: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jun/0008.html), [Minutes](2019/2019-06-17-pwg)
 * 06-10: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jun/0005.html), [Minutes](2019/2019-06-10-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/06/11/publishing-wg-telco-2019-05-03-update-on-the-wpub-spec-audiobook-synced-media-and-ucr-docs/)
 * 06-03: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019May/0020.html), [Minutes](2019/2019-06-03-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/06/04/publishing-wg-telco-2019-05-03-action-tracking-lpf-issues/)
