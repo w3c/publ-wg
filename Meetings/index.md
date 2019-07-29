@@ -20,7 +20,8 @@ The Group also uses IRC for during the calls for minute taking, queue control, a
 
 ## F2F meetings
 
-* [May 6-9, Cambridge, MA, USA](./F2F/2019.05.Cambridge)
+* [September 16-17, 2019, Fukuoka, Japan](./F2F/2019.09.Fukuoka)
+* [May 6-9, 2019, Cambridge, MA, USA](./F2F/2019.05.Cambridge)
 * [October 22-23, 2018, Lyon, France](./F2F/2018.10.Lyon)
 * [May 30-31, 2018, Toronto, Ontario, Canada](./F2F/2018.05.Toronto)
 * [November 6-7, 2017, Burlingame, CA, US](./F2F/2017.11.Burlingame)
