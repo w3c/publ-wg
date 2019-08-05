@@ -11,6 +11,7 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
+* 08-05: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Aug/0001.html), [Minutes](2019/2019-08-05-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/08/05/publishing-wg-telco-2019-08-05-summer-publication-schedules/)
 * 07-29: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jul/0037.html), [Minutes](2019/2019-07-29-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/07/30/publishing-wg-telco-2019-07-29-planning-after-summer-recess/)
 * 07-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jul/0005.html), [Minutes](2019/2019-07-08-pwg)
 * 07-01: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jun/0037.html), [Minutes](2019/2019-07-01-pwg), [Meeting_Summary](https://www.w3.org/blog/dpub/2019/07/02/publishing-wg-telco-2019-07-01-future-of-wpub-shape-of-audiobooks/)
