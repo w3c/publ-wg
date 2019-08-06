@@ -11,9 +11,9 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:---:|
-| Publication Manifests | (none yet) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
-| AudioBooks WP Profile | [wd](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
-| Lightweight Packaging of Web Publications | (none yet) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
+| Publication Manifest | (none yet) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
+| Audiobooks | [wd](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
+| Lightweight Packaging Format | (none yet) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
 {: .zebra}
 
 
@@ -47,7 +47,7 @@ The milestones [have been updated](https://www.w3.org/publishing/groups/publ-wg/
     * First Public Working Draft (FPWD): Q1 2019
     * Candidate Recommendation (CR): Q4 2019
     * Recommendation (CR): Q3 2020
-* Light-weight Packaging Format (LPF):
+* Lightweight Packaging Format (LPF):
     * First Public Working Draft (FPWD): Q3 2019
     * Working Group Note: Q4 2019
 * Web Publications—Manifest and Structure:
