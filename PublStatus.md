@@ -9,30 +9,26 @@ layout: default
 
 ### Active documents
 
-| Document | Latest official release | Editors’ Draft | Repository |
-|----------|:-----------------------:|:--------------:|:----------:|
-| Web Publications—Manifest and Structure       | [wd](https://www.w3.org/TR/wpub/) | [ed](https://w3c.github.io/wpub/)              | [wpub](https://github.com/w3c/wpub/) |
-| Lightweight Packaging of Web Publications† | (none yet) | ([ed](https://w3c.github.io/pwpub/spec/ocf-lite.html))         | [pwpub](https://github.com/w3c/pwpub/)                |
-| AudioBooks WP Profile | [wd](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                |
-| Web Publications Use Cases and Requirements‡ | [note](https://www.w3.org/TR/pwp-ucr/) | [ed](https://w3c.github.io/dpub-pwp-ucr/)| [dpub-pwp-ucr/](https://github.com/w3c/dpub-pwp-ucr//)                |
+| Document | Latest official release | Editors’ Draft | Repository | Note |
+|----------|:-----------------------:|:--------------:|:----------:|:---:|
+| Publication Manifest | (none yet) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
+| Audiobooks | [wd](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
+| Lightweight Packaging Format | (none yet) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
 {: .zebra}
 
-†Undecided whether a recommendation-track document or not  
-‡Not a recommendation-track document
-{: .smaller}
 
-### Documents on hold
+
+### Documents on hold or closed
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:----:|
-| Web Annotation Extensions for Web Publications | [wd](https://www.w3.org/TR/wpub-ann/) | [ed](https://w3c.github.io/wpub-ann/) | [publ-loc](https://github.com/w3c/wpub-ann/) | Not actively pursued |
+| Web Publications Use Cases and Requirements | [note](https://www.w3.org/TR/pwp-ucr/) | [ed](https://w3c.github.io/dpub-pwp-ucr/)| [dpub-pwp-ucr/](https://github.com/w3c/dpub-pwp-ucr/)  | Published as a Note, not pursued |
+| Web Publications—Manifest and Structure       | [Note](https://www.w3.org/TR/wpub/) | [ed](https://w3c.github.io/wpub/)              | [wpub](https://github.com/w3c/wpub/) | Published as a Note, not pursued
+| Web Annotation Extensions for Web Publications | [wd](https://www.w3.org/TR/wpub-ann/) | [ed](https://w3c.github.io/wpub-ann/) | [publ-loc](https://github.com/w3c/wpub-ann/) | Not pursued actively |
 | Packaged Web Publications  | [wd](https://www.w3.org/TR/pwpub/) | [ed](https://w3c.github.io/pwpub/) | [pwpub](https://github.com/w3c/pwpub/) | Pending on the W3C Web Packaging work |
 | DPUB ARIA 2.0     | (none yet) | ([ed](https://w3c.github.io/dpub-aria-2.0/))†  | [dpub-aria-2.0](https://github.com/w3c/dpub-aria-2.0) | On hold of [ARIA 1.2](https://w3c.github.io/aria/) |
 | EPUB4             | (none yet) | ([ed](https://w3c.github.io/epub4/))†          | [epub4](https://github.com/w3c/epub4/)  | Future of this work is pending on business need |
 {: .zebra}
-
-†Only skeleton for now.
-{: .smaller}
 
 <!-- <div data-apiary="specifications"></div> -->
 
@@ -40,20 +36,23 @@ The Editors’ drafts are managed in GitHub repositories; the list of those repo
 
 ## Major planned milestones
 
-The milestones [have been updated](https://lists.w3.org/Archives/Public/public-publ-wg/2019Jan/0008.html), compared to the [charter](https://www.w3.org/2017/04/publ-wg-charter/#deliverables), on the 22nd of January, 2019.
+The milestones [have been updated](https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2019/2019-08-05-pwg#section1), compared to the [charter](https://www.w3.org/2017/04/publ-wg-charter/#deliverables), on the 8th of August, 2019.
 
+
+* Publication Manifest:
+    * First Public Working Draft (FPWD): Q3 2019
+    * Candidate Recommendation (CR): Q4 2019
+    * Recommendation (CR): Q3 2020
+* Audiobooks:
+    * First Public Working Draft (FPWD): Q1 2019
+    * Candidate Recommendation (CR): Q4 2019
+    * Recommendation (CR): Q3 2020
+* Lightweight Packaging Format (LPF):
+    * First Public Working Draft (FPWD): Q3 2019
+    * Working Group Note: Q4 2019
 * Web Publications—Manifest and Structure:
     * First Public Working Draft (FPWD): Q4 2017
-    * Candidate Recommendation (CR): Q3 2019.
-    * Recommendation (CR): Q3 2020
-* Light-weight Packaging of Web Publications (LPWP):
-    * First Public Working Draft (FPWD): Q1 2019
-    * Candidate Recommendation (CR): Q3 2019 (if decided to publish this as a Recommendation)
-    * Recommendation (CR): Q3 2020 (if decided to publish this as a Recommendation)
-* AudioBooks “Profile” of Web Publications:
-    * First Public Working Draft (FPWD): Q1 2019
-    * Candidate Recommendation (CR): Q3 2019 (if decided to publish this as a Recommendation)
-    * Recommendation (CR): Q3 2020 (if decided to publish this as a Recommendation)
+    * Working Group Note: Q3 2019.
 * DPUB-ARIA 2.0:
     * On hold pending the timeline of the [ARIA 1.2](https://w3c.github.io/aria/) work
 

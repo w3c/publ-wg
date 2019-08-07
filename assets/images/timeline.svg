@@ -104,28 +104,43 @@
             <desc>Milestones for WP, LPWP, and AB</desc>
             <g transform="translate(95,117)">
                 <use xlink:href="#milestone_line" />
-				<text font-family="Noto Sans" font-size="8" transform="translate(0,-3.5)">
+				<text font-family="Noto Sans" font-size="7" transform="translate(0,-3.5)">
 					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: WP</textPath>
 				</text>
             </g>
             <g transform="translate(290,117)">
                 <use xlink:href="#milestone_line" />
-				<text font-family="Noto Sans" font-size="8" transform="translate(0,-3.5)">
-					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: LPWP, AB</textPath>
+				<text font-family="Noto Sans" font-size="7" transform="translate(0,-3.5)">
+					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: AB</textPath>
 				</text>
             </g>
 
-            <g transform="translate(360,117)">
+            <g transform="translate(335,117)">
                 <use xlink:href="#milestone_line" />
-				<text font-family="Noto Sans" font-size="8" transform="translate(0,-3.5)">
-					<textPath xlink:href="#milestone_line" startOffset="31%">CR: WP, LPWP, AB</textPath>
+				<text font-family="Noto Sans" font-size="7" transform="translate(0,-3.5)">
+					<textPath xlink:href="#milestone_line" startOffset="31%">Note: WP</textPath>
+				</text>
+            </g>
+
+            <g transform="translate(350,117)">
+                <use xlink:href="#milestone_line" />
+				<text font-family="Noto Sans" font-size="7" transform="translate(0,-3.5)">
+					<textPath xlink:href="#milestone_line" startOffset="31%">FPWD: PM, LPF</textPath>
+				</text>
+            </g>
+
+
+            <g transform="translate(370,117)">
+                <use xlink:href="#milestone_line" />
+				<text font-family="Noto Sans" font-size="7" transform="translate(0,-3.5)">
+					<textPath xlink:href="#milestone_line" startOffset="31%">CR: PM, AB; Note: LPF</textPath>
 				</text>
             </g>
 
             <g transform="translate(456,117)">
                 <use xlink:href="#milestone_line" />
-				<text font-family="Noto Sans" font-size="8" transform="translate(0,-3.5)">
-					<textPath xlink:href="#milestone_line" startOffset="31%">REC: WP, EPUB4</textPath>
+				<text font-family="Noto Sans" font-size="7" transform="translate(0,-3.5)">
+					<textPath xlink:href="#milestone_line" startOffset="31%">REC: PM, AB</textPath>
 				</text>
             </g>
         </g>
