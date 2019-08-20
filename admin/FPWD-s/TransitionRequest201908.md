@@ -12,7 +12,7 @@ The Web Publication Working Group has resolved [1] to request publication of a F
     
 Since this is the first publication of these documents, please also approve the shortname: pub-manifest. The estimated publication date is 27 August 2019. 
 
-Note, however, that this document has been extracted from:
+Note that this document has been extracted from:
     - Web Publications: https://www.w3.org/TR/wpub/
   
 which used to be a Rec-track document and is now a WG Note. Essentially, the new document is what was called "Part I" of the old one, with a number of editorial changes. This means that the IPR commitments for the old document[2] should be automatically valid for the new one, too.
