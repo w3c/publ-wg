@@ -11,6 +11,8 @@ layout: default
 ## 2019
 
 ### Working Group Meetings
+
+* 08-26: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Aug/0061.html), [Minutes](2019/2019-08-26-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/08/26/publishing-wg-telco-2019-08-26-horizontal-reviews-issue-handling/)
 * 08-19: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Aug/0014.html), [Minutes](2019/2019-08-19-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/08/19/publishing-wg-telco-2019-08-19-publication-approval-some-change-of-manifest-structure-alternate-resources/)
 * 08-12: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Aug/0008.html), [Minutes](2019/2019-08-12-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/08/13/publishing-wg-telco-2019-08-12-packaging-ws-report-rel-attributes-rendering-hits/)
 * 08-05: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Aug/0001.html), [Minutes](2019/2019-08-05-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/08/05/publishing-wg-telco-2019-08-05-summer-publication-schedules/)
