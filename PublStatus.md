@@ -11,7 +11,7 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:---:|
-| Publication Manifest | (none yet) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
+| Publication Manifest | [wd](https://www.w3.org/TR/pub-manifest/) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
 | Audiobooks | [wd](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
 | Lightweight Packaging Format | (none yet) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
 {: .zebra}
