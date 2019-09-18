@@ -12,7 +12,8 @@ layout: default
 
 ### Working Group Meetings
 
-* 09-16: [Agenda](https://docs.google.com/document/d/1Q8PUjzMY04peuYZdTkA6A0BBoFea_BSK4ygJlphkzh8/edit), [Minutes](2019/2019-09-15-pwg)
+* 09-17: [Agenda](https://docs.google.com/document/d/1Q8PUjzMY04peuYZdTkA6A0BBoFea_BSK4ygJlphkzh8/edit), [Minutes](2019/2019-09-17-pwg)
+* 09-16: [Agenda](https://docs.google.com/document/d/1Q8PUjzMY04peuYZdTkA6A0BBoFea_BSK4ygJlphkzh8/edit), [Minutes](2019/2019-09-16-pwg)
 * 09-09: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Sep/0005.html), [Minutes](2019/2019-09-09-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/09/10/publishing-wg-telco-2019-09-09-settling-issues-pre-tpac-publication/)
 * 08-26: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Aug/0061.html), [Minutes](2019/2019-08-26-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/08/26/publishing-wg-telco-2019-08-26-horizontal-reviews-issue-handling/)
 * 08-19: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Aug/0014.html), [Minutes](2019/2019-08-19-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/08/19/publishing-wg-telco-2019-08-19-publication-approval-some-change-of-manifest-structure-alternate-resources/)
