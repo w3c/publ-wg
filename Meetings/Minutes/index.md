@@ -12,6 +12,7 @@ layout: default
 
 ### Working Group Meetings
 
+* 09-30: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Sep/0021.html), [Minutes](2019/2019-09-30-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/09/30/publishing-wg-telco-2019-09-30-tpac-reports-cr-plans/)
 * 09-17: [Agenda](https://docs.google.com/document/d/1Q8PUjzMY04peuYZdTkA6A0BBoFea_BSK4ygJlphkzh8/edit), [Minutes](2019/2019-09-17-pwg)
 * 09-16: [Agenda](https://docs.google.com/document/d/1Q8PUjzMY04peuYZdTkA6A0BBoFea_BSK4ygJlphkzh8/edit), [Minutes](2019/2019-09-16-pwg)
 * 09-09: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Sep/0005.html), [Minutes](2019/2019-09-09-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/09/10/publishing-wg-telco-2019-09-09-settling-issues-pre-tpac-publication/)
