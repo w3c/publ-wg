@@ -12,6 +12,7 @@ layout: default
 
 ### Working Group Meetings
 
+* 10-21: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Oct/0021.html), [Minutes](2019/2019-10-21-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/10/21/publishing-wg-telco-2019-10-21-closing-some-open-issues/)
 * 10-14: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Oct/0008.html), [Minutes](2019/2019-10-14-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/10/14/publishing-wg-telco-2019-10-14-pr-handling-horizontal-reviews/)
 * 10-07: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Oct/0000.html), [Minutes](2019/2019-10-07-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/10/08/publishing-wg-telco-2019-10-07-base-direction-metadata-usage-webidl/)
 * 09-30: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Sep/0021.html), [Minutes](2019/2019-09-30-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/09/30/publishing-wg-telco-2019-09-30-tpac-reports-cr-plans/)

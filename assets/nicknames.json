@@ -370,7 +370,9 @@
         "name": "Maureen McMahon"
     },
     {
-        "nick": [],
+        "nick": [
+            "nellie"
+        ],
         "name": "Nellie McKesson",
         "github": ""
     },
