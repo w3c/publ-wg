@@ -1,0 +1,62 @@
+[DRAFT] Publication Manifest and Audiobooks are W3C Candidate Recommendations (Call for Implementations)
+--------------------------------------------------------------------------------------------------------
+
+
+Dear Advisory Committee Representative,
+Chairs,
+
+I am pleased to announce that the following documents are now Candidate Recommendations:
+
+Publication Manifest
+	https://www.w3.org/TR/2019/CR-pub-manifest-20191205/
+
+Audiobooks
+	https://www.w3.org/TR/2019/CR-audiobooks-20191205/
+
+The approval and publication are in response to this transition request:
+   	https://github.com/w3c/transitions/issues/190
+
+The group welcomes feedback by 31 March 2020 as issues raised in:
+    https://github.com/w3c/pub-manifest/issues/
+    https://github.com/w3c/audiobooks/issues/
+
+Patent disclosures relevant to this specification may be found on the 
+Publishing Working Group's patent disclosure page in conformance 
+with W3C policy:
+    https://www.w3.org/2004/01/pp-impl/100074/status
+
+This Call for Implementations follows section 6.4 "Candidate 
+Recommendation" of the W3C Process Document:
+    https://www.w3.org/2019/Process-20190301/#candidate-rec
+
+
+Thank you,
+
+For Tim Berners-Lee, Director, and
+Philippe Le Hégaret, Project Management Lead;
+Xueyuan Jia, W3C Marketing & Communications
+
+=============================
+Quoting from
+Publication Manifest
+W3C Candidate Recommendation 5 December 2019
+
+This version:
+     https://www.w3.org/TR/2019/CR-pub-manifest-20191205/
+Latest published version:
+     https://www.w3.org/TR/pub-manifest/
+
+Abstract
+This specification defines a general manifest format for expressing information about a digital publication. It uses [schema.org] metadata augmented to include various structural properties about publications, serialized in [json-ld11], to enable interoperability between publishing formats while accommodating variances in the information that needs to be expressed.
+
+Quoting from
+Audiobooks
+W3C Candidate Recommendation 5 December 2019
+
+This version:
+     https://www.w3.org/TR/2019/CR-audiobooks-20191205/
+Latest published version:
+     https://www.w3.org/TR/audiobooks/
+
+Abstract:
+This specification describes the requirements for the creation of audiobooks, using a profile of the Publication Manifest specification.
