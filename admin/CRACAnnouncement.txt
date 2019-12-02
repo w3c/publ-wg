@@ -16,7 +16,7 @@ Audiobooks
 The approval and publication are in response to this transition request:
    	https://github.com/w3c/transitions/issues/190
 
-The group welcomes feedback by 31 March 2020 as issues raised in:
+The group welcomes feedback by 31 March 2020 via issues raised in:
     https://github.com/w3c/pub-manifest/issues/
     https://github.com/w3c/audiobooks/issues/
 

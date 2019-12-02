@@ -15,6 +15,6 @@ Subject: [DRAFT HPN] Candidate Recommendations published for Publishing Manifest
 <li><a href='https://www.w3.org/TR/2019/NOTE-lpf-20191205/'>Lightweight Packaging Format (LPF)</a>—This specification defines a file format and processing model for packaging into a single-file container the set of related resources and associated metadata that comprise a digital publication.</li>
 </ul>
 
-<p>Candidate Recommendation means that the Working Group considers the technical design to be complete, and is seeking implementation feedbacks on the documents. The group is keen to get comments and implementation experiences on these specifications as issues on the the documents’ respective Github repositories (see the document headers for the exact references).</p>
+<p>Candidate Recommendation means that the Working Group considers the technical design to be complete, and is seeking implementation feedback on the documents. The group is keen to get comments and implementation experiences on these specifications as issues raised in the the documents’ respective Github repositories (see the document headers for the exact references).</p>
 
 <p>The group expects to satisfy the implementation goals (i.e., at least two, independent implementations for each of the test cases) by March 31, 2020.</p>
