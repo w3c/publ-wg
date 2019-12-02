@@ -1,0 +1,31 @@
+To be sent to the webmaster, comm team, coralie, xueyuan, & WG chairs when the DD is available.
+
+----
+
+Denis,
+
+This is an official publication request for the publication of two Candidate Recommendations on behalf of the Publishing Working Group. The publication date is the 05 of December, 2019. The transition request for CR has been issued in:
+	- https://github.com/w3c/transitions/issues/190
+
+the Director's approval is in:
+	- https://github.com/w3c/transitions/issues/190#issuecomment-557687866
+
+
+The documents are as follows:
+----------------------------
+
+- Publication Manifest:
+    - https://www.w3.org/TR/2019/CR-pub-manifest-20191205/
+- Audiobooks
+    - https://www.w3.org/TR/2019/CR-audiobooks-20191205/
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL-s.
+
+The documents have already been installed. 
+
+Thanks!
+
+Ivan
