@@ -1,0 +1,40 @@
+To be sent to the webmaster, comm team, coralie, xueyuan, & WG chairs when the DD is available.
+
+----
+
+
+(Coralie, Xueyuan, this is for information only; I will send you the HPN news draft separately)
+
+Denis,
+
+This is an official publication request for the publication of a Working Group First Public Note on behalf of the Publishing Working Group. The publication date is the 05 of December, 2019. The transition request for FPWD has been issued in:
+	- https://github.com/w3c/transitions/issues/191
+
+the Director's approval is in:
+	- https://github.com/w3c/transitions/issues/191#issuecomment-556332069
+
+
+The document is as follows:
+----------------------------
+
+- Lightweight Packaging Format (LPF):
+    - https://www.w3.org/TR/2019/NOTE-lpf-20191205/
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL-s.
+
+The right 'bucket' on our TR page for the documents is "Digital Publishing". 
+
+The document have already been installed. The link checker passes, but the pubrules checker gives a strange error. It asks for the status section to include an attribute "data-deliverer" (it is the first time I see this requirement) and misses the status section. I did add the data attribute, but it continues to complain about the missing status section (which is there). I have the impression that this is a checker error; please advise. (The error message refers to a <p> element, while respec generates a <section>, may that be the problem?)
+
+One more note: the publication of this note will be synchronized with the publication of two CR documents:
+
+https://github.com/w3c/transitions/issues/190
+
+we will delay the publication of the CR until this publication is done. Xueyuan, Coralie, the announcement texts I will send you cover all three documents.
+
+Thanks!
+
+Ivan
