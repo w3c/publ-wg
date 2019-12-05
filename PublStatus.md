@@ -11,9 +11,9 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:---:|
-| Publication Manifest | [wd](https://www.w3.org/TR/pub-manifest/) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
-| Audiobooks | [wd](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
-| Lightweight Packaging Format | (none yet) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
+| Publication Manifest | [CR](https://www.w3.org/TR/pub-manifest/) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
+| Audiobooks | [CR](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
+| Lightweight Packaging Format | [Note](https://www.w3.org/TR/lpf/) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
 {: .zebra}
 
 
@@ -40,19 +40,19 @@ The milestones [have been updated](https://www.w3.org/publishing/groups/publ-wg/
 
 
 * Publication Manifest:
-    * First Public Working Draft (FPWD): Q3 2019
-    * Candidate Recommendation (CR): Q4 2019
+    * First Public Working Draft (FPWD): Q3 2019 (✓)
+    * Candidate Recommendation (CR): Q4 2019 (✓)
     * Recommendation (CR): Q3 2020
 * Audiobooks:
-    * First Public Working Draft (FPWD): Q1 2019
-    * Candidate Recommendation (CR): Q4 2019
+    * First Public Working Draft (FPWD): Q1 2019 (✓)
+    * Candidate Recommendation (CR): Q4 2019 (✓)
     * Recommendation (CR): Q3 2020
 * Lightweight Packaging Format (LPF):
-    * First Public Working Draft (FPWD): Q3 2019
-    * Working Group Note: Q4 2019
+    * First Public Working Draft (FPWD): Q3 2019 (✓)
+    * Working Group Note: Q4 2019 (✓)
 * Web Publications—Manifest and Structure:
-    * First Public Working Draft (FPWD): Q4 2017
-    * Working Group Note: Q3 2019.
+    * First Public Working Draft (FPWD): Q4 2017 (✓)
+    * Working Group Note: Q3 2019. (✓)
 * DPUB-ARIA 2.0:
     * On hold pending the timeline of the [ARIA 1.2](https://w3c.github.io/aria/) work
 
