@@ -12,6 +12,7 @@ layout: default
 
 ### Working Group Meetings
 
+* 12-09: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Dec/0010.html), [Minutes](2019/2019-12-09-pwg)
 * 12-02: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Nov/0054.html), [Minutes](2019/2019-12-02-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/12/02/publishing-wg-telco-2019-12-02-testing/)
 * 11-18: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Nov/0037.html), [Minutes](2019/2019-11-18-pwg), [Meeting Summary](https://www.w3.org/blog/dpub/2019/11/18/publishing-wg-telco-2019-11-18-cr-approval-testing/)
 * 11-11: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2019Nov/0003.html), [Minutes](2019/2019-11-11-pwg),   [Meeting Summary](https://www.w3.org/blog/dpub/2019/11/11/publishing-wg-telco-2019-11-11-road-to-cr/)
