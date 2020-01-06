@@ -8,6 +8,12 @@ layout: default
 * TOC
 {:toc}
 
+## 2020
+
+### Working Group Meetings
+
+* 01-06: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Jan/thread.html), [Minutes](2020/2020-01-06-pwg)
+
 ## 2019
 
 ### Working Group Meetings
