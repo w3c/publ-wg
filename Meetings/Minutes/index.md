@@ -12,6 +12,7 @@ layout: default
 
 ### Working Group Meetings
 
+* 03-02: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Feb/0012.html), [Minutes](2020/2020-02-02-pwg)
 * 02-03: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Jan/0030.html), [Minutes](2020/2020-02-03-pwg)
 * 01-27: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Jan/0023.html), [Minutes](2020/2020-01-27-pwg)
 * 01-06: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Jan/0000.html), [Minutes](2020/2020-01-06-pwg)
