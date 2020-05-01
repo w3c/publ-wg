@@ -42,11 +42,13 @@ The milestones [have been updated](https://www.w3.org/publishing/groups/publ-wg/
 * Publication Manifest:
     * First Public Working Draft (FPWD): Q3 2019 (✓)
     * Candidate Recommendation (CR): Q4 2019 (✓)
-    * Recommendation (CR): Q3 2020
+    * Proposed Recommendation (PR): Q4 2020
+    * Recommendation (REC): Q4 2020
 * Audiobooks:
     * First Public Working Draft (FPWD): Q1 2019 (✓)
     * Candidate Recommendation (CR): Q4 2019 (✓)
-    * Recommendation (CR): Q3 2020
+    * Proposed Recommendation (PR): Q4 2020
+    * Recommendation (REC): Q4 2020
 * Lightweight Packaging Format (LPF):
     * First Public Working Draft (FPWD): Q3 2019 (✓)
     * Working Group Note: Q4 2019 (✓)

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -10 512 157" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -10 580 157" xml:space="preserve">
 
     <style type="text/css">
 		@font-face {
@@ -16,7 +16,7 @@
 
     <!-- base line -->
     <line class="baseline" stroke="grey" stroke-dasharray="6,6" stroke-width="0.5"
-		  x1="15.5" y1="120" x2="493.5" y2="120" />
+		  x1="15.5" y1="120" x2="570" y2="120" />
 
     <defs>
 		<desc>Lines used as tickmarks on the baseline; red for the January entries, black for the others</desc>
@@ -90,6 +90,14 @@
             <use xlink:href="#black_tickline" />
             <text x="-8" y="20" font-family="Noto Sans" font-size="6">jul ‘20</text>
         </g>
+		<g transform="translate(509,115)">
+            <use xlink:href="#black_tickline" />
+            <text x="-8" y="20" font-family="Noto Sans" font-size="6">oct ‘20</text>
+        </g>
+		<g transform="translate(545,115)">
+            <use xlink:href="#red_tickline" />
+            <text x="-8" y="20" font-family="Noto Sans" font-size="6">jan ‘21</text>
+        </g>
     </g>
 
     <defs>
@@ -137,7 +145,7 @@
 				</text>
             </g>
 
-            <g transform="translate(456,117)">
+            <g transform="translate(528,117)">
                 <use xlink:href="#milestone_line" />
 				<text font-family="Noto Sans" font-size="7" transform="translate(0,-3.5)">
 					<textPath xlink:href="#milestone_line" startOffset="31%">REC: PM, AB</textPath>
