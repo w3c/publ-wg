@@ -2,6 +2,8 @@
 layout: default
 ---
 
+** _<span style="font-size: 120%">This page is now obsolete; the WG calls have moved away from GTM and use Zoom now. Please look at the [member confidential mail](https://lists.w3.org/Archives/Member/member-publ-wg/2020AprJun/0000.html) for further information</span>_ **
+
 # GoToMeeting information for regular calls
 {: .no_toc}
 
