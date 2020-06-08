@@ -12,7 +12,8 @@ layout: default
 
 ### Working Group Meetings
 
-* 27-06: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Apr/0005.html), [Minutes](2020/2020-04-27-pwg)
+* 06-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Jun/0000.html), [Minutes](2020/2020-06-08-pwg)
+* 04-27: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Apr/0005.html), [Minutes](2020/2020-04-27-pwg)
 * 04-06: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Apr/0000.html), [Minutes](2020/2020-04-06-pwg)
 * 03-23: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Mar/0021.html), [Minutes](2020/2020-03-23-pwg)
 * 03-02: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Feb/0012.html), [Minutes](2020/2020-03-02-pwg)
