@@ -12,6 +12,7 @@ layout: default
 
 ### Working Group Meetings
 
+* 07-27: [Agenda](https://www.w3.org/mid/AC3DD8B7-852A-4861-872B-CF6227B8E496@rakuten.com), [Minutes](2020/2020-07-27-pwg)
 * 06-29: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Jun/0013.html), [Minutes](2020/2020-06-29-pwg)
 * 06-08: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Jun/0000.html), [Minutes](2020/2020-06-08-pwg)
 * 04-27: [Agenda](https://lists.w3.org/Archives/Public/public-publ-wg/2020Apr/0005.html), [Minutes](2020/2020-04-27-pwg)
