@@ -1,0 +1,37 @@
+
+
+Denis,
+
+This is an official publication request for the publication of two EPUB WG documents as Proposed Recommendations. The publication date is the 29th of September, 2020. The transition request for PR has been issued in:
+
+	https://github.com/w3c/transitions/issues/@@@@
+
+the Director's approval is in:
+
+	@@@@
+
+Document Titles and URL-s
+-------------------------
+
+Publication Manifest
+--------------------
+
+https://www.w3.org/TR/2020/PR-pub-manifest-20200929/
+
+
+Audiobooks
+----------
+
+https://www.w3.org/TR/2020/PR-audiobooks-20200929/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL-s
+
+The documents are already in place and I will make sure they will pass the pubrules' checker. I will send, once those checks are done, additional remarks on the pubrules' checker output, in case there are any.
+
+Thanks!
+
+Ivan
