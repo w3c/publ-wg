@@ -28,7 +28,8 @@ See:
 
 # Link to group's decision to request transition
 
-https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2020/2020-09-14-pwg#@@@@@@@
+- https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2020/2020-09-14-pwg.html#resolution1
+- https://www.w3.org/publishing/groups/publ-wg/Meetings/Minutes/2020/2020-09-14-pwg.html#resolution2
 
 # Changes
 
