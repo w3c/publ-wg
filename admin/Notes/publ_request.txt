@@ -1,0 +1,37 @@
+
+
+Denis,
+
+This is an official publication request for the publication of two Publishing WG Notes. The publication date is the 1st of October, 2020. The Working Group's voting result to ask for the publication is in:
+
+   https://lists.w3.org/Archives/Public/public-publ-wg/2020Sep/0024.html
+
+Both notes represent work of the Working Group that were originally on rec-track but have been abandoned. They have never been properly installed under ECHIDNA either.
+
+The publication date should be on the 1st of October, in sync with the PR publications of the Publishing Manifest and the Audiobooks specs.
+
+Document Titles and URL-s
+=========================
+
+Web Annotation Extensions for Web Publications
+----------------------------------------------
+
+https://www.w3.org/TR/2020/NOTE-wpub-ann-20201001/
+
+
+Packaged Web Publications
+-------------------------
+
+https://www.w3.org/TR/2020/NOTE-pwpub-20201001/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL-s
+
+The documents are already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan
