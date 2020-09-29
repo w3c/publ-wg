@@ -1,21 +1,26 @@
-Dear Advisory Committee representative,
+Subject: VOTE by 2020-10-30: Publication Manifest and Audiobooks are W3C Proposed Recommendations
+---
+Dear Advisory Committee Representative,
+Chairs,
 
-W3C is pleased to announce the advancement of Publication Manifest and the Audiobooks specifications to Proposed Recommendation:
+W3C is pleased to announce the advancement of Publication Manifest and Audiobooks specifications to Proposed Recommendations:
   https://www.w3.org/TR/2020/PR-pub-manifest-20201001/
   https://www.w3.org/TR/2020/PR-audiobooks-20201001/
+
+Please review the specifications and indicate whether you endorse them as W3C Recommendations or object to the advancement by completing the following questionnaire:
+  https://www.w3.org/2002/09/wbs/33280/audiobooks-pr/
+
+The deadline for responses is 03:59 UTC/GMT on 2020-10-31 (23:59 Boston time on 2020-10-30).
 
 The approval and publication are in response to this transition request:
   https://github.com/w3c/transitions/issues/266
 
-Please review the specification and indicate whether you endorse it as a W3C Recommendation or object to its advancement by completing the following questionnaire:
-  https://www.w3.org/2002/09/wbs/33280/audiobooks-pr/
-
-Future updates to this specification may incorporate new features, following
+Future updates to these specifications may incorporate new features, following
   https://www.w3.org/2020/Process-20200915/#allow-new-features
 
-Additional details about the review are available in the questionnaire. The deadline for responses is: 2020-10-30.
+Additional details about the review are available in the questionnaire. 
 
-More information about the Publishing Working Group is  available on the group home page:
+More information about the Publishing Working Group is available on the group home page:
   https://www.w3.org/publishing/groups/publ-wg/
 
 If you should have any questions or need further information, please contact Ivan Herman <ivan@w3.org>, Publishing Working Group Team Contact.
@@ -23,41 +28,8 @@ If you should have any questions or need further information, please contact Iva
 This Call for Review follows section 6.2.9 of the W3C Process Document:
   https://www.w3.org/2020/Process-20200915/#transition-pr
 
-
 Thank you,
 
 For Tim Berners-Lee, W3C Director,
 Philippe Le Hégaret, Project Management Lead,
-Ivan Herman, Publishing Team Contact;
-Xueyuan Jia, W3C Marketing & Communications
-
-==============================================
-Quoting from
-
-Publication Manifest
-W3C Proposed Recommendation 01 October 2020
-
-This Version:
-  https://www.w3.org/TR/2020/PR-pub-manifest-20201001/
-Latest Published Version:
-  https://www.w3.org/TR/pub-manifest/
-
-For the abstract and the status section see
-  https://www.w3.org/TR/2020/PR-pub-manifest-20201001/#abstract
-  https://www.w3.org/TR/2020/PR-pub-manifest-20201001/#sotd
-
-
-Audiobooks
-W3C Proposed Recommendation 01 October 2020
-
-This Version:
-  https://www.w3.org/TR/2020/PR-audiobooks-20201001/
-Latest Published Version:
-  https://www.w3.org/TR/audiobooks/
-
-For the abstract and the status section see
-  https://www.w3.org/TR/2020/PR-audiobooks-20201001/#abstract
-  https://www.w3.org/TR/2020/PR-audiobooks-20201001/#sotd
-
-
-==============================================
+Ivan Herman, Publishing WG Team Contact;
