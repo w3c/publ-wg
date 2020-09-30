@@ -11,8 +11,6 @@ The deadline for responses is 23:59 Boston time on 2020-10-30.
 
 The Working Group will maintain the Audiobooks specifications (i.e., Publication Manifest and Audiobooks) that together provide an easy way of creating Audiobooks, i.e., a collection of audio resources grouped together by a reading order, metadata, and resources, all contained in a manifest. This Audiobook can live on the Open Web Platform, or as a packaged entity.
 
-There are no new deliverables with licensing obligations under the W3C Patent Policy. Current group [1] participants will not need to re-join under the new charter.
-
 Proposed Team Contact time is 0.05 FTE.
 
 If you have any questions or need further information, please contact: Ivan Herman, Audiobooks WG Staff Contact, at ivan@w3.org
@@ -27,4 +25,3 @@ Philippe Le Hegaret, Project Management Lead, and
 Ivan Herman, Audiobooks WG Staff Contact;
 Xueyuan Jia, W3C Marketing & Communications
 
-[1] https://www.w3.org/2002/09/wbs/33280/audiobooks-wg/Publishing%20Working%20Group
