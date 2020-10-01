@@ -11,8 +11,8 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:---:|
-| Publication Manifest | [CR](https://www.w3.org/TR/pub-manifest/) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
-| Audiobooks | [CR](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
+| Publication Manifest | [PR](https://www.w3.org/TR/pub-manifest/) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
+| Audiobooks | [PR](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
 | Lightweight Packaging Format | [Note](https://www.w3.org/TR/lpf/) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
 {: .zebra}
 
@@ -22,12 +22,12 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:----:|
-| Web Publications Use Cases and Requirements | [note](https://www.w3.org/TR/pwp-ucr/) | [ed](https://w3c.github.io/dpub-pwp-ucr/)| [dpub-pwp-ucr/](https://github.com/w3c/dpub-pwp-ucr/)  | Published as a Note, not pursued |
+| Web Publications Use Cases and Requirements | [Note](https://www.w3.org/TR/pwp-ucr/) | [ed](https://w3c.github.io/dpub-pwp-ucr/)| [dpub-pwp-ucr/](https://github.com/w3c/dpub-pwp-ucr/)  | Published as a Note, not pursued |
 | Web Publications—Manifest and Structure       | [Note](https://www.w3.org/TR/wpub/) | [ed](https://w3c.github.io/wpub/)              | [wpub](https://github.com/w3c/wpub/) | Published as a Note, not pursued
-| Web Annotation Extensions for Web Publications | [wd](https://www.w3.org/TR/wpub-ann/) | [ed](https://w3c.github.io/wpub-ann/) | [publ-loc](https://github.com/w3c/wpub-ann/) | Not pursued actively |
-| Packaged Web Publications  | [wd](https://www.w3.org/TR/pwpub/) | [ed](https://w3c.github.io/pwpub/) | [pwpub](https://github.com/w3c/pwpub/) | Pending on the W3C Web Packaging work |
-| DPUB ARIA 2.0     | (none yet) | ([ed](https://w3c.github.io/dpub-aria-2.0/))†  | [dpub-aria-2.0](https://github.com/w3c/dpub-aria-2.0) | On hold of [ARIA 1.2](https://w3c.github.io/aria/) |
-| EPUB4             | (none yet) | ([ed](https://w3c.github.io/epub4/))†          | [epub4](https://github.com/w3c/epub4/)  | Future of this work is pending on business need |
+| Web Annotation Extensions for Web Publications | [Note](https://www.w3.org/TR/wpub-ann/) | [ed](https://w3c.github.io/wpub-ann/) | [publ-loc](https://github.com/w3c/wpub-ann/) | Not pursued actively |
+| Packaged Web Publications  | [Note](https://www.w3.org/TR/pwpub/) | [ed](https://w3c.github.io/pwpub/) | [pwpub](https://github.com/w3c/pwpub/) | Pending on the W3C Web Packaging work |
+| DPUB ARIA 2.0     | (none) | ([ed](https://w3c.github.io/dpub-aria-2.0/))†  | [dpub-aria-2.0](https://github.com/w3c/dpub-aria-2.0) | On hold of [ARIA 1.2](https://w3c.github.io/aria/) |
+| EPUB4             | (none) | ([ed](https://w3c.github.io/epub4/))†          | [epub4](https://github.com/w3c/epub4/)  | Future of this work is pending on business need |
 {: .zebra}
 
 <!-- <div data-apiary="specifications"></div> -->
@@ -42,19 +42,22 @@ The milestones [have been updated](https://www.w3.org/publishing/groups/publ-wg/
 * Publication Manifest:
     * First Public Working Draft (FPWD): Q3 2019 (✓)
     * Candidate Recommendation (CR): Q4 2019 (✓)
-    * Proposed Recommendation (PR): Q4 2020
+    * Proposed Recommendation (PR): Q4 2020 (✓)
     * Recommendation (REC): Q4 2020
 * Audiobooks:
     * First Public Working Draft (FPWD): Q1 2019 (✓)
     * Candidate Recommendation (CR): Q4 2019 (✓)
-    * Proposed Recommendation (PR): Q4 2020
+    * Proposed Recommendation (PR): Q4 2020 (✓)
     * Recommendation (REC): Q4 2020
 * Lightweight Packaging Format (LPF):
     * First Public Working Draft (FPWD): Q3 2019 (✓)
     * Working Group Note: Q4 2019 (✓)
 * Web Publications—Manifest and Structure:
     * First Public Working Draft (FPWD): Q4 2017 (✓)
-    * Working Group Note: Q3 2019. (✓)
+    * Working Group Note: Q3 2019 (✓)
+* Web Annotation Extensions for Web Publications
+    * First Public Working Draft (FPWD): Q4 2017 (✓)
+    * Working Group Note: Q4 2020 (✓)
 * DPUB-ARIA 2.0:
     * On hold pending the timeline of the [ARIA 1.2](https://w3c.github.io/aria/) work
 
