@@ -1,0 +1,32 @@
+[DRAFT] Publication Manifest and Audiobooks are W3C Recommendations
+-------------------------------------------
+
+
+Dear Advisory Committee Representative,
+Chairs,
+   
+It is my pleasure to announce that the Publication Manifest and the Audiobooks specifications are now W3C Recommendations:
+
+Publication Manifest
+	https://www.w3.org/TR/2020/REC-pub-manifest-20201110/
+
+Audiobooks
+	https://www.w3.org/TR/2020/REC-audiobooks-20201110/
+
+The Publication Manifest specification defines a general manifest format for expressing information about a digital publication. It uses schema.org metadata augmented to include various structural properties about publications, and serialized in JSON-LD, to enable interoperability between publishing formats while accommodating variances in the information that needs to be expressed.
+
+The Audiobooks specification describes the requirements for the creation of audiobooks, using a profile of the Publication Manifest specification.
+
+All Members who responded to the Call for Review [1] of the Proposed Recommendation showed support (with two abstentions), with several reviewers indicating that they produce or expect to produce products that use this specification.
+
+Please join us in congratulating the W3C Publishing Working Group [2] on this achievement.
+
+Thank you,
+
+For Tim Berners-Lee, Director, and
+Philippe Le Hégaret, Project Management Lead;
+Ivan Herman, Publishing Working Group Staff Contact;
+Xueyuan Jia, W3C Marketing & Communications
+
+[1] https://www.w3.org/2002/09/wbs/33280/audiobooks-pr/
+[2] https://www.w3.org/publishing/groups/publ-wg/
