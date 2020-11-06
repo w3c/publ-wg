@@ -11,14 +11,14 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:---:|
-| Publication Manifest | [PR](https://www.w3.org/TR/pub-manifest/) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
-| Audiobooks | [PR](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
+| Publication Manifest | [Rec](https://www.w3.org/TR/pub-manifest/) | [ed](https://w3c.github.io/pub-manifest/)         | [pub-manifest](https://github.com/w3c/pub-manifest/)    | Rec-track |
+| Audiobooks | [Rec](https://www.w3.org/TR/audiobooks/) | [ed](https://w3c.github.io/audiobooks/)         | [audiobooks](https://github.com/w3c/audiobooks/)                | Rec-track |
 | Lightweight Packaging Format | [Note](https://www.w3.org/TR/lpf/) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
 {: .zebra}
 
 
 
-### Documents on hold or closed
+### Closed Documents
 
 | Document | Latest official release | Editors’ Draft | Repository | Note |
 |----------|:-----------------------:|:--------------:|:----------:|:----:|
@@ -27,7 +27,6 @@ layout: default
 | Web Annotation Extensions for Web Publications | [Note](https://www.w3.org/TR/wpub-ann/) | [ed](https://w3c.github.io/wpub-ann/) | [publ-loc](https://github.com/w3c/wpub-ann/) | Not pursued actively |
 | Packaged Web Publications  | [Note](https://www.w3.org/TR/pwpub/) | [ed](https://w3c.github.io/pwpub/) | [pwpub](https://github.com/w3c/pwpub/) | Pending on the W3C Web Packaging work |
 | DPUB ARIA 2.0     | (none) | ([ed](https://w3c.github.io/dpub-aria-2.0/))†  | [dpub-aria-2.0](https://github.com/w3c/dpub-aria-2.0) | On hold of [ARIA 1.2](https://w3c.github.io/aria/) |
-| EPUB4             | (none) | ([ed](https://w3c.github.io/epub4/))†          | [epub4](https://github.com/w3c/epub4/)  | Future of this work is pending on business need |
 {: .zebra}
 
 <!-- <div data-apiary="specifications"></div> -->

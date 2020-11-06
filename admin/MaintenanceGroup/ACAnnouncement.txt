@@ -28,7 +28,7 @@ We called for charter review on 1 October 2020:
 https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0001.html
 
 Thanks to the 26 Members who provided input:
-https://www.w3.org/2002/09/wbs/33280/audiobooks-wg/results
+    https://www.w3.org/2002/09/wbs/33280/audiobooks-wg/results
 
 All 26 reviewers supported the charter.
 
