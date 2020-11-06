@@ -22,7 +22,7 @@ https://www.w3.org/TR/2020/REC-pub-manifest-20201110/
 Audiobooks
 ----------
 
-https://www.w3.org/TR/2020/REC-audiobooks-20201101/
+https://www.w3.org/TR/2020/REC-audiobooks-20201110/
 
 
 Abstract and Status Sections
