@@ -16,6 +16,7 @@ layout: default
 | Lightweight Packaging Format | [Note](https://www.w3.org/TR/lpf/) | [ed](https://w3c.github.io/lpf/)         | [lpf](https://github.com/w3c/lpf/) | Not rec-track
 {: .zebra}
 
+Note: these documents can also be downloaded as an [EPUB 3.2 publication](https://www.w3.org/publishing/groups/publ-wg/publications/manifest_audiobooks.epub) containing all three specifications.
 
 
 ### Closed Documents
