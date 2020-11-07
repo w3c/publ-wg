@@ -8,7 +8,7 @@ This is an official publication request for the publication of two Publishing WG
 
 the Director's approval is in:
 
-	https://github.com/w3c/transitions/issues/281#@@@@@@
+	https://lists.w3.org/Archives/Team/w3t-comm/2020Nov/0057.html
 
 Document Titles and URL-s
 =========================

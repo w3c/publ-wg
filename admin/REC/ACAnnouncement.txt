@@ -17,7 +17,7 @@ The Publication Manifest specification defines a general manifest format for exp
 
 The Audiobooks specification describes the requirements for the creation of audiobooks, using a profile of the Publication Manifest specification.
 
-All Members who responded to the Call for Review [1] of the Proposed Recommendation showed support (with two abstentions), with several reviewers indicating that they produce or expect to produce products that use this specification.
+All Members who responded to the Call for Review [1] of the Proposed Recommendation showed support (with two abstentions), with several reviewers indicating that they produce, or expect to produce, products that use this specification.
 
 Please join us in congratulating the W3C Publishing Working Group [2] on this achievement.
 
