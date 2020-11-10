@@ -1,0 +1,49 @@
+Dear Advisory Committee Representative,
+Chairs,
+
+The Director is pleased to announce the approval of the Audiobooks Working Group charter:
+   https://www.w3.org/2020/11/audiobooks-wg-charter.html
+
+The group is chartered through 31 December 2022.
+
+With the successful publication of the Publication Manifest and the Audiobooks Recommendations by the Publishing Working Group[1], the mission of the Audiobooks Working Group is to maintain these Recommendations and related Working Group Notes.
+
+This Working Group is a continuation of the previous Publishing Working Group[2], with a similar scope and a reduced focus.
+
+Please use the following form to join the group. The form will also instruct you how to nominate participants:
+   https://www.w3.org/2004/01/pp-impl/100074/join
+
+Because the group is rechartered under the new Patent Policy 2020, current participants of the Publishing Working Group[2] will need to rejoin the group.
+
+The Working Group Chair are Garth Conboy (Google), Wendy Reid (Rakuten, Inc.), and Tzviya Siegman (John Wiley & Sons., Inc.). Team Contact is Ivan Herman for a total of 0.05 FTE.
+
+More information about the Audiobooks Working Group can be found on the group’s home page:
+   https://www.w3.org/publishing/groups/publ-wg/
+
+-----------------------------
+Results of Charter Call for Review
+-----------------------------
+
+We called for charter review on 1 October 2020:
+https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0001.html
+
+Thanks to the 26 Members who provided input:
+    https://www.w3.org/2002/09/wbs/33280/audiobooks-wg/results
+
+All 26 reviewers supported the charter.
+
+This announcement follows section 7.1.2 of the W3C Process Document:
+   https://www.w3.org/2020/Process-20200915/#ACReviewAfter
+
+and the Call for Participation follows section 5.2.4 of the W3C Process Document:
+   https://www.w3.org/2020/Process-20200915/#cfp
+
+Thank you,
+
+For Tim Berners-Lee, W3C Director,
+Philippe Le Hégaret, Project Management Lead,
+Ivan Herman, Audiobooks WG Team Contact;
+Xueyuan Jia, W3C Marketing & Communications
+
+[1] @@@URL of the Rec announcement for the Publication Manifest and the Audiobooks specs@@@
+[2] https://www.w3.org/publishing/groups/publ-wg/

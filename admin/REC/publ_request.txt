@@ -1,0 +1,39 @@
+
+
+Denis,
+
+This is an official publication request for the publication of two Publishing WG documents as Recommendations. The publication date is the 10th of November, 2020. The transition request for PR has been issued in:
+
+	https://github.com/w3c/transitions/issues/281
+
+the Director's approval is in:
+
+	https://lists.w3.org/Archives/Team/w3t-comm/2020Nov/0057.html
+
+Document Titles and URL-s
+=========================
+
+Publication Manifest
+--------------------
+
+https://www.w3.org/TR/2020/REC-pub-manifest-20201110/
+
+
+Audiobooks
+----------
+
+https://www.w3.org/TR/2020/REC-audiobooks-20201110/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL-s
+
+The documents are already in place and went through pubrules' checker. 
+
+Xueyuan, I will send you the draft AC and HPN announcements in a separate mail.
+
+Thanks!
+
+Ivan

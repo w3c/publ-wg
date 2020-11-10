@@ -7,7 +7,7 @@ layout: default
 
 This document defines and describes the Publishing WG's *Real Work Modes*, including Participation and Communication, Meetings, Calls for Consensus, Mail List usage, and links to important resources.
 
-Note that the [WG's Charter](https://www.w3.org/2017/04/publ-wg-charter/) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, this document contains additional information about how the group *really* works, so this information may be particularly useful to new members of the group.
+Note that the [WG's Charter](https://www.w3.org/2020/11/audiobooks-wg-charter) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, this document contains additional information about how the group *really* works, so this information may be particularly useful to new members of the group.
 
 This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository](https://github.com/w3c/publ-wg/) or via emails sent to the group’s [`public-publ-wg@w3.org`](mailto:public-publ-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode]…</code>.
 
@@ -19,7 +19,7 @@ This document is a *Living Document* and as such will change. Members of the gro
 
 ## Participation and Communication
 
-The group's formal Participation and Communication models are documented in the [Participation](https://www.w3.org/2017/04/publ-wg-charter/#participation) and [Communications](https://www.w3.org/2017/04/publ-wg-charter/#communication) sections of its Charter, respectively.
+The group's formal Participation and Communication models are documented in the [Participation](https://www.w3.org/2020/11/audiobooks-wg-charter#participation) and [Communications](https://www.w3.org/2020/11/audiobooks-wg-charter#communication) sections of its Charter, respectively.
 
 A WG member may participate in various ways including:
 
@@ -44,7 +44,7 @@ Participation from the Public (i.e., non group members), via our Public e-mail l
 #### Teleconferences
 {: #telco}
 
-Teleconferences are held weekly at a time agreed upon by the group. The meeting and its agenda is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting and are automatically published after the meeting in a provisional format. A more readable, cleaned-up format is published usually within 24 hours after the meeting ends. These minutes are considered as “Drafts” until they are approved at the next teleconference when they become official.
+Teleconferences are held at a time agreed upon by the group (but there are no regular meetings). The meeting and its agenda is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting and are automatically published after the meeting in a provisional format. A more readable, cleaned-up format is published usually within 24 hours after the meeting ends. These minutes are considered as “Drafts” until they are approved at the next teleconference when they become official.
 
 The charter also says that:
 
@@ -53,6 +53,7 @@ The charter also says that:
 By default, publication of the draft meeting minutes is considered as a call for consensus for any formal resolution therein. However, depending on the assessment and the importance of a specific resolution at hand, the chairs may issue an more explicit CfC by email when the issue requires more details and explanations.
 
 #### Face-to-face meetings
+
 For Face-to-face meetings, there **should** be **8 weeks** notice of the city and date/time. Exact venue information is not required so early, but it is helpful especially in large cities so people traveling can get appropriate accommodation. The chairs and staff can help organize invitations for people who need them to obtain a visa, given sufficient notice.
 
 The consortium usually has an annual [“Technical Plenary and All Working Group”](//www.w3.org/2002/09/TPOverview.html) face-to-face meeting week (a.k.a “TPAC”) and this group typically has a f2f meeting during that week. The dates/locations are generally known a year or more in advance.
@@ -60,7 +61,7 @@ The consortium usually has an annual [“Technical Plenary and All Working Group
 For the minutes, resolutions, and consensus achieved at the f2f meetings the same [rules](#telco) as for teleconferences apply.
 
 ### Meeting observers
-It is possible for people who are not members of the Publishing WG to attend meetings as observers. Non-members have not made any commitment to provide standard W3C royalty-free licensing, so non-members are restricted to observer status only.
+It is possible for people who are not members of the Audiobooks WG to attend meetings as observers. Non-members have not made any commitment to provide standard W3C royalty-free licensing, so non-members are restricted to observer status only.
 
 Observers may listen, and participate in general discussions during the meeting. However, they must not make technical contributions, or attempt to influence an approach to a feature that may become part of the specification being discussed.
 
@@ -113,9 +114,9 @@ Each repository, including the “core” WG repository, has a wiki instance. Me
 
 ## Patent Policy
 
-The WG's Charter defines the [Patent Policy for this group](https://www.w3.org/2017/04/publ-wg-charter/#patentpolicy):
+The WG's Charter defines the [Patent Policy for this group](https://www.w3.org/2020/11/audiobooks-wg-charter#patentpolicy):
 
-> This Working Group operates under the [W3C Patent Policy](//www.w3.org/Consortium/Patent-Policy-20040205/) (5 February 2004 Version). To promote the widest adoption of Web standards, W3C seeks to issue Recommendations that can be implemented, according to this policy, on a Royalty-Free basis. For more information about disclosure obligations for this group, please see the [W3C Patent Policy Implementation](//www.w3.org/2004/01/pp-impl/).
+> This Working Group operates under the [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20200915/) (15 September 2020 Version). To promote the widest adoption of Web standards, W3C seeks to issue Recommendations that can be implemented, according to this policy, on a Royalty-Free basis. For more information about disclosure obligations for this group, please see the [W3C Patent Policy Implementation](//www.w3.org/2004/01/pp-impl/).
 
 A consequence of the group's Patent Policy is that, although comments from non-WG participants are welcome, in general, specific contributions for the group's specifications from non-WG participants are not permitted. See the W3C Patent Policy FAQ titled [*How should Working Groups handle contributions from non-participants (e.g., meeting guests or on public lists)?*](https://www.w3.org/2003/12/22-pp-faq.html#non-participants) for more information about contributions from non-WG participants. Non-WG participants may contribute to the group's specifications if they have agreed to the terms in [*Licensing commitments from non-W3C Members*](https://www.w3.org/2004/01/pp-impl/100074/nmlc).
 

@@ -1,0 +1,19 @@
+Following the successful AC vote, closed on the 30th of October, for the Audiobooks WG charter:
+
+   https://www.w3.org/2002/09/wbs/33280/audiobooks-wg/
+
+which had 26 responders, all in favor, I would like the Director to approve the charter at:
+
+   https://www.w3.org/2020/11/audiobooks-wg-charter.html
+
+There were only editorial changes on the charter text since the AC review started:
+
+- Anticipating the publication of the corresponding Recommendations (DD pending[1]) the references have been updated
+- The relevant charter history table row on the proposal have been clarified
+
+Thanks
+
+Ivan
+
+[1] https://github.com/w3c/transitions/issues/281
+

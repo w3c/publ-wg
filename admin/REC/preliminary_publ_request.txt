@@ -1,0 +1,31 @@
+
+
+Denis,
+
+This is a preliminary publication request for the publication of two Publishing WG documents as Recommendations. The publication date is planned to be on the 10th of November, 2020. I expect the official DD coming today, and you will then receive the official publication request on the week end. This mail is only to help you planning your work,
+
+Document Titles and URL-s
+=========================
+
+Publication Manifest
+--------------------
+
+https://www.w3.org/TR/2020/REC-pub-manifest-20201110/
+
+
+Audiobooks
+----------
+
+https://www.w3.org/TR/2020/REC-audiobooks-20201110/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL-s
+
+The documents are already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan

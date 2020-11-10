@@ -1,0 +1,10 @@
+Subject: [DRAFT HPN] Recommendations published for the Publication Manifest and Audiobooks
+
+----------------------------
+
+<p>The <a href="https://www.w3.org/publishing/groups/publ-wg/">Publishing Working Group</a> has just published a Recommendation for two documents, namely:</p>
+
+<ul>
+<li><a href="https://www.w3.org/TR/2020/REC-pub-manifest-20201110/">Publication Manifest</a>—This specification defines a general manifest format for expressing information about a digital publication. It uses <a href='http://schema.org'>schema.org</a> metadata augmented to include various structural properties about publications, serialized in JSON-LD, to enable interoperability between publishing formats while accommodating variances in the information that needs to be expressed.</li>
+<li><a href="https://www.w3.org/TR/2020/REC-audiobooks-20201110/">Audiobooks</a>—This specification describes the requirements for the creation of audiobooks, using a profile of the Publication Manifest specification.</li>
+</ul>

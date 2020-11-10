@@ -10,7 +10,7 @@ layout: default
 
 ## Teleconferences
 
-The weekly teleconferences are held _every week on Mondays_, at *noon US Eastern time* (see the [time zone calculator](https://goo.gl/ujkGY1) for the exact timing for your time zone). See the [separate member confidential page](https://lists.w3.org/Archives/Member/member-publ-wg/2020AprJun/0000.html) for the dial-in information.
+As a maintenance group, this Working Group does not hold regular meetings.
 
 The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#pwg` channel, and makes use of two bots on IRC:
 
