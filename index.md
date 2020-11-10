@@ -4,7 +4,7 @@ json-ld: |
   {
       "@context": "http://schema.org/",
       "@type": "Organization",
-      "name": "Publishing Working Group",
+      "name": "Audiobook Working Group",
       "url": "https://www.w3.org/publishing/groups/publ-wg/",
       "parentOrganization": {
           "@type": "Organization",
