@@ -4,7 +4,7 @@ json-ld: |
   {
       "@context": "http://schema.org/",
       "@type": "Organization",
-      "name": "Audiobook Working Group",
+      "name": "Audiobooks Working Group",
       "url": "https://www.w3.org/publishing/groups/publ-wg/",
       "parentOrganization": {
           "@type": "Organization",
@@ -18,10 +18,6 @@ json-ld: |
               "@type": "Person",
               "name": "Tzviya Siegman",
               "email": "tsiegman@wiley.com"
-          },{
-              "@type": "Person",
-              "name": "Garth Conboy",
-              "email": "garth@google.com"
           },{
               "@type": "Person",
               "name": "Wendy Reid",
@@ -38,6 +34,6 @@ json-ld: |
 ---
 The mission of the Audiobooks Working Group is to maintain the [Publication Manifest](https://www.w3.org/TR/pub-manifest/) and [Audiobooks](https://www.w3.org/TR/audiobooks/) Recommendations and related Working Group Notes. 
 
-The Co-Chairs of the Working Group are [Tzviya Siegman](mailto:tsiegman@wiley.com)  (Wiley), [Garth Conboy](mailto:garth@google.com) (Google), and [Wendy Reid](mailto:wendy.reid@rakuten.com) (Kobo/Rakuten). The W3C Staff Contact for the Working Group is [Ivan Herman](mailto:ivan@w3.org). The group is chartered until the 31st of December, 2022.
+The Co-Chairs of the Working Group are [Tzviya Siegman](mailto:tsiegman@wiley.com)  (Wiley) and [Wendy Reid](mailto:wendy.reid@rakuten.com) (Kobo/Rakuten). The W3C Staff Contact for the Working Group is [Ivan Herman](mailto:ivan@w3.org). The group is chartered until the 31st of December, 2022.
 
 
