@@ -8,6 +8,10 @@ layout: default
 * TOC
 {:toc}
 
+## 2022
+
+* 01-19: [Agenda](https://www.w3.org/events/meetings/1e1799a6-f588-4e61-badf-2f595f0cb2ec), [Minutes](2022/2022-01-19-pwg)
+
 ## 2020
 
 ### Working Group Meetings
