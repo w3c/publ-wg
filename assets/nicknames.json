@@ -254,7 +254,7 @@
     },
     {
         "nick": [
-            "George"
+            "George", "GeorgeK"
         ],
         "name": "George Kerscher",
         "github": "georgekerscher"
@@ -775,5 +775,12 @@
         "nick": [
             "LarsColibrio", "lars"
         ]
+    },
+    {
+        "name": "Andreas Duchen",
+        "nick": [
+            "andreas"
+        ]
     }
+
 ]
