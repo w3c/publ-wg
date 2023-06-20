@@ -1,6 +1,9 @@
 
 ![W3C Logo](https://www.w3.org/Icons/w3c_home)
 
+> **This Working Group has been closed on the 20th of June 2023. The maintenance of the WG documents have been taken over by the
+ [Publishing Maintenance Working Group](https://www.w3.org/groups/wg/pm).**
+
 # W3C Audiobooks (formerly Publishing) Working Group
 
 This is the repository for the home page of the W3C Publishing Working Group:
